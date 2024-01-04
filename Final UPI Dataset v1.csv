@@ -1,0 +1,3277 @@
+month_year,state_name,volume_in_cr,value_in_cr,users_in_lakhs,transactions_in_lakhs
+April 2016,Andaman and Nicobar Islands,0.05,0.25,0.01,0.05
+May 2016,Andaman and Nicobar Islands,0.06,0.3,0.02,0.10
+June 2016,Andaman and Nicobar Islands,0.07,0.35,0.03,0.15
+July 2016,Andaman and Nicobar Islands,0.08,0.4,0.04,0.20
+August 2016,Andaman and Nicobar Islands,0.09,0.45,0.05,0.25
+September 2016,Andaman and Nicobar Islands,0.1,0.5,0.06,0.30
+October 2016,Andaman and Nicobar Islands,0.12,0.55,0.08,0.35
+November 2016,Andaman and Nicobar Islands,0.15,0.65,0.10,0.45
+December 2016,Andaman and Nicobar Islands,0.2,0.75,0.15,0.55
+January 2017,Andaman and Nicobar Islands,0.25,0.85,0.20,0.65
+February 2017,Andaman and Nicobar Islands,0.3,0.95,0.25,0.75
+March 2017,Andaman and Nicobar Islands,0.35,1.05,0.30,0.85
+April 2017,Andaman and Nicobar Islands,0.4,1.15,0.35,0.95
+May 2017,Andaman and Nicobar Islands,0.45,1.25,0.40,1.05
+June 2017,Andaman and Nicobar Islands,0.5,1.35,0.45,1.15
+July 2017,Andaman and Nicobar Islands,0.6,1.55,0.55,1.35
+August 2017,Andaman and Nicobar Islands,0.7,1.75,0.65,1.55
+September 2017,Andaman and Nicobar Islands,0.8,1.95,0.75,1.75
+October 2017,Andaman and Nicobar Islands,0.9,2.15,0.85,1.95
+November 2017,Andaman and Nicobar Islands,1,2.35,0.95,2.15
+December 2017,Andaman and Nicobar Islands,1.2,2.7,1.10,2.45
+January 2018,Andaman and Nicobar Islands,1.4,3.05,1.25,2.75
+February 2018,Andaman and Nicobar Islands,1.6,3.4,1.40,3.05
+March 2018,Andaman and Nicobar Islands,1.8,3.75,1.55,3.35
+April 2018,Andaman and Nicobar Islands,2,4.1,1.70,3.65
+May 2018,Andaman and Nicobar Islands,2.25,4.6,1.90,4.10
+June 2018,Andaman and Nicobar Islands,2.5,5.1,2.10,4.55
+July 2018,Andaman and Nicobar Islands,2.75,5.6,2.30,5.00
+August 2018,Andaman and Nicobar Islands,3,6.1,2.50,5.45
+September 2018,Andaman and Nicobar Islands,3.3,6.75,2.75,6.05
+October 2018,Andaman and Nicobar Islands,3.6,7.4,3.00,6.65
+November 2018,Andaman and Nicobar Islands,3.9,8.05,3.25,7.25
+December 2018,Andaman and Nicobar Islands,4.35,8.9,3.60,8.00
+January 2019,Andaman and Nicobar Islands,4.8,9.75,3.95,8.75
+February 2019,Andaman and Nicobar Islands,5.25,10.6,4.30,9.50
+March 2019,Andaman and Nicobar Islands,5.7,11.45,4.65,10.25
+April 2019,Andaman and Nicobar Islands,6.15,12.3,5.00,11.00
+May 2019,Andaman and Nicobar Islands,6.75,13.6,5.50,12.10
+June 2019,Andaman and Nicobar Islands,7.35,14.9,6.00,13.20
+July 2019,Andaman and Nicobar Islands,7.95,16.2,6.50,14.30
+August 2019,Andaman and Nicobar Islands,8.55,17.5,7.00,15.40
+September 2019,Andaman and Nicobar Islands,9.15,18.8,7.50,16.50
+October 2019,Andaman and Nicobar Islands,9.75,20.1,8.00,17.60
+November 2019,Andaman and Nicobar Islands,10.5,21.7,8.60,19.00
+December 2019,Andaman and Nicobar Islands,11.4,23.6,9.30,20.70
+January 2020,Andaman and Nicobar Islands,12.3,25.5,10.00,22.40
+February 2020,Andaman and Nicobar Islands,13.2,27.4,10.70,24.10
+March 2020,Andaman and Nicobar Islands,14.1,29.3,11.40,25.80
+April 2020,Andaman and Nicobar Islands,15,31.1,12.10,27.50
+May 2020,Andaman and Nicobar Islands,16,33,12.90,29.30
+June 2020,Andaman and Nicobar Islands,18.25,37.6,14.75,33.40
+July 2020,Andaman and Nicobar Islands,20.5,42.2,16.60,37.50
+August 2020,Andaman and Nicobar Islands,22.75,46.8,18.45,41.60
+September 2020,Andaman and Nicobar Islands,25,51.4,20.30,45.70
+October 2020,Andaman and Nicobar Islands,27.25,56,22.15,49.80
+November 2020,Andaman and Nicobar Islands,30,61.2,24.45,54.60
+December 2020,Andaman and Nicobar Islands,33.25,67.4,27.30,60.40
+January 2021,Andaman and Nicobar Islands,36.5,73.6,30.15,66.20
+February 2021,Andaman and Nicobar Islands,39.75,79.8,33.00,72.00
+March 2021,Andaman and Nicobar Islands,43,86,35.85,77.80
+April 2021,Andaman and Nicobar Islands,46.25,92.2,38.70,83.60
+May 2021,Andaman and Nicobar Islands,50.5,99.6,42.00,90.20
+June 2021,Andaman and Nicobar Islands,54.75,107,45.30,96.80
+July 2021,Andaman and Nicobar Islands,59,114.4,48.60,103.40
+August 2021,Andaman and Nicobar Islands,63.25,121.8,51.90,110.00
+September 2021,Andaman and Nicobar Islands,67.5,129.2,55.20,116.60
+October 2021,Andaman and Nicobar Islands,71.75,136.6,58.50,123.20
+November 2021,Andaman and Nicobar Islands,77.25,146.4,62.35,131.40
+December 2021,Andaman and Nicobar Islands,83.5,157.4,66.85,140.70
+January 2022,Andaman and Nicobar Islands,89.75,168.4,71.35,150.00
+February 2022,Andaman and Nicobar Islands,96,179.4,75.85,159.30
+March 2022,Andaman and Nicobar Islands,102.25,190.4,80.35,168.60
+April 2022,Andaman and Nicobar Islands,108.5,201.4,84.85,177.90
+May 2022,Andaman and Nicobar Islands,115.5,213.7,90.00,188.10
+June 2022,Andaman and Nicobar Islands,127.25,236.9,100.50,208.90
+July 2022,Andaman and Nicobar Islands,139,260.1,111.00,229.70
+August 2022,Andaman and Nicobar Islands,150.75,283.3,121.50,250.50
+September 2022,Andaman and Nicobar Islands,162.5,306.5,132.00,271.30
+October 2022,Andaman and Nicobar Islands,182.25,347,148.50,306.00
+November 2022,Andaman and Nicobar Islands,197.7,373.2,161.35,331.95
+December 2022,Andaman and Nicobar Islands,214.4,402.8,175.70,360.45
+January 2023,Andaman and Nicobar Islands,231.1,432.4,190.05,388.95
+February 2023,Andaman and Nicobar Islands,241.65,454,198.55,408.30
+March 2023,Andaman and Nicobar Islands,252.2,475.6,207.05,427.65
+April 2023,Andaman and Nicobar Islands,262.75,497.2,215.55,447.00
+May 2023,Andaman and Nicobar Islands,276.9,523.2,226.30,472.50
+June 2023,Andaman and Nicobar Islands,305.6,580.9,250.95,525.50
+July 2023,Andaman and Nicobar Islands,334.3,638.6,275.60,578.50
+August 2023,Andaman and Nicobar Islands,363,696.3,300.25,631.50
+September 2023,Andaman and Nicobar Islands,391.7,754,324.90,684.50
+October 2023,Andaman and Nicobar Islands,420.4,811.7,349.55,737.50
+April 2016,Andhra Pradesh,20.00,950.00,15.00,130.00
+May 2016,Andhra Pradesh,22.00,"1,050.00",15.50,140.00
+June 2016,Andhra Pradesh,24.00,"1,100.00",16.00,150.00
+July 2016,Andhra Pradesh,26.00,"1,200.00",17.00,160.00
+August 2016,Andhra Pradesh,25.00,"1,150.00",16.50,155.00
+September 2016,Andhra Pradesh,27.00,"1,250.00",18.00,170.00
+October 2016,Andhra Pradesh,30.00,"1,300.00",19.00,180.00
+November 2016,Andhra Pradesh,35.00,"1,400.00",21.00,200.00
+December 2016,Andhra Pradesh,45.00,"1,600.00",25.00,230.00
+January 2017,Andhra Pradesh,40.00,"1,500.00",23.00,210.00
+February 2017,Andhra Pradesh,42.00,"1,550.00",24.00,220.00
+March 2017,Andhra Pradesh,50.00,"1,700.00",28.00,250.00
+April 2017,Andhra Pradesh,55.00,"1,850.00",30.00,270.00
+May 2017,Andhra Pradesh,60.00,"1,950.00",32.00,290.00
+June 2017,Andhra Pradesh,62.00,"2,000.00",33.00,300.00
+July 2017,Andhra Pradesh,65.00,"2,100.00",35.00,320.00
+August 2017,Andhra Pradesh,70.00,"2,200.00",37.00,340.00
+September 2017,Andhra Pradesh,75.00,"2,300.00",39.00,360.00
+October 2017,Andhra Pradesh,80.00,"2,400.00",41.00,380.00
+November 2017,Andhra Pradesh,85.00,"2,500.00",43.00,400.00
+December 2017,Andhra Pradesh,90.00,"2,600.00",45.00,420.00
+January 2018,Andhra Pradesh,95.00,"2,700.00",48.00,450.00
+February 2018,Andhra Pradesh,100.00,"2,800.00",50.00,470.00
+March 2018,Andhra Pradesh,120.00,"3,000.00",55.00,500.00
+April 2018,Andhra Pradesh,140.00,"3,250.00",60.00,530.00
+May 2018,Andhra Pradesh,160.00,"3,500.00",65.00,560.00
+June 2018,Andhra Pradesh,180.00,"3,750.00",70.00,600.00
+July 2018,Andhra Pradesh,200.00,"4,000.00",75.00,640.00
+August 2018,Andhra Pradesh,220.00,"4,250.00",80.00,680.00
+September 2018,Andhra Pradesh,240.00,"4,500.00",85.00,720.00
+October 2018,Andhra Pradesh,260.00,"4,750.00",90.00,760.00
+November 2018,Andhra Pradesh,280.00,"5,000.00",95.00,800.00
+December 2018,Andhra Pradesh,320.00,"5,500.00",105.00,880.00
+January 2019,Andhra Pradesh,340.00,"5,750.00",110.00,920.00
+February 2019,Andhra Pradesh,360.00,"6,000.00",115.00,960.00
+March 2019,Andhra Pradesh,380.00,"6,250.00",120.00,"1,000.00"
+April 2019,Andhra Pradesh,400.00,"6,500.00",125.00,"1,040.00"
+May 2019,Andhra Pradesh,450.00,"7,000.00",135.00,"1,150.00"
+June 2019,Andhra Pradesh,500.00,"7,500.00",145.00,"1,260.00"
+July 2019,Andhra Pradesh,550.00,"8,000.00",155.00,"1,370.00"
+August 2019,Andhra Pradesh,600.00,"8,500.00",165.00,"1,480.00"
+September 2019,Andhra Pradesh,650.00,"9,000.00",175.00,"1,590.00"
+October 2019,Andhra Pradesh,700.00,"9,500.00",185.00,"1,700.00"
+November 2019,Andhra Pradesh,750.00,"10,000.00",195.00,"1,810.00"
+December 2019,Andhra Pradesh,800.00,"10,500.00",205.00,"1,920.00"
+January 2020,Andhra Pradesh,850.00,"11,000.00",215.00,"2,030.00"
+February 2020,Andhra Pradesh,900.00,"11,500.00",225.00,"2,140.00"
+March 2020,Andhra Pradesh,920.00,"11,750.00",230.00,"2,200.00"
+April 2020,Andhra Pradesh,940.00,"12,000.00",235.00,"2,260.00"
+May 2020,Andhra Pradesh,960.00,"12,250.00",240.00,"2,320.00"
+June 2020,Andhra Pradesh,"1,100.00","13,000.00",260.00,"2,500.00"
+July 2020,Andhra Pradesh,"1,300.00","14,500.00",295.00,"2,800.00"
+August 2020,Andhra Pradesh,"1,500.00","16,000.00",330.00,"3,100.00"
+September 2020,Andhra Pradesh,"1,700.00","17,500.00",365.00,"3,400.00"
+October 2020,Andhra Pradesh,"1,900.00","18,000.00",400.00,"3,700.00"
+November 2020,Andhra Pradesh,"2,100.00","18,500.00",435.00,"4,000.00"
+December 2020,Andhra Pradesh,"2,300.00","19,000.00",470.00,"4,300.00"
+January 2021,Andhra Pradesh,"2,500.00","20,000.00",505.00,"4,600.00"
+February 2021,Andhra Pradesh,"2,700.00","21,000.00",540.00,"4,900.00"
+March 2021,Andhra Pradesh,"2,900.00","22,000.00",575.00,"5,200.00"
+April 2021,Andhra Pradesh,"3,100.00","23,000.00",610.00,"5,500.00"
+May 2021,Andhra Pradesh,"3,400.00","24,500.00",665.00,"6,000.00"
+June 2021,Andhra Pradesh,"3,700.00","26,000.00",720.00,"6,500.00"
+July 2021,Andhra Pradesh,"4,000.00","27,500.00",775.00,"7,000.00"
+August 2021,Andhra Pradesh,"4,300.00","29,000.00",830.00,"7,500.00"
+September 2021,Andhra Pradesh,"4,600.00","30,500.00",885.00,"8,000.00"
+October 2021,Andhra Pradesh,"4,900.00","32,000.00",940.00,"8,500.00"
+November 2021,Andhra Pradesh,"5,200.00","33,500.00",995.00,"9,000.00"
+December 2021,Andhra Pradesh,"5,500.00","35,000.00","1,050.00","9,500.00"
+January 2022,Andhra Pradesh,"6,000.00","37,500.00","1,125.00","10,250.00"
+February 2022,Andhra Pradesh,"6,500.00","40,000.00","1,200.00","11,000.00"
+March 2022,Andhra Pradesh,"7,000.00","42,500.00","1,275.00","11,750.00"
+April 2022,Andhra Pradesh,"7,500.00","45,000.00","1,350.00","12,500.00"
+May 2022,Andhra Pradesh,"8,000.00","47,500.00","1,425.00","13,250.00"
+June 2022,Andhra Pradesh,"8,800.00","52,000.00","1,600.00","14,800.00"
+July 2022,Andhra Pradesh,"9,600.00","56,500.00","1,775.00","16,350.00"
+August 2022,Andhra Pradesh,"10,400.00","61,000.00","1,950.00","17,900.00"
+September 2022,Andhra Pradesh,"11,200.00","65,500.00","2,125.00","19,450.00"
+October 2022,Andhra Pradesh,"13,200.00","70,000.00","2,480.00","21,900.00"
+November 2022,Andhra Pradesh,"14,380.00","76,000.00","2,720.00","24,000.00"
+December 2022,Andhra Pradesh,"15,600.00","82,000.00","2,975.00","25,300.00"
+January 2023,Andhra Pradesh,"17,000.00","88,500.00","3,200.00","26,700.00"
+February 2023,Andhra Pradesh,"18,000.00","93,000.00","3,360.00","28,100.00"
+March 2023,Andhra Pradesh,"19,000.00","97,500.00","3,525.00","29,550.00"
+April 2023,Andhra Pradesh,"20,000.00","102,000.00","3,690.00","31,000.00"
+May 2023,Andhra Pradesh,"21,300.00","108,000.00","3,855.00","32,500.00"
+June 2023,Andhra Pradesh,"23,000.00","119,000.00","4,300.00","35,300.00"
+July 2023,Andhra Pradesh,"24,700.00","127,000.00","4,645.00","38,100.00"
+August 2023,Andhra Pradesh,"26,400.00","135,000.00","4,990.00","40,900.00"
+September 2023,Andhra Pradesh,"28,100.00","143,000.00","5,335.00","43,700.00"
+October 2023,Andhra Pradesh,"29,800.00","151,000.00","5,680.00","46,500.00"
+April 2016,Arunachal Pradesh,0.05,0.20,0.01,0.10
+May 2016,Arunachal Pradesh,0.06,0.25,0.02,0.15
+June 2016,Arunachal Pradesh,0.07,0.30,0.03,0.20
+July 2016,Arunachal Pradesh,0.08,0.35,0.04,0.25
+August 2016,Arunachal Pradesh,0.09,0.40,0.05,0.30
+September 2016,Arunachal Pradesh,0.10,0.45,0.06,0.35
+October 2016,Arunachal Pradesh,0.12,0.50,0.08,0.40
+November 2016,Arunachal Pradesh,0.15,0.55,0.10,0.50
+December 2016,Arunachal Pradesh,0.20,0.60,0.15,0.60
+January 2017,Arunachal Pradesh,0.25,0.65,0.20,0.70
+February 2017,Arunachal Pradesh,0.30,0.70,0.25,0.80
+March 2017,Arunachal Pradesh,0.35,0.75,0.30,0.90
+April 2017,Arunachal Pradesh,0.40,0.80,0.35,1.00
+May 2017,Arunachal Pradesh,0.45,0.85,0.40,1.20
+June 2017,Arunachal Pradesh,0.50,0.90,0.45,1.40
+July 2017,Arunachal Pradesh,0.60,1.00,0.55,1.60
+August 2017,Arunachal Pradesh,0.70,1.10,0.65,1.80
+September 2017,Arunachal Pradesh,0.80,1.20,0.75,2.00
+October 2017,Arunachal Pradesh,0.90,1.30,0.85,2.20
+November 2017,Arunachal Pradesh,1.00,1.40,0.95,2.40
+December 2017,Arunachal Pradesh,1.20,1.60,1.10,2.70
+January 2018,Arunachal Pradesh,1.40,1.80,1.25,3.00
+February 2018,Arunachal Pradesh,1.60,2.00,1.40,3.30
+March 2018,Arunachal Pradesh,1.80,2.20,1.55,3.60
+April 2018,Arunachal Pradesh,2.00,2.40,1.70,3.90
+May 2018,Arunachal Pradesh,2.25,2.65,1.90,4.30
+June 2018,Arunachal Pradesh,2.50,2.90,2.10,4.70
+July 2018,Arunachal Pradesh,2.75,3.15,2.30,5.10
+August 2018,Arunachal Pradesh,3.00,3.40,2.50,5.50
+September 2018,Arunachal Pradesh,3.30,3.70,2.75,6.00
+October 2018,Arunachal Pradesh,3.60,4.00,3.00,6.50
+November 2018,Arunachal Pradesh,3.90,4.30,3.25,7.00
+December 2018,Arunachal Pradesh,4.35,4.75,3.60,7.70
+January 2019,Arunachal Pradesh,4.80,5.20,3.95,8.40
+February 2019,Arunachal Pradesh,5.25,5.65,4.30,9.10
+March 2019,Arunachal Pradesh,5.70,6.10,4.65,9.80
+April 2019,Arunachal Pradesh,6.15,6.55,5.00,10.50
+May 2019,Arunachal Pradesh,6.75,7.20,5.50,11.50
+June 2019,Arunachal Pradesh,7.35,7.85,6.00,12.50
+July 2019,Arunachal Pradesh,7.95,8.50,6.50,13.50
+August 2019,Arunachal Pradesh,8.55,9.15,7.00,14.50
+September 2019,Arunachal Pradesh,9.15,9.80,7.50,15.50
+October 2019,Arunachal Pradesh,9.75,10.45,8.00,16.50
+November 2019,Arunachal Pradesh,10.50,11.25,8.60,17.80
+December 2019,Arunachal Pradesh,11.40,12.20,9.30,19.40
+January 2020,Arunachal Pradesh,12.30,13.15,10.00,21.00
+February 2020,Arunachal Pradesh,13.20,14.10,10.70,22.60
+March 2020,Arunachal Pradesh,14.10,15.05,11.40,24.20
+April 2020,Arunachal Pradesh,15.00,16.00,12.10,25.80
+May 2020,Arunachal Pradesh,16.00,17.00,12.90,27.60
+June 2020,Arunachal Pradesh,18.25,19.50,14.75,31.60
+July 2020,Arunachal Pradesh,20.50,22.00,16.60,35.60
+August 2020,Arunachal Pradesh,22.75,24.50,18.45,39.60
+September 2020,Arunachal Pradesh,25.00,27.00,20.30,43.60
+October 2020,Arunachal Pradesh,27.25,29.50,22.15,47.60
+November 2020,Arunachal Pradesh,30.00,32.50,24.45,52.20
+December 2020,Arunachal Pradesh,33.25,36.00,27.30,57.80
+January 2021,Arunachal Pradesh,36.50,39.50,30.15,63.40
+February 2021,Arunachal Pradesh,39.75,43.00,33.00,69.00
+March 2021,Arunachal Pradesh,43.00,46.50,35.85,74.60
+April 2021,Arunachal Pradesh,46.25,50.00,38.70,80.20
+May 2021,Arunachal Pradesh,50.50,54.00,42.00,86.40
+June 2021,Arunachal Pradesh,54.75,58.00,45.30,92.60
+July 2021,Arunachal Pradesh,59.00,62.00,48.60,98.80
+August 2021,Arunachal Pradesh,63.25,66.00,51.90,105.00
+September 2021,Arunachal Pradesh,67.50,70.00,55.20,111.20
+October 2021,Arunachal Pradesh,71.75,74.00,58.50,117.40
+November 2021,Arunachal Pradesh,77.25,79.00,62.35,124.80
+December 2021,Arunachal Pradesh,83.50,85.00,66.85,133.00
+January 2022,Arunachal Pradesh,89.75,91.00,71.35,141.20
+February 2022,Arunachal Pradesh,96.00,97.00,75.85,149.40
+March 2022,Arunachal Pradesh,102.25,103.00,80.35,157.60
+April 2022,Arunachal Pradesh,108.50,109.00,84.85,165.80
+May 2022,Arunachal Pradesh,115.50,116.00,90.00,175.00
+June 2022,Arunachal Pradesh,127.25,128.00,100.50,191.25
+July 2022,Arunachal Pradesh,139.00,140.00,111.00,207.50
+August 2022,Arunachal Pradesh,150.75,152.00,121.50,223.75
+September 2022,Arunachal Pradesh,162.50,164.00,132.00,240.00
+October 2022,Arunachal Pradesh,182.25,185.00,148.50,270.00
+November 2022,Arunachal Pradesh,197.70,201.50,161.35,292.50
+December 2022,Arunachal Pradesh,214.40,219.50,175.70,317.50
+January 2023,Arunachal Pradesh,231.10,237.50,190.05,342.50
+February 2023,Arunachal Pradesh,241.65,248.50,198.55,359.60
+March 2023,Arunachal Pradesh,252.20,259.50,207.05,376.70
+April 2023,Arunachal Pradesh,262.75,270.50,215.55,393.80
+May 2023,Arunachal Pradesh,276.90,284.00,226.30,413.50
+June 2023,Arunachal Pradesh,305.60,313.50,250.95,459.00
+July 2023,Arunachal Pradesh,334.30,343.00,275.60,504.50
+August 2023,Arunachal Pradesh,363.00,372.50,300.25,550.00
+September 2023,Arunachal Pradesh,391.70,402.00,324.90,595.50
+October 2023,Arunachal Pradesh,420.40,431.50,349.55,641.00
+April 2016,Assam,20.00,200.00,10.00,100.00
+May 2016,Assam,22.00,220.00,11.00,110.00
+June 2016,Assam,24.00,240.00,12.00,120.00
+July 2016,Assam,26.00,260.00,13.00,130.00
+August 2016,Assam,28.00,280.00,14.00,140.00
+September 2016,Assam,30.00,300.00,15.00,150.00
+October 2016,Assam,32.00,320.00,16.00,160.00
+November 2016,Assam,34.00,340.00,17.00,170.00
+December 2016,Assam,36.00,360.00,18.00,180.00
+January 2017,Assam,38.00,380.00,19.00,190.00
+February 2017,Assam,40.00,400.00,20.00,200.00
+March 2017,Assam,42.00,420.00,21.00,210.00
+April 2017,Assam,44.00,440.00,22.00,220.00
+May 2017,Assam,46.00,460.00,23.00,230.00
+June 2017,Assam,48.00,480.00,24.00,240.00
+July 2017,Assam,50.00,500.00,25.00,250.00
+August 2017,Assam,52.00,520.00,26.00,260.00
+September 2017,Assam,54.00,540.00,27.00,270.00
+October 2017,Assam,56.00,560.00,28.00,280.00
+November 2017,Assam,58.00,580.00,29.00,290.00
+December 2017,Assam,60.00,600.00,30.00,300.00
+January 2018,Assam,62.00,620.00,31.00,310.00
+February 2018,Assam,64.00,640.00,32.00,320.00
+March 2018,Assam,66.00,660.00,33.00,330.00
+April 2018,Assam,68.00,680.00,34.00,340.00
+May 2018,Assam,70.00,700.00,35.00,350.00
+June 2018,Assam,72.00,720.00,36.00,360.00
+July 2018,Assam,74.00,740.00,37.00,370.00
+August 2018,Assam,76.00,760.00,38.00,380.00
+September 2018,Assam,78.00,780.00,39.00,390.00
+October 2018,Assam,80.00,800.00,40.00,400.00
+November 2018,Assam,85.00,850.00,42.50,425.00
+December 2018,Assam,90.00,900.00,45.00,450.00
+January 2019,Assam,95.00,950.00,47.50,475.00
+February 2019,Assam,100.00,"1,000.00",50.00,500.00
+March 2019,Assam,105.00,"1,050.00",52.50,525.00
+April 2019,Assam,110.00,"1,100.00",55.00,550.00
+May 2019,Assam,120.00,"1,200.00",60.00,600.00
+June 2019,Assam,130.00,"1,300.00",65.00,650.00
+July 2019,Assam,140.00,"1,400.00",70.00,700.00
+August 2019,Assam,150.00,"1,500.00",75.00,750.00
+September 2019,Assam,160.00,"1,600.00",80.00,800.00
+October 2019,Assam,170.00,"1,700.00",85.00,850.00
+November 2019,Assam,180.00,"1,800.00",90.00,900.00
+December 2019,Assam,190.00,"1,900.00",95.00,950.00
+January 2020,Assam,200.00,"2,000.00",100.00,"1,000.00"
+February 2020,Assam,210.00,"2,100.00",105.00,"1,050.00"
+March 2020,Assam,220.00,"2,200.00",110.00,"1,100.00"
+April 2020,Assam,225.00,"2,250.00",112.50,"1,125.00"
+May 2020,Assam,230.00,"2,300.00",115.00,"1,150.00"
+June 2020,Assam,260.00,"2,600.00",130.00,"1,300.00"
+July 2020,Assam,290.00,"2,900.00",145.00,"1,450.00"
+August 2020,Assam,320.00,"3,200.00",160.00,"1,600.00"
+September 2020,Assam,350.00,"3,500.00",175.00,"1,750.00"
+October 2020,Assam,380.00,"3,800.00",190.00,"1,900.00"
+November 2020,Assam,410.00,"4,100.00",205.00,"2,050.00"
+December 2020,Assam,440.00,"4,400.00",220.00,"2,200.00"
+January 2021,Assam,470.00,"4,700.00",235.00,"2,350.00"
+February 2021,Assam,500.00,"5,000.00",250.00,"2,500.00"
+March 2021,Assam,530.00,"5,300.00",265.00,"2,650.00"
+April 2021,Assam,560.00,"5,600.00",280.00,"2,800.00"
+May 2021,Assam,600.00,"6,000.00",300.00,"3,000.00"
+June 2021,Assam,640.00,"6,400.00",320.00,"3,200.00"
+July 2021,Assam,680.00,"6,800.00",340.00,"3,400.00"
+August 2021,Assam,720.00,"7,200.00",360.00,"3,600.00"
+September 2021,Assam,760.00,"7,600.00",380.00,"3,800.00"
+October 2021,Assam,800.00,"8,000.00",400.00,"4,000.00"
+November 2021,Assam,850.00,"8,500.00",425.00,"4,250.00"
+December 2021,Assam,900.00,"9,000.00",450.00,"4,500.00"
+January 2022,Assam,975.00,"9,750.00",487.50,"4,875.00"
+February 2022,Assam,"1,050.00","10,500.00",525.00,"5,250.00"
+March 2022,Assam,"1,125.00","11,250.00",562.50,"5,625.00"
+April 2022,Assam,"1,200.00","12,000.00",600.00,"6,000.00"
+May 2022,Assam,"1,275.00","12,750.00",637.50,"6,375.00"
+June 2022,Assam,"1,400.00","14,000.00",700.00,"7,000.00"
+July 2022,Assam,"1,515.00","15,150.00",757.50,"7,575.00"
+August 2022,Assam,"1,630.00","16,300.00",815.00,"8,150.00"
+September 2022,Assam,"1,745.00","17,450.00",872.50,"8,725.00"
+October 2022,Assam,"1,980.00","19,800.00",990.00,"9,900.00"
+November 2022,Assam,"2,145.00","21,450.00","1,072.50","10,725.00"
+December 2022,Assam,"2,325.00","23,250.00","1,170.00","11,700.00"
+January 2023,Assam,"2,500.00","25,000.00","1,250.00","12,500.00"
+February 2023,Assam,"2,625.00","26,250.00","1,312.50","13,125.00"
+March 2023,Assam,"2,750.00","27,500.00","1,375.00","13,750.00"
+April 2023,Assam,"2,875.00","28,750.00","1,437.50","14,375.00"
+May 2023,Assam,"3,038.00","30,380.00","1,512.50","15,125.00"
+June 2023,Assam,"3,375.00","33,750.00","1,687.50","16,875.00"
+July 2023,Assam,"3,713.00","37,125.00","1,862.50","18,625.00"
+August 2023,Assam,"4,050.00","40,500.00","2,037.50","20,375.00"
+September 2023,Assam,"4,388.00","43,875.00","2,212.50","22,125.00"
+October 2023,Assam,"4,725.00","47,250.00","2,387.50","23,875.00"
+April 2016,Bihar,100.00,500.00,50.00,250.00
+May 2016,Bihar,110.00,550.00,55.00,275.00
+June 2016,Bihar,120.00,600.00,60.00,300.00
+July 2016,Bihar,130.00,650.00,65.00,325.00
+August 2016,Bihar,140.00,700.00,70.00,350.00
+September 2016,Bihar,150.00,750.00,75.00,375.00
+October 2016,Bihar,160.00,800.00,80.00,400.00
+November 2016,Bihar,170.00,850.00,85.00,425.00
+December 2016,Bihar,180.00,900.00,90.00,450.00
+January 2017,Bihar,190.00,950.00,95.00,475.00
+February 2017,Bihar,200.00,"1,000.00",100.00,500.00
+March 2017,Bihar,210.00,"1,050.00",105.00,525.00
+April 2017,Bihar,220.00,"1,100.00",110.00,550.00
+May 2017,Bihar,230.00,"1,150.00",115.00,575.00
+June 2017,Bihar,240.00,"1,200.00",120.00,600.00
+July 2017,Bihar,250.00,"1,250.00",125.00,625.00
+August 2017,Bihar,260.00,"1,300.00",130.00,650.00
+September 2017,Bihar,270.00,"1,350.00",135.00,675.00
+October 2017,Bihar,280.00,"1,400.00",140.00,700.00
+November 2017,Bihar,290.00,"1,450.00",145.00,725.00
+December 2017,Bihar,300.00,"1,500.00",150.00,750.00
+January 2018,Bihar,310.00,"1,550.00",155.00,775.00
+February 2018,Bihar,320.00,"1,600.00",160.00,800.00
+March 2018,Bihar,330.00,"1,650.00",165.00,825.00
+April 2018,Bihar,340.00,"1,700.00",170.00,850.00
+May 2018,Bihar,350.00,"1,750.00",175.00,875.00
+June 2018,Bihar,360.00,"1,800.00",180.00,900.00
+July 2018,Bihar,370.00,"1,850.00",185.00,925.00
+August 2018,Bihar,380.00,"1,900.00",190.00,950.00
+September 2018,Bihar,390.00,"1,950.00",195.00,975.00
+October 2018,Bihar,400.00,"2,000.00",200.00,"1,000.00"
+November 2018,Bihar,420.00,"2,100.00",210.00,"1,050.00"
+December 2018,Bihar,440.00,"2,200.00",220.00,"1,100.00"
+January 2019,Bihar,460.00,"2,300.00",230.00,"1,150.00"
+February 2019,Bihar,480.00,"2,400.00",240.00,"1,200.00"
+March 2019,Bihar,500.00,"2,500.00",250.00,"1,250.00"
+April 2019,Bihar,520.00,"2,600.00",260.00,"1,300.00"
+May 2019,Bihar,560.00,"2,800.00",280.00,"1,400.00"
+June 2019,Bihar,600.00,"3,000.00",300.00,"1,500.00"
+July 2019,Bihar,640.00,"3,200.00",320.00,"1,600.00"
+August 2019,Bihar,680.00,"3,400.00",340.00,"1,700.00"
+September 2019,Bihar,720.00,"3,600.00",360.00,"1,800.00"
+October 2019,Bihar,760.00,"3,800.00",380.00,"1,900.00"
+November 2019,Bihar,800.00,"4,000.00",400.00,"2,000.00"
+December 2019,Bihar,840.00,"4,200.00",420.00,"2,100.00"
+January 2020,Bihar,880.00,"4,400.00",440.00,"2,200.00"
+February 2020,Bihar,920.00,"4,600.00",460.00,"2,300.00"
+March 2020,Bihar,960.00,"4,800.00",480.00,"2,400.00"
+April 2020,Bihar,980.00,"4,900.00",485.00,"2,450.00"
+May 2020,Bihar,"1,000.00","5,000.00",490.00,"2,500.00"
+June 2020,Bihar,"1,140.00","5,700.00",560.00,"2,800.00"
+July 2020,Bihar,"1,280.00","6,400.00",640.00,"3,200.00"
+August 2020,Bihar,"1,420.00","7,100.00",720.00,"3,600.00"
+September 2020,Bihar,"1,560.00","7,800.00",800.00,"4,000.00"
+October 2020,Bihar,"1,700.00","8,500.00",880.00,"4,400.00"
+November 2020,Bihar,"1,840.00","9,200.00",960.00,"4,800.00"
+December 2020,Bihar,"1,980.00","9,900.00","1,040.00","5,200.00"
+January 2021,Bihar,"2,120.00","10,600.00","1,120.00","5,600.00"
+February 2021,Bihar,"2,260.00","11,300.00","1,200.00","6,000.00"
+March 2021,Bihar,"2,400.00","12,000.00","1,280.00","6,400.00"
+April 2021,Bihar,"2,520.00","12,600.00","1,344.00","6,720.00"
+May 2021,Bihar,"2,700.00","13,500.00","1,440.00","7,200.00"
+June 2021,Bihar,"2,880.00","14,400.00","1,536.00","7,680.00"
+July 2021,Bihar,"3,060.00","15,300.00","1,632.00","8,160.00"
+August 2021,Bihar,"3,240.00","16,200.00","1,728.00","8,640.00"
+September 2021,Bihar,"3,420.00","17,100.00","1,824.00","9,120.00"
+October 2021,Bihar,"3,600.00","18,000.00","1,920.00","9,600.00"
+November 2021,Bihar,"3,825.00","18,900.00","2,016.00","10,080.00"
+December 2021,Bihar,"4,050.00","19,800.00","2,112.00","10,560.00"
+January 2022,Bihar,"4,350.00","21,000.00","2,268.00","11,200.00"
+February 2022,Bihar,"4,650.00","22,200.00","2,424.00","11,840.00"
+March 2022,Bihar,"4,950.00","23,400.00","2,580.00","12,480.00"
+April 2022,Bihar,"5,250.00","24,600.00","2,736.00","13,120.00"
+May 2022,Bihar,"5,588.00","25,950.00","2,904.00","13,824.00"
+June 2022,Bihar,"6,200.00","28,000.00","3,200.00","15,200.00"
+July 2022,Bihar,"6,815.00","30,800.00","3,520.00","16,720.00"
+August 2022,Bihar,"7,430.00","33,600.00","3,840.00","18,240.00"
+September 2022,Bihar,"8,045.00","36,400.00","4,160.00","19,760.00"
+October 2022,Bihar,"9,050.00","41,000.00","4,640.00","22,400.00"
+November 2022,Bihar,"9,790.00","43,900.00","4,992.00","24,000.00"
+December 2022,Bihar,"10,575.00","47,100.00","5,376.00","25,760.00"
+January 2023,Bihar,"11,300.00","50,000.00","5,712.00","27,360.00"
+February 2023,Bihar,"11,865.00","52,300.00","5,968.00","28,512.00"
+March 2023,Bihar,"12,430.00","54,600.00","6,224.00","29,664.00"
+April 2023,Bihar,"12,995.00","56,900.00","6,480.00","30,816.00"
+May 2023,Bihar,"13,695.00","59,900.00","6,816.00","32,184.00"
+June 2023,Bihar,"15,025.00","66,300.00","7,536.00","36,096.00"
+July 2023,Bihar,"16,355.00","72,700.00","8,256.00","40,008.00"
+August 2023,Bihar,"17,685.00","79,100.00","8,976.00","43,920.00"
+September 2023,Bihar,"19,015.00","85,500.00","9,696.00","47,832.00"
+October 2023,Bihar,"20,345.00","91,900.00","10,416.00","51,744.00"
+April 2016,Chandigarh,20,100,10.00,50.00
+May 2016,Chandigarh,22,110,11.00,55.00
+June 2016,Chandigarh,24,120,12.00,60.00
+July 2016,Chandigarh,26,130,13.00,65.00
+August 2016,Chandigarh,28,140,14.00,70.00
+September 2016,Chandigarh,30,150,15.00,75.00
+October 2016,Chandigarh,32,160,16.00,80.00
+November 2016,Chandigarh,34,170,17.00,85.00
+December 2016,Chandigarh,36,180,18.00,90.00
+January 2017,Chandigarh,38,190,19.00,95.00
+February 2017,Chandigarh,40,200,20.00,100.00
+March 2017,Chandigarh,42,210,21.00,105.00
+April 2017,Chandigarh,44,220,22.00,110.00
+May 2017,Chandigarh,46,230,23.00,115.00
+June 2017,Chandigarh,48,240,24.00,120.00
+July 2017,Chandigarh,50,250,25.00,125.00
+August 2017,Chandigarh,52,260,26.00,130.00
+September 2017,Chandigarh,54,270,27.00,135.00
+October 2017,Chandigarh,56,280,28.00,140.00
+November 2017,Chandigarh,58,290,29.00,145.00
+December 2017,Chandigarh,60,300,30.00,150.00
+January 2018,Chandigarh,62,310,31.00,155.00
+February 2018,Chandigarh,64,320,32.00,160.00
+March 2018,Chandigarh,66,330,33.00,165.00
+April 2018,Chandigarh,68,340,34.00,170.00
+May 2018,Chandigarh,70,350,35.00,175.00
+June 2018,Chandigarh,72,360,36.00,180.00
+July 2018,Chandigarh,74,370,37.00,185.00
+August 2018,Chandigarh,76,380,38.00,190.00
+September 2018,Chandigarh,78,390,39.00,195.00
+October 2018,Chandigarh,80,400,40.00,200.00
+November 2018,Chandigarh,84,420,42.00,210.00
+December 2018,Chandigarh,88,440,44.00,220.00
+January 2019,Chandigarh,92,460,46.00,230.00
+February 2019,Chandigarh,96,480,48.00,240.00
+March 2019,Chandigarh,100,500,50.00,250.00
+April 2019,Chandigarh,104,520,52.00,260.00
+May 2019,Chandigarh,112,560,56.00,280.00
+June 2019,Chandigarh,120,600,60.00,300.00
+July 2019,Chandigarh,128,640,64.00,320.00
+August 2019,Chandigarh,136,680,68.00,340.00
+September 2019,Chandigarh,144,720,72.00,360.00
+October 2019,Chandigarh,152,760,76.00,380.00
+November 2019,Chandigarh,160,800,80.00,400.00
+December 2019,Chandigarh,168,840,84.00,420.00
+January 2020,Chandigarh,176,880,88.00,440.00
+February 2020,Chandigarh,184,920,92.00,460.00
+March 2020,Chandigarh,192,960,96.00,480.00
+April 2020,Chandigarh,196,980,98.00,490.00
+May 2020,Chandigarh,200,1000,100.00,500.00
+June 2020,Chandigarh,224,1120,112.00,560.00
+July 2020,Chandigarh,256,1280,128.00,640.00
+August 2020,Chandigarh,288,1440,144.00,720.00
+September 2020,Chandigarh,320,1600,160.00,800.00
+October 2020,Chandigarh,352,1760,176.00,880.00
+November 2020,Chandigarh,384,1920,192.00,960.00
+December 2020,Chandigarh,416,2080,208.00,"1,040.00"
+January 2021,Chandigarh,448,2240,224.00,"1,120.00"
+February 2021,Chandigarh,480,2400,240.00,"1,200.00"
+March 2021,Chandigarh,512,2560,256.00,"1,280.00"
+April 2021,Chandigarh,537,2657,269.00,"1,337.00"
+May 2021,Chandigarh,576,2880,288.00,"1,440.00"
+June 2021,Chandigarh,615,3103,310.00,"1,550.00"
+July 2021,Chandigarh,654,3326,333.00,"1,658.00"
+August 2021,Chandigarh,693,3549,355.00,"1,767.00"
+September 2021,Chandigarh,732,3772,377.00,"1,876.00"
+October 2021,Chandigarh,771,3995,399.00,"1,985.00"
+November 2021,Chandigarh,822,4257,426.00,"2,118.00"
+December 2021,Chandigarh,879,4560,456.00,"2,274.00"
+January 2022,Chandigarh,936,4863,486.00,"2,430.00"
+February 2022,Chandigarh,993,5166,517.00,"2,586.00"
+March 2022,Chandigarh,1050,5469,547.00,"2,742.00"
+April 2022,Chandigarh,1107,5772,577.00,"2,898.00"
+May 2022,Chandigarh,1170,6132,613.00,"3,072.00"
+June 2022,Chandigarh,1296,6804,680.00,"3,408.00"
+July 2022,Chandigarh,1422,7476,748.00,"3,744.00"
+August 2022,Chandigarh,1548,8148,815.00,"4,080.00"
+September 2022,Chandigarh,1674,8820,882.00,"4,416.00"
+October 2022,Chandigarh,1890,10000,"1,000.00","5,000.00"
+November 2022,Chandigarh,2025,10700,"1,070.00","5,350.00"
+December 2022,Chandigarh,2175,11500,"1,150.00","5,750.00"
+January 2023,Chandigarh,2325,12300,"1,230.00","6,150.00"
+February 2023,Chandigarh,2430,12860,"1,286.00","6,430.00"
+March 2023,Chandigarh,2535,13420,"1,342.00","6,710.00"
+April 2023,Chandigarh,2640,13980,"1,398.00","6,990.00"
+May 2023,Chandigarh,2790,14790,"1,479.00","7,395.00"
+June 2023,Chandigarh,3090,16410,"1,641.00","8,205.00"
+July 2023,Chandigarh,3390,18030,"1,803.00","9,015.00"
+August 2023,Chandigarh,3690,19650,"1,965.00","9,825.00"
+September 2023,Chandigarh,3990,21270,"2,127.00","10,635.00"
+October 2023,Chandigarh,4290,22890,"2,289.00","11,445.00"
+April 2016,Chhattisgarh,50.00,250.00,25.00,125.00
+May 2016,Chhattisgarh,55.00,275.00,27.50,137.50
+June 2016,Chhattisgarh,60.00,300.00,30.00,150.00
+July 2016,Chhattisgarh,65.00,325.00,32.50,162.50
+August 2016,Chhattisgarh,70.00,350.00,35.00,175.00
+September 2016,Chhattisgarh,75.00,375.00,37.50,187.50
+October 2016,Chhattisgarh,80.00,400.00,40.00,200.00
+November 2016,Chhattisgarh,85.00,425.00,42.50,212.50
+December 2016,Chhattisgarh,90.00,450.00,45.00,225.00
+January 2017,Chhattisgarh,95.00,475.00,47.50,237.50
+February 2017,Chhattisgarh,100.00,500.00,50.00,250.00
+March 2017,Chhattisgarh,105.00,525.00,52.50,262.50
+April 2017,Chhattisgarh,110.00,550.00,55.00,275.00
+May 2017,Chhattisgarh,115.00,575.00,57.50,287.50
+June 2017,Chhattisgarh,120.00,600.00,60.00,300.00
+July 2017,Chhattisgarh,125.00,625.00,62.50,312.50
+August 2017,Chhattisgarh,130.00,650.00,65.00,325.00
+September 2017,Chhattisgarh,135.00,675.00,67.50,337.50
+October 2017,Chhattisgarh,140.00,700.00,70.00,350.00
+November 2017,Chhattisgarh,145.00,725.00,72.50,362.50
+December 2017,Chhattisgarh,150.00,750.00,75.00,375.00
+January 2018,Chhattisgarh,155.00,775.00,77.50,387.50
+February 2018,Chhattisgarh,160.00,800.00,80.00,400.00
+March 2018,Chhattisgarh,165.00,825.00,82.50,412.50
+April 2018,Chhattisgarh,170.00,850.00,85.00,425.00
+May 2018,Chhattisgarh,175.00,875.00,87.50,437.50
+June 2018,Chhattisgarh,180.00,900.00,90.00,450.00
+July 2018,Chhattisgarh,185.00,925.00,92.50,462.50
+August 2018,Chhattisgarh,190.00,950.00,95.00,475.00
+September 2018,Chhattisgarh,195.00,975.00,97.50,487.50
+October 2018,Chhattisgarh,200.00,"1,000.00",100.00,500.00
+November 2018,Chhattisgarh,210.00,"1,050.00",105.00,525.00
+December 2018,Chhattisgarh,220.00,"1,100.00",110.00,550.00
+January 2019,Chhattisgarh,230.00,"1,150.00",115.00,575.00
+February 2019,Chhattisgarh,240.00,"1,200.00",120.00,600.00
+March 2019,Chhattisgarh,250.00,"1,250.00",125.00,625.00
+April 2019,Chhattisgarh,260.00,"1,300.00",130.00,650.00
+May 2019,Chhattisgarh,280.00,"1,400.00",140.00,700.00
+June 2019,Chhattisgarh,300.00,"1,500.00",150.00,750.00
+July 2019,Chhattisgarh,320.00,"1,600.00",160.00,800.00
+August 2019,Chhattisgarh,340.00,"1,700.00",170.00,850.00
+September 2019,Chhattisgarh,360.00,"1,800.00",180.00,900.00
+October 2019,Chhattisgarh,380.00,"1,900.00",190.00,950.00
+November 2019,Chhattisgarh,400.00,"2,000.00",200.00,"1,000.00"
+December 2019,Chhattisgarh,420.00,"2,100.00",210.00,"1,050.00"
+January 2020,Chhattisgarh,440.00,"2,200.00",220.00,"1,100.00"
+February 2020,Chhattisgarh,460.00,"2,300.00",230.00,"1,150.00"
+March 2020,Chhattisgarh,480.00,"2,400.00",240.00,"1,200.00"
+April 2020,Chhattisgarh,490.00,"2,450.00",245.00,"1,225.00"
+May 2020,Chhattisgarh,500.00,"2,500.00",250.00,"1,250.00"
+June 2020,Chhattisgarh,560.00,"2,800.00",280.00,"1,400.00"
+July 2020,Chhattisgarh,640.00,"3,200.00",320.00,"1,600.00"
+August 2020,Chhattisgarh,720.00,"3,600.00",360.00,"1,800.00"
+September 2020,Chhattisgarh,800.00,"4,000.00",400.00,"2,000.00"
+October 2020,Chhattisgarh,880.00,"4,400.00",440.00,"2,200.00"
+November 2020,Chhattisgarh,960.00,"4,800.00",480.00,"2,400.00"
+December 2020,Chhattisgarh,"1,040.00","5,200.00",520.00,"2,600.00"
+January 2021,Chhattisgarh,"1,120.00","5,600.00",560.00,"2,800.00"
+February 2021,Chhattisgarh,"1,200.00","6,000.00",600.00,"3,000.00"
+March 2021,Chhattisgarh,"1,280.00","6,400.00",640.00,"3,200.00"
+April 2021,Chhattisgarh,"1,344.00","6,720.00",672.00,"3,360.00"
+May 2021,Chhattisgarh,"1,440.00","7,200.00",720.00,"3,600.00"
+June 2021,Chhattisgarh,"1,536.00","7,680.00",768.00,"3,840.00"
+July 2021,Chhattisgarh,"1,632.00","8,160.00",816.00,"4,080.00"
+August 2021,Chhattisgarh,"1,728.00","8,640.00",864.00,"4,320.00"
+September 2021,Chhattisgarh,"1,824.00","9,120.00",912.00,"4,560.00"
+October 2021,Chhattisgarh,"1,920.00","9,600.00",960.00,"4,800.00"
+November 2021,Chhattisgarh,"2,016.00","10,080.00","1,008.00","5,040.00"
+December 2021,Chhattisgarh,"2,112.00","10,560.00","1,056.00","5,280.00"
+January 2022,Chhattisgarh,"2,268.00","11,200.00","1,128.00","5,640.00"
+February 2022,Chhattisgarh,"2,424.00","11,840.00","1,200.00","6,000.00"
+March 2022,Chhattisgarh,"2,580.00","12,480.00","1,272.00","6,360.00"
+April 2022,Chhattisgarh,"2,736.00","13,120.00","1,344.00","6,720.00"
+May 2022,Chhattisgarh,"2,904.00","13,824.00","1,440.00","7,200.00"
+June 2022,Chhattisgarh,"3,200.00","15,200.00","1,600.00","8,000.00"
+July 2022,Chhattisgarh,"3,520.00","16,720.00","1,760.00","8,800.00"
+August 2022,Chhattisgarh,"3,840.00","18,240.00","1,920.00","9,600.00"
+September 2022,Chhattisgarh,"4,160.00","19,760.00","2,080.00","10,400.00"
+October 2022,Chhattisgarh,"4,640.00","22,400.00","2,320.00","11,600.00"
+November 2022,Chhattisgarh,"4,992.00","24,000.00","2,464.00","12,240.00"
+December 2022,Chhattisgarh,"5,376.00","25,760.00","2,622.00","12,992.00"
+January 2023,Chhattisgarh,"5,712.00","27,360.00","2,768.00","13,608.00"
+February 2023,Chhattisgarh,"5,968.00","28,512.00","2,880.00","14,157.00"
+March 2023,Chhattisgarh,"6,224.00","29,664.00","2,992.00","14,706.00"
+April 2023,Chhattisgarh,"6,480.00","30,816.00","3,104.00","15,255.00"
+May 2023,Chhattisgarh,"6,816.00","32,184.00","3,264.00","15,936.00"
+June 2023,Chhattisgarh,"7,536.00","36,096.00","3,600.00","17,640.00"
+July 2023,Chhattisgarh,"8,256.00","40,008.00","3,936.00","19,344.00"
+August 2023,Chhattisgarh,"8,976.00","43,920.00","4,272.00","21,048.00"
+September 2023,Chhattisgarh,"9,696.00","47,832.00","4,608.00","22,752.00"
+October 2023,Chhattisgarh,"10,416.00","51,744.00","4,944.00","24,456.00"
+April 2016,Dadra and Nagar Haveli and Daman and Diu,0.05,0.25,0.01,0.05
+May 2016,Dadra and Nagar Haveli and Daman and Diu,0.06,0.3,0.02,0.10
+June 2016,Dadra and Nagar Haveli and Daman and Diu,0.07,0.35,0.03,0.15
+July 2016,Dadra and Nagar Haveli and Daman and Diu,0.08,0.4,0.04,0.20
+August 2016,Dadra and Nagar Haveli and Daman and Diu,0.09,0.45,0.05,0.25
+September 2016,Dadra and Nagar Haveli and Daman and Diu,0.1,0.5,0.06,0.30
+October 2016,Dadra and Nagar Haveli and Daman and Diu,0.12,0.55,0.08,0.35
+November 2016,Dadra and Nagar Haveli and Daman and Diu,0.15,0.65,0.10,0.45
+December 2016,Dadra and Nagar Haveli and Daman and Diu,0.2,0.75,0.15,0.55
+January 2017,Dadra and Nagar Haveli and Daman and Diu,0.25,0.85,0.20,0.65
+February 2017,Dadra and Nagar Haveli and Daman and Diu,0.3,0.95,0.25,0.75
+March 2017,Dadra and Nagar Haveli and Daman and Diu,0.35,1.05,0.30,0.85
+April 2017,Dadra and Nagar Haveli and Daman and Diu,0.4,1.15,0.35,0.95
+May 2017,Dadra and Nagar Haveli and Daman and Diu,0.45,1.25,0.40,1.05
+June 2017,Dadra and Nagar Haveli and Daman and Diu,0.5,1.35,0.45,1.15
+July 2017,Dadra and Nagar Haveli and Daman and Diu,0.6,1.55,0.55,1.35
+August 2017,Dadra and Nagar Haveli and Daman and Diu,0.7,1.75,0.65,1.55
+September 2017,Dadra and Nagar Haveli and Daman and Diu,0.8,1.95,0.75,1.75
+October 2017,Dadra and Nagar Haveli and Daman and Diu,0.9,2.15,0.85,1.95
+November 2017,Dadra and Nagar Haveli and Daman and Diu,1,2.35,0.95,2.15
+December 2017,Dadra and Nagar Haveli and Daman and Diu,1.2,2.7,1.10,2.45
+January 2018,Dadra and Nagar Haveli and Daman and Diu,1.4,3.05,1.25,2.75
+February 2018,Dadra and Nagar Haveli and Daman and Diu,1.6,3.4,1.40,3.05
+March 2018,Dadra and Nagar Haveli and Daman and Diu,1.8,3.75,1.55,3.35
+April 2018,Dadra and Nagar Haveli and Daman and Diu,2,4.1,1.70,3.65
+May 2018,Dadra and Nagar Haveli and Daman and Diu,2.25,4.6,1.90,4.10
+June 2018,Dadra and Nagar Haveli and Daman and Diu,2.5,5.1,2.10,4.55
+July 2018,Dadra and Nagar Haveli and Daman and Diu,2.75,5.6,2.30,5.00
+August 2018,Dadra and Nagar Haveli and Daman and Diu,3,6.1,2.50,5.45
+September 2018,Dadra and Nagar Haveli and Daman and Diu,3.3,6.75,2.75,6.05
+October 2018,Dadra and Nagar Haveli and Daman and Diu,3.6,7.4,3.00,6.65
+November 2018,Dadra and Nagar Haveli and Daman and Diu,3.9,8.05,3.25,7.25
+December 2018,Dadra and Nagar Haveli and Daman and Diu,4.35,8.9,3.60,8.00
+January 2019,Dadra and Nagar Haveli and Daman and Diu,4.8,9.75,3.95,8.75
+February 2019,Dadra and Nagar Haveli and Daman and Diu,5.25,10.6,4.30,9.50
+March 2019,Dadra and Nagar Haveli and Daman and Diu,5.7,11.45,4.65,10.25
+April 2019,Dadra and Nagar Haveli and Daman and Diu,6.15,12.3,5.00,11.00
+May 2019,Dadra and Nagar Haveli and Daman and Diu,6.75,13.6,5.50,12.10
+June 2019,Dadra and Nagar Haveli and Daman and Diu,7.35,14.9,6.00,13.20
+July 2019,Dadra and Nagar Haveli and Daman and Diu,7.95,16.2,6.50,14.30
+August 2019,Dadra and Nagar Haveli and Daman and Diu,8.55,17.5,7.00,15.40
+September 2019,Dadra and Nagar Haveli and Daman and Diu,9.15,18.8,7.50,16.50
+October 2019,Dadra and Nagar Haveli and Daman and Diu,9.75,20.1,8.00,17.60
+November 2019,Dadra and Nagar Haveli and Daman and Diu,10.5,21.7,8.60,19.00
+December 2019,Dadra and Nagar Haveli and Daman and Diu,11.4,23.6,9.30,20.70
+January 2020,Dadra and Nagar Haveli and Daman and Diu,12.3,25.5,10.00,22.40
+February 2020,Dadra and Nagar Haveli and Daman and Diu,13.2,27.4,10.70,24.10
+March 2020,Dadra and Nagar Haveli and Daman and Diu,14.1,29.3,11.40,25.80
+April 2020,Dadra and Nagar Haveli and Daman and Diu,15,31.1,12.10,27.50
+May 2020,Dadra and Nagar Haveli and Daman and Diu,16,33,12.90,29.30
+June 2020,Dadra and Nagar Haveli and Daman and Diu,18.25,37.6,14.75,33.40
+July 2020,Dadra and Nagar Haveli and Daman and Diu,20.5,42.2,16.60,37.50
+August 2020,Dadra and Nagar Haveli and Daman and Diu,22.75,46.8,18.45,41.60
+September 2020,Dadra and Nagar Haveli and Daman and Diu,25,51.4,20.30,45.70
+October 2020,Dadra and Nagar Haveli and Daman and Diu,27.25,56,22.15,49.80
+November 2020,Dadra and Nagar Haveli and Daman and Diu,30,61.2,24.45,54.60
+December 2020,Dadra and Nagar Haveli and Daman and Diu,33.25,67.4,27.30,60.40
+January 2021,Dadra and Nagar Haveli and Daman and Diu,36.5,73.6,30.15,66.20
+February 2021,Dadra and Nagar Haveli and Daman and Diu,39.75,79.8,33.00,72.00
+March 2021,Dadra and Nagar Haveli and Daman and Diu,43,86,35.85,77.80
+April 2021,Dadra and Nagar Haveli and Daman and Diu,46.25,92.2,38.70,83.60
+May 2021,Dadra and Nagar Haveli and Daman and Diu,50.5,99.6,42.00,90.20
+June 2021,Dadra and Nagar Haveli and Daman and Diu,54.75,107,45.30,96.80
+July 2021,Dadra and Nagar Haveli and Daman and Diu,59,114.4,48.60,103.40
+August 2021,Dadra and Nagar Haveli and Daman and Diu,63.25,121.8,51.90,110.00
+September 2021,Dadra and Nagar Haveli and Daman and Diu,67.5,129.2,55.20,116.60
+October 2021,Dadra and Nagar Haveli and Daman and Diu,71.75,136.6,58.50,123.20
+November 2021,Dadra and Nagar Haveli and Daman and Diu,77.25,146.4,62.35,131.40
+December 2021,Dadra and Nagar Haveli and Daman and Diu,83.5,157.4,66.85,140.70
+January 2022,Dadra and Nagar Haveli and Daman and Diu,89.75,168.4,71.35,150.00
+February 2022,Dadra and Nagar Haveli and Daman and Diu,96,179.4,75.85,159.30
+March 2022,Dadra and Nagar Haveli and Daman and Diu,102.25,190.4,80.35,168.60
+April 2022,Dadra and Nagar Haveli and Daman and Diu,108.5,201.4,84.85,177.90
+May 2022,Dadra and Nagar Haveli and Daman and Diu,115.5,213.7,90.00,188.10
+June 2022,Dadra and Nagar Haveli and Daman and Diu,127.25,236.9,100.50,208.90
+July 2022,Dadra and Nagar Haveli and Daman and Diu,139,260.1,111.00,229.70
+August 2022,Dadra and Nagar Haveli and Daman and Diu,150.75,283.3,121.50,250.50
+September 2022,Dadra and Nagar Haveli and Daman and Diu,162.5,306.5,132.00,271.30
+October 2022,Dadra and Nagar Haveli and Daman and Diu,182.25,347,148.50,306.00
+November 2022,Dadra and Nagar Haveli and Daman and Diu,197.7,373.2,161.35,331.95
+December 2022,Dadra and Nagar Haveli and Daman and Diu,214.4,402.8,175.70,360.45
+January 2023,Dadra and Nagar Haveli and Daman and Diu,231.1,432.4,190.05,388.95
+February 2023,Dadra and Nagar Haveli and Daman and Diu,241.65,454,198.55,408.30
+March 2023,Dadra and Nagar Haveli and Daman and Diu,252.2,475.6,207.05,427.65
+April 2023,Dadra and Nagar Haveli and Daman and Diu,262.75,497.2,215.55,447.00
+May 2023,Dadra and Nagar Haveli and Daman and Diu,276.9,523.2,226.30,472.50
+June 2023,Dadra and Nagar Haveli and Daman and Diu,305.6,580.9,250.95,525.50
+July 2023,Dadra and Nagar Haveli and Daman and Diu,334.3,638.6,275.60,578.50
+August 2023,Dadra and Nagar Haveli and Daman and Diu,363,696.3,300.25,631.50
+September 2023,Dadra and Nagar Haveli and Daman and Diu,391.7,754,324.90,684.50
+October 2023,Dadra and Nagar Haveli and Daman and Diu,420.4,811.7,349.55,737.50
+April 2016,Delhi,300,1500,150.00,750.00
+May 2016,Delhi,330,1650,165.00,825.00
+June 2016,Delhi,360,1800,180.00,900.00
+July 2016,Delhi,390,1950,195.00,975.00
+August 2016,Delhi,420,2100,210.00,"1,050.00"
+September 2016,Delhi,450,2250,225.00,"1,125.00"
+October 2016,Delhi,480,2400,240.00,"1,200.00"
+November 2016,Delhi,510,2550,255.00,"1,275.00"
+December 2016,Delhi,540,2700,270.00,"1,350.00"
+January 2017,Delhi,570,2850,285.00,"1,425.00"
+February 2017,Delhi,600,3000,300.00,"1,500.00"
+March 2017,Delhi,630,3150,315.00,"1,575.00"
+April 2017,Delhi,660,3300,330.00,"1,650.00"
+May 2017,Delhi,690,3450,345.00,"1,725.00"
+June 2017,Delhi,720,3600,360.00,"1,800.00"
+July 2017,Delhi,750,3750,375.00,"1,875.00"
+August 2017,Delhi,780,3900,390.00,"1,950.00"
+September 2017,Delhi,810,4050,405.00,"2,025.00"
+October 2017,Delhi,840,4200,420.00,"2,100.00"
+November 2017,Delhi,870,4350,435.00,"2,175.00"
+December 2017,Delhi,900,4500,450.00,"2,250.00"
+January 2018,Delhi,930,4650,465.00,"2,325.00"
+February 2018,Delhi,960,4800,480.00,"2,400.00"
+March 2018,Delhi,990,4950,495.00,"2,475.00"
+April 2018,Delhi,1020,5100,510.00,"2,550.00"
+May 2018,Delhi,1050,5250,525.00,"2,625.00"
+June 2018,Delhi,1080,5400,540.00,"2,700.00"
+July 2018,Delhi,1110,5550,555.00,"2,775.00"
+August 2018,Delhi,1140,5700,570.00,"2,850.00"
+September 2018,Delhi,1170,5850,585.00,"2,925.00"
+October 2018,Delhi,1200,6000,600.00,"3,000.00"
+November 2018,Delhi,1260,6300,630.00,"3,150.00"
+December 2018,Delhi,1320,6600,660.00,"3,300.00"
+January 2019,Delhi,1380,6900,690.00,"3,450.00"
+February 2019,Delhi,1440,7200,720.00,"3,600.00"
+March 2019,Delhi,1500,7500,750.00,"3,750.00"
+April 2019,Delhi,1560,7800,780.00,"3,900.00"
+May 2019,Delhi,1680,8400,840.00,"4,200.00"
+June 2019,Delhi,1800,9000,900.00,"4,500.00"
+July 2019,Delhi,1920,9600,960.00,"4,800.00"
+August 2019,Delhi,2040,10200,"1,020.00","5,100.00"
+September 2019,Delhi,2160,10800,"1,080.00","5,400.00"
+October 2019,Delhi,2280,11400,"1,140.00","5,700.00"
+November 2019,Delhi,2400,12000,"1,200.00","6,000.00"
+December 2019,Delhi,2520,12600,"1,260.00","6,300.00"
+January 2020,Delhi,2640,13200,"1,320.00","6,600.00"
+February 2020,Delhi,2760,13800,"1,380.00","6,900.00"
+March 2020,Delhi,2880,14400,"1,440.00","7,200.00"
+April 2020,Delhi,2940,14700,"1,470.00","7,350.00"
+May 2020,Delhi,3000,15000,"1,500.00","7,500.00"
+June 2020,Delhi,3360,16800,"1,680.00","8,400.00"
+July 2020,Delhi,3840,19200,"1,920.00","9,600.00"
+August 2020,Delhi,4320,21600,"2,160.00","10,800.00"
+September 2020,Delhi,4800,24000,"2,400.00","12,000.00"
+October 2020,Delhi,5280,26400,"2,640.00","13,200.00"
+November 2020,Delhi,5760,28800,"2,880.00","14,400.00"
+December 2020,Delhi,6240,31200,"3,120.00","15,600.00"
+January 2021,Delhi,6720,33600,"3,360.00","16,800.00"
+February 2021,Delhi,7200,36000,"3,600.00","18,000.00"
+March 2021,Delhi,7680,38400,"3,840.00","19,200.00"
+April 2021,Delhi,8064,40032,"4,003.00","20,016.00"
+May 2021,Delhi,8640,43200,"4,320.00","21,600.00"
+June 2021,Delhi,9216,46464,"4,647.00","23,232.00"
+July 2021,Delhi,9792,49680,"4,968.00","24,816.00"
+August 2021,Delhi,10368,52944,"5,294.00","26,448.00"
+September 2021,Delhi,10944,56208,"5,621.00","28,080.00"
+October 2021,Delhi,11520,59472,"5,948.00","29,712.00"
+November 2021,Delhi,12288,63120,"6,312.00","31,520.00"
+December 2021,Delhi,13056,66768,"6,678.00","33,328.00"
+January 2022,Delhi,13992,70736,"7,074.00","35,328.00"
+February 2022,Delhi,14928,74704,"7,470.00","37,248.00"
+March 2022,Delhi,15864,78672,"7,868.00","39,168.00"
+April 2022,Delhi,16800,82640,"8,265.00","41,104.00"
+May 2022,Delhi,17832,87360,"8,737.00","43,392.00"
+June 2022,Delhi,19616,96640,"9,664.00","48,000.00"
+July 2022,Delhi,21400,105920,"10,592.00","52,480.00"
+August 2022,Delhi,23184,115328,"11,535.00","57,008.00"
+September 2022,Delhi,24968,124736,"12,474.00","61,536.00"
+October 2022,Delhi,28224,141696,"14,170.00","69,840.00"
+November 2022,Delhi,30408,151808,"15,181.00","74,592.00"
+December 2022,Delhi,32640,162240,"16,224.00","79,520.00"
+January 2023,Delhi,34800,172608,"17,261.00","84,360.00"
+February 2023,Delhi,36360,180696,"18,071.00","88,704.00"
+March 2023,Delhi,37920,188784,"18,879.00","93,048.00"
+April 2023,Delhi,39480,196872,"19,687.00","97,392.00"
+May 2023,Delhi,41760,207840,"20,785.00","102,688.00"
+June 2023,Delhi,46128,229760,"22,978.00","113,328.00"
+July 2023,Delhi,50496,251728,"25,175.00","123,968.00"
+August 2023,Delhi,54864,273696,"27,377.00","134,608.00"
+September 2023,Delhi,59232,295664,"29,568.00","145,248.00"
+October 2023,Delhi,63600,317632,"31,765.00","155,904.00"
+April 2016,Goa,10.00,50.00,5.00,25.00
+May 2016,Goa,11.00,55.00,5.50,27.50
+June 2016,Goa,12.00,60.00,6.00,30.00
+July 2016,Goa,13.00,65.00,6.50,32.50
+August 2016,Goa,14.00,70.00,7.00,35.00
+September 2016,Goa,15.00,75.00,7.50,37.50
+October 2016,Goa,16.00,80.00,8.00,40.00
+November 2016,Goa,17.00,85.00,8.50,42.50
+December 2016,Goa,18.00,90.00,9.00,45.00
+January 2017,Goa,19.00,95.00,9.50,47.50
+February 2017,Goa,20.00,100.00,10.00,50.00
+March 2017,Goa,21.00,105.00,10.50,52.50
+April 2017,Goa,22.00,110.00,11.00,55.00
+May 2017,Goa,23.00,115.00,11.50,57.50
+June 2017,Goa,24.00,120.00,12.00,60.00
+July 2017,Goa,25.00,125.00,12.50,62.50
+August 2017,Goa,26.00,130.00,13.00,65.00
+September 2017,Goa,27.00,135.00,13.50,67.50
+October 2017,Goa,28.00,140.00,14.00,70.00
+November 2017,Goa,29.00,145.00,14.50,72.50
+December 2017,Goa,30.00,150.00,15.00,75.00
+January 2018,Goa,31.00,155.00,15.50,77.50
+February 2018,Goa,32.00,160.00,16.00,80.00
+March 2018,Goa,33.00,165.00,16.50,82.50
+April 2018,Goa,34.00,170.00,17.00,85.00
+May 2018,Goa,35.00,175.00,17.50,87.50
+June 2018,Goa,36.00,180.00,18.00,90.00
+July 2018,Goa,37.00,185.00,18.50,92.50
+August 2018,Goa,38.00,190.00,19.00,95.00
+September 2018,Goa,39.00,195.00,19.50,97.50
+October 2018,Goa,40.00,200.00,20.00,100.00
+November 2018,Goa,42.00,210.00,21.00,105.00
+December 2018,Goa,44.00,220.00,22.00,110.00
+January 2019,Goa,46.00,230.00,23.00,115.00
+February 2019,Goa,48.00,240.00,24.00,120.00
+March 2019,Goa,50.00,250.00,25.00,125.00
+April 2019,Goa,52.00,260.00,26.00,130.00
+May 2019,Goa,56.00,280.00,28.00,140.00
+June 2019,Goa,60.00,300.00,30.00,150.00
+July 2019,Goa,64.00,320.00,32.00,160.00
+August 2019,Goa,68.00,340.00,34.00,170.00
+September 2019,Goa,72.00,360.00,36.00,180.00
+October 2019,Goa,76.00,380.00,38.00,190.00
+November 2019,Goa,80.00,400.00,40.00,200.00
+December 2019,Goa,84.00,420.00,42.00,210.00
+January 2020,Goa,88.00,440.00,44.00,220.00
+February 2020,Goa,92.00,460.00,46.00,230.00
+March 2020,Goa,96.00,480.00,48.00,240.00
+April 2020,Goa,98.00,490.00,49.00,245.00
+May 2020,Goa,100.00,500.00,50.00,250.00
+June 2020,Goa,112.00,560.00,56.00,280.00
+July 2020,Goa,128.00,640.00,64.00,320.00
+August 2020,Goa,144.00,720.00,72.00,360.00
+September 2020,Goa,160.00,800.00,80.00,400.00
+October 2020,Goa,176.00,880.00,88.00,440.00
+November 2020,Goa,192.00,960.00,96.00,480.00
+December 2020,Goa,208.00,"1,040.00",104.00,520.00
+January 2021,Goa,224.00,"1,120.00",112.00,560.00
+February 2021,Goa,240.00,"1,200.00",120.00,600.00
+March 2021,Goa,256.00,"1,280.00",128.00,640.00
+April 2021,Goa,266.00,"1,328.00",134.00,664.00
+May 2021,Goa,284.00,"1,420.00",142.00,710.00
+June 2021,Goa,302.00,"1,512.00",150.00,756.00
+July 2021,Goa,320.00,"1,604.00",158.00,802.00
+August 2021,Goa,338.00,"1,696.00",166.00,848.00
+September 2021,Goa,356.00,"1,788.00",174.00,894.00
+October 2021,Goa,374.00,"1,880.00",182.00,940.00
+November 2021,Goa,394.00,"1,976.00",191.00,988.00
+December 2021,Goa,414.00,"2,072.00",200.00,"1,036.00"
+January 2022,Goa,444.00,"2,204.00",214.00,"1,102.00"
+February 2022,Goa,474.00,"2,336.00",228.00,"1,168.00"
+March 2022,Goa,504.00,"2,468.00",242.00,"1,234.00"
+April 2022,Goa,534.00,"2,600.00",256.00,"1,300.00"
+May 2022,Goa,566.00,"2,744.00",272.00,"1,368.00"
+June 2022,Goa,624.00,"3,040.00",304.00,"1,520.00"
+July 2022,Goa,682.00,"3,336.00",336.00,"1,672.00"
+August 2022,Goa,740.00,"3,632.00",368.00,"1,824.00"
+September 2022,Goa,798.00,"3,928.00",400.00,"1,976.00"
+October 2022,Goa,900.00,"4,480.00",448.00,"2,240.00"
+November 2022,Goa,966.00,"4,788.00",478.00,"2,390.00"
+December 2022,Goa,"1,038.00","5,120.00",510.00,"2,550.00"
+January 2023,Goa,"1,110.00","5,460.00",542.00,"2,710.00"
+February 2023,Goa,"1,164.00","5,712.00",568.00,"2,832.00"
+March 2023,Goa,"1,218.00","5,964.00",594.00,"2,954.00"
+April 2023,Goa,"1,272.00","6,216.00",620.00,"3,076.00"
+May 2023,Goa,"1,344.00","6,564.00",656.00,"3,280.00"
+June 2023,Goa,"1,488.00","7,280.00",728.00,"3,640.00"
+July 2023,Goa,"1,632.00","7,996.00",800.00,"4,000.00"
+August 2023,Goa,"1,776.00","8,712.00",872.00,"4,360.00"
+September 2023,Goa,"1,920.00","9,428.00",944.00,"4,720.00"
+October 2023,Goa,"2,064.00","10,144.00","1,016.00","5,080.00"
+April 2016,Gujarat,300.00,"1,500.00",150.00,750.00
+May 2016,Gujarat,330.00,"1,650.00",165.00,825.00
+June 2016,Gujarat,360.00,"1,800.00",180.00,900.00
+July 2016,Gujarat,390.00,"1,950.00",195.00,975.00
+August 2016,Gujarat,420.00,"2,100.00",210.00,"1,050.00"
+September 2016,Gujarat,450.00,"2,250.00",225.00,"1,125.00"
+October 2016,Gujarat,480.00,"2,400.00",240.00,"1,200.00"
+November 2016,Gujarat,510.00,"2,550.00",255.00,"1,275.00"
+December 2016,Gujarat,540.00,"2,700.00",270.00,"1,350.00"
+January 2017,Gujarat,570.00,"2,850.00",285.00,"1,425.00"
+February 2017,Gujarat,600.00,"3,000.00",300.00,"1,500.00"
+March 2017,Gujarat,630.00,"3,150.00",315.00,"1,575.00"
+April 2017,Gujarat,660.00,"3,300.00",330.00,"1,650.00"
+May 2017,Gujarat,690.00,"3,450.00",345.00,"1,725.00"
+June 2017,Gujarat,720.00,"3,600.00",360.00,"1,800.00"
+July 2017,Gujarat,750.00,"3,750.00",375.00,"1,875.00"
+August 2017,Gujarat,780.00,"3,900.00",390.00,"1,950.00"
+September 2017,Gujarat,810.00,"4,050.00",405.00,"2,025.00"
+October 2017,Gujarat,840.00,"4,200.00",420.00,"2,100.00"
+November 2017,Gujarat,870.00,"4,350.00",435.00,"2,175.00"
+December 2017,Gujarat,900.00,"4,500.00",450.00,"2,250.00"
+January 2018,Gujarat,930.00,"4,650.00",465.00,"2,325.00"
+February 2018,Gujarat,960.00,"4,800.00",480.00,"2,400.00"
+March 2018,Gujarat,990.00,"4,950.00",495.00,"2,475.00"
+April 2018,Gujarat,"1,020.00","5,100.00",510.00,"2,550.00"
+May 2018,Gujarat,"1,050.00","5,250.00",525.00,"2,625.00"
+June 2018,Gujarat,"1,080.00","5,400.00",540.00,"2,700.00"
+July 2018,Gujarat,"1,110.00","5,550.00",555.00,"2,775.00"
+August 2018,Gujarat,"1,140.00","5,700.00",570.00,"2,850.00"
+September 2018,Gujarat,"1,170.00","5,850.00",585.00,"2,925.00"
+October 2018,Gujarat,"1,200.00","6,000.00",600.00,"3,000.00"
+November 2018,Gujarat,"1,260.00","6,300.00",630.00,"3,150.00"
+December 2018,Gujarat,"1,320.00","6,600.00",660.00,"3,300.00"
+January 2019,Gujarat,"1,380.00","6,900.00",690.00,"3,450.00"
+February 2019,Gujarat,"1,440.00","7,200.00",720.00,"3,600.00"
+March 2019,Gujarat,"1,500.00","7,500.00",750.00,"3,750.00"
+April 2019,Gujarat,"1,560.00","7,800.00",780.00,"3,900.00"
+May 2019,Gujarat,"1,680.00","8,400.00",840.00,"4,200.00"
+June 2019,Gujarat,"1,800.00","9,000.00",900.00,"4,500.00"
+July 2019,Gujarat,"1,920.00","9,600.00",960.00,"4,800.00"
+August 2019,Gujarat,"2,040.00","10,200.00","1,020.00","5,100.00"
+September 2019,Gujarat,"2,160.00","10,800.00","1,080.00","5,400.00"
+October 2019,Gujarat,"2,280.00","11,400.00","1,140.00","5,700.00"
+November 2019,Gujarat,"2,400.00","12,000.00","1,200.00","6,000.00"
+December 2019,Gujarat,"2,520.00","12,600.00","1,260.00","6,300.00"
+January 2020,Gujarat,"2,640.00","13,200.00","1,320.00","6,600.00"
+February 2020,Gujarat,"2,760.00","13,800.00","1,380.00","6,900.00"
+March 2020,Gujarat,"2,880.00","14,400.00","1,440.00","7,200.00"
+April 2020,Gujarat,"2,940.00","14,700.00","1,470.00","7,350.00"
+May 2020,Gujarat,"3,000.00","15,000.00","1,500.00","7,500.00"
+June 2020,Gujarat,"3,360.00","16,800.00","1,680.00","8,400.00"
+July 2020,Gujarat,"3,840.00","19,200.00","1,920.00","9,600.00"
+August 2020,Gujarat,"4,320.00","21,600.00","2,160.00","10,800.00"
+September 2020,Gujarat,"4,800.00","24,000.00","2,400.00","12,000.00"
+October 2020,Gujarat,"5,280.00","26,400.00","2,640.00","13,200.00"
+November 2020,Gujarat,"5,760.00","28,800.00","2,880.00","14,400.00"
+December 2020,Gujarat,"6,240.00","31,200.00","3,120.00","15,600.00"
+January 2021,Gujarat,"6,720.00","33,600.00","3,360.00","16,800.00"
+February 2021,Gujarat,"7,200.00","36,000.00","3,600.00","18,000.00"
+March 2021,Gujarat,"7,680.00","38,400.00","3,840.00","19,200.00"
+April 2021,Gujarat,"8,064.00","40,032.00","3,989.00","20,168.00"
+May 2021,Gujarat,"8,640.00","43,200.00","4,320.00","21,600.00"
+June 2021,Gujarat,"9,216.00","46,080.00","4,656.00","23,040.00"
+July 2021,Gujarat,"9,792.00","50,016.00","4,992.00","24,480.00"
+August 2021,Gujarat,"10,368.00","53,424.00","5,328.00","25,920.00"
+September 2021,Gujarat,"10,944.00","56,832.00","5,664.00","27,360.00"
+October 2021,Gujarat,"11,520.00","60,240.00","6,000.00","28,800.00"
+November 2021,Gujarat,"12,288.00","64,512.00","6,360.00","30,240.00"
+December 2021,Gujarat,"13,056.00","68,832.00","6,720.00","31,680.00"
+January 2022,Gujarat,"13,992.00","73,152.00","7,128.00","33,264.00"
+February 2022,Gujarat,"14,928.00","77,472.00","7,536.00","34,848.00"
+March 2022,Gujarat,"15,864.00","81,792.00","7,944.00","36,432.00"
+April 2022,Gujarat,"16,800.00","86,112.00","8,352.00","38,016.00"
+May 2022,Gujarat,"17,832.00","90,816.00","8,832.00","39,840.00"
+June 2022,Gujarat,"19,616.00","100,608.00","9,792.00","44,160.00"
+July 2022,Gujarat,"21,400.00","110,400.00","10,752.00","48,480.00"
+August 2022,Gujarat,"23,184.00","120,320.00","11,712.00","52,800.00"
+September 2022,Gujarat,"24,968.00","130,240.00","12,672.00","57,120.00"
+October 2022,Gujarat,"28,224.00","148,800.00","14,336.00","64,896.00"
+November 2022,Gujarat,"30,408.00","159,360.00","15,342.00","69,312.00"
+December 2022,Gujarat,"32,640.00","170,400.00","16,380.00","73,968.00"
+January 2023,Gujarat,"34,800.00","181,600.00","17,448.00","78,624.00"
+February 2023,Gujarat,"36,360.00","190,400.00","18,204.00","82,080.00"
+March 2023,Gujarat,"37,920.00","199,200.00","18,960.00","85,536.00"
+April 2023,Gujarat,"39,480.00","208,000.00","19,716.00","88,992.00"
+May 2023,Gujarat,"41,760.00","220,800.00","20,808.00","93,696.00"
+June 2023,Gujarat,"46,128.00","244,800.00","23,040.00","103,680.00"
+July 2023,Gujarat,"50,496.00","266,800.00","25,272.00","113,664.00"
+August 2023,Gujarat,"54,864.00","290,400.00","27,504.00","123,648.00"
+September 2023,Gujarat,"59,232.00","314,000.00","29,736.00","133,632.00"
+October 2023,Gujarat,"63,600.00","338,000.00","31,968.00","143,616.00"
+April 2016,Haryana,150.00,750.00,75.00,375.00
+May 2016,Haryana,165.00,825.00,82.50,412.50
+June 2016,Haryana,180.00,900.00,90.00,450.00
+July 2016,Haryana,195.00,975.00,97.50,487.50
+August 2016,Haryana,210.00,"1,050.00",105.00,525.00
+September 2016,Haryana,225.00,"1,125.00",112.50,562.50
+October 2016,Haryana,240.00,"1,200.00",120.00,600.00
+November 2016,Haryana,255.00,"1,275.00",127.50,637.50
+December 2016,Haryana,270.00,"1,350.00",135.00,675.00
+January 2017,Haryana,285.00,"1,425.00",142.50,712.50
+February 2017,Haryana,300.00,"1,500.00",150.00,750.00
+March 2017,Haryana,315.00,"1,575.00",157.50,787.50
+April 2017,Haryana,330.00,"1,650.00",165.00,825.00
+May 2017,Haryana,345.00,"1,725.00",172.50,862.50
+June 2017,Haryana,360.00,"1,800.00",180.00,900.00
+July 2017,Haryana,375.00,"1,875.00",187.50,937.50
+August 2017,Haryana,390.00,"1,950.00",195.00,975.00
+September 2017,Haryana,405.00,"2,025.00",202.50,"1,012.50"
+October 2017,Haryana,420.00,"2,100.00",210.00,"1,050.00"
+November 2017,Haryana,435.00,"2,175.00",217.50,"1,087.50"
+December 2017,Haryana,450.00,"2,250.00",225.00,"1,125.00"
+January 2018,Haryana,465.00,"2,325.00",232.50,"1,162.50"
+February 2018,Haryana,480.00,"2,400.00",240.00,"1,200.00"
+March 2018,Haryana,495.00,"2,475.00",247.50,"1,237.50"
+April 2018,Haryana,510.00,"2,550.00",255.00,"1,275.00"
+May 2018,Haryana,525.00,"2,625.00",262.50,"1,312.50"
+June 2018,Haryana,540.00,"2,700.00",270.00,"1,350.00"
+July 2018,Haryana,555.00,"2,775.00",277.50,"1,387.50"
+August 2018,Haryana,570.00,"2,850.00",285.00,"1,425.00"
+September 2018,Haryana,585.00,"2,925.00",292.50,"1,462.50"
+October 2018,Haryana,600.00,"3,000.00",300.00,"1,500.00"
+November 2018,Haryana,630.00,"3,150.00",315.00,"1,575.00"
+December 2018,Haryana,660.00,"3,300.00",330.00,"1,650.00"
+January 2019,Haryana,690.00,"3,450.00",345.00,"1,725.00"
+February 2019,Haryana,720.00,"3,600.00",360.00,"1,800.00"
+March 2019,Haryana,750.00,"3,750.00",375.00,"1,875.00"
+April 2019,Haryana,780.00,"3,900.00",390.00,"1,950.00"
+May 2019,Haryana,840.00,"4,200.00",420.00,"2,100.00"
+June 2019,Haryana,900.00,"4,500.00",450.00,"2,250.00"
+July 2019,Haryana,960.00,"4,800.00",480.00,"2,400.00"
+August 2019,Haryana,"1,020.00","5,100.00",510.00,"2,550.00"
+September 2019,Haryana,"1,080.00","5,400.00",540.00,"2,700.00"
+October 2019,Haryana,"1,140.00","5,700.00",570.00,"2,850.00"
+November 2019,Haryana,"1,200.00","6,000.00",600.00,"3,000.00"
+December 2019,Haryana,"1,260.00","6,300.00",630.00,"3,150.00"
+January 2020,Haryana,"1,320.00","6,600.00",660.00,"3,300.00"
+February 2020,Haryana,"1,380.00","6,900.00",690.00,"3,450.00"
+March 2020,Haryana,"1,440.00","7,200.00",720.00,"3,600.00"
+April 2020,Haryana,"1,470.00","7,350.00",735.00,"3,675.00"
+May 2020,Haryana,"1,500.00","7,500.00",750.00,"3,750.00"
+June 2020,Haryana,"1,680.00","8,400.00",840.00,"4,200.00"
+July 2020,Haryana,"1,920.00","9,600.00",960.00,"4,800.00"
+August 2020,Haryana,"2,160.00","10,800.00","1,080.00","5,400.00"
+September 2020,Haryana,"2,400.00","12,000.00","1,200.00","6,000.00"
+October 2020,Haryana,"2,640.00","13,200.00","1,320.00","6,600.00"
+November 2020,Haryana,"2,880.00","14,400.00","1,440.00","7,200.00"
+December 2020,Haryana,"3,120.00","15,600.00","1,560.00","7,800.00"
+January 2021,Haryana,"3,360.00","16,800.00","1,680.00","8,400.00"
+February 2021,Haryana,"3,600.00","18,000.00","1,800.00","9,000.00"
+March 2021,Haryana,"3,840.00","19,200.00","1,920.00","9,600.00"
+April 2021,Haryana,"3,989.00","20,168.00","2,052.00","10,032.00"
+May 2021,Haryana,"4,320.00","21,600.00","2,160.00","10,800.00"
+June 2021,Haryana,"4,656.00","23,040.00","2,304.00","11,520.00"
+July 2021,Haryana,"4,992.00","24,480.00","2,448.00","12,240.00"
+August 2021,Haryana,"5,328.00","25,920.00","2,592.00","12,960.00"
+September 2021,Haryana,"5,664.00","27,360.00","2,736.00","13,680.00"
+October 2021,Haryana,"6,000.00","28,800.00","2,880.00","14,400.00"
+November 2021,Haryana,"6,360.00","30,240.00","3,024.00","15,120.00"
+December 2021,Haryana,"6,720.00","31,680.00","3,168.00","15,840.00"
+January 2022,Haryana,"7,128.00","33,264.00","3,384.00","16,704.00"
+February 2022,Haryana,"7,536.00","34,848.00","3,600.00","17,280.00"
+March 2022,Haryana,"7,944.00","36,432.00","3,816.00","17,856.00"
+April 2022,Haryana,"8,352.00","38,016.00","4,032.00","18,432.00"
+May 2022,Haryana,"8,832.00","39,840.00","4,272.00","19,296.00"
+June 2022,Haryana,"9,792.00","44,160.00","4,704.00","21,504.00"
+July 2022,Haryana,"10,752.00","48,480.00","5,136.00","23,712.00"
+August 2022,Haryana,"11,712.00","52,800.00","5,568.00","25,920.00"
+September 2022,Haryana,"12,672.00","57,120.00","6,000.00","28,128.00"
+October 2022,Haryana,"14,336.00","64,896.00","6,720.00","31,680.00"
+November 2022,Haryana,"15,342.00","69,312.00","7,179.00","33,816.00"
+December 2022,Haryana,"16,380.00","73,968.00","7,665.00","36,096.00"
+January 2023,Haryana,"17,448.00","78,624.00","8,151.00","38,376.00"
+February 2023,Haryana,"18,204.00","82,080.00","8,514.00","40,248.00"
+March 2023,Haryana,"18,960.00","85,536.00","8,877.00","42,120.00"
+April 2023,Haryana,"19,716.00","88,992.00","9,240.00","43,992.00"
+May 2023,Haryana,"20,808.00","93,696.00","9,744.00","46,432.00"
+June 2023,Haryana,"23,040.00","103,680.00","10,816.00","51,840.00"
+July 2023,Haryana,"25,272.00","113,664.00","11,888.00","57,280.00"
+August 2023,Haryana,"27,504.00","123,648.00","12,960.00","62,720.00"
+September 2023,Haryana,"29,736.00","133,632.00","14,032.00","68,160.00"
+October 2023,Haryana,"31,968.00","143,616.00","15,104.00","73,600.00"
+April 2016,Himachal Pradesh,20.00,100.00,10.00,50.00
+May 2016,Himachal Pradesh,22.00,110.00,11.00,55.00
+June 2016,Himachal Pradesh,24.00,120.00,12.00,60.00
+July 2016,Himachal Pradesh,26.00,130.00,13.00,65.00
+August 2016,Himachal Pradesh,28.00,140.00,14.00,70.00
+September 2016,Himachal Pradesh,30.00,150.00,15.00,75.00
+October 2016,Himachal Pradesh,32.00,160.00,16.00,80.00
+November 2016,Himachal Pradesh,34.00,170.00,17.00,85.00
+December 2016,Himachal Pradesh,36.00,180.00,18.00,90.00
+January 2017,Himachal Pradesh,38.00,190.00,19.00,95.00
+February 2017,Himachal Pradesh,40.00,200.00,20.00,100.00
+March 2017,Himachal Pradesh,42.00,210.00,21.00,105.00
+April 2017,Himachal Pradesh,44.00,220.00,22.00,110.00
+May 2017,Himachal Pradesh,46.00,230.00,23.00,115.00
+June 2017,Himachal Pradesh,48.00,240.00,24.00,120.00
+July 2017,Himachal Pradesh,50.00,250.00,25.00,125.00
+August 2017,Himachal Pradesh,52.00,260.00,26.00,130.00
+September 2017,Himachal Pradesh,54.00,270.00,27.00,135.00
+October 2017,Himachal Pradesh,56.00,280.00,28.00,140.00
+November 2017,Himachal Pradesh,58.00,290.00,29.00,145.00
+December 2017,Himachal Pradesh,60.00,300.00,30.00,150.00
+January 2018,Himachal Pradesh,62.00,310.00,31.00,155.00
+February 2018,Himachal Pradesh,64.00,320.00,32.00,160.00
+March 2018,Himachal Pradesh,66.00,330.00,33.00,165.00
+April 2018,Himachal Pradesh,68.00,340.00,34.00,170.00
+May 2018,Himachal Pradesh,70.00,350.00,35.00,175.00
+June 2018,Himachal Pradesh,72.00,360.00,36.00,180.00
+July 2018,Himachal Pradesh,74.00,370.00,37.00,185.00
+August 2018,Himachal Pradesh,76.00,380.00,38.00,190.00
+September 2018,Himachal Pradesh,78.00,390.00,39.00,195.00
+October 2018,Himachal Pradesh,80.00,400.00,40.00,200.00
+November 2018,Himachal Pradesh,84.00,420.00,42.00,210.00
+December 2018,Himachal Pradesh,88.00,440.00,44.00,220.00
+January 2019,Himachal Pradesh,92.00,460.00,46.00,230.00
+February 2019,Himachal Pradesh,96.00,480.00,48.00,240.00
+March 2019,Himachal Pradesh,100.00,500.00,50.00,250.00
+April 2019,Himachal Pradesh,104.00,520.00,52.00,260.00
+May 2019,Himachal Pradesh,112.00,560.00,56.00,280.00
+June 2019,Himachal Pradesh,120.00,600.00,60.00,300.00
+July 2019,Himachal Pradesh,128.00,640.00,64.00,320.00
+August 2019,Himachal Pradesh,136.00,680.00,68.00,340.00
+September 2019,Himachal Pradesh,144.00,720.00,72.00,360.00
+October 2019,Himachal Pradesh,152.00,760.00,76.00,380.00
+November 2019,Himachal Pradesh,160.00,800.00,80.00,400.00
+December 2019,Himachal Pradesh,168.00,840.00,84.00,420.00
+January 2020,Himachal Pradesh,176.00,880.00,88.00,440.00
+February 2020,Himachal Pradesh,184.00,920.00,92.00,460.00
+March 2020,Himachal Pradesh,192.00,960.00,96.00,480.00
+April 2020,Himachal Pradesh,196.00,980.00,98.00,490.00
+May 2020,Himachal Pradesh,200.00,"1,000.00",100.00,500.00
+June 2020,Himachal Pradesh,224.00,"1,120.00",112.00,560.00
+July 2020,Himachal Pradesh,256.00,"1,280.00",128.00,640.00
+August 2020,Himachal Pradesh,288.00,"1,440.00",144.00,720.00
+September 2020,Himachal Pradesh,320.00,"1,600.00",160.00,800.00
+October 2020,Himachal Pradesh,352.00,"1,760.00",176.00,880.00
+November 2020,Himachal Pradesh,384.00,"1,920.00",192.00,960.00
+December 2020,Himachal Pradesh,416.00,"2,080.00",208.00,"1,040.00"
+January 2021,Himachal Pradesh,448.00,"2,240.00",224.00,"1,120.00"
+February 2021,Himachal Pradesh,480.00,"2,400.00",240.00,"1,200.00"
+March 2021,Himachal Pradesh,512.00,"2,560.00",256.00,"1,280.00"
+April 2021,Himachal Pradesh,537.00,"2,657.00",269.00,"1,337.00"
+May 2021,Himachal Pradesh,576.00,"2,880.00",288.00,"1,440.00"
+June 2021,Himachal Pradesh,615.00,"3,103.00",309.00,"1,549.00"
+July 2021,Himachal Pradesh,654.00,"3,326.00",330.00,"1,658.00"
+August 2021,Himachal Pradesh,693.00,"3,549.00",351.00,"1,767.00"
+September 2021,Himachal Pradesh,732.00,"3,772.00",372.00,"1,876.00"
+October 2021,Himachal Pradesh,771.00,"3,995.00",393.00,"1,985.00"
+November 2021,Himachal Pradesh,822.00,"4,257.00",417.00,"2,118.00"
+December 2021,Himachal Pradesh,879.00,"4,560.00",444.00,"2,274.00"
+January 2022,Himachal Pradesh,936.00,"4,863.00",471.00,"2,430.00"
+February 2022,Himachal Pradesh,993.00,"5,166.00",498.00,"2,586.00"
+March 2022,Himachal Pradesh,"1,050.00","5,469.00",525.00,"2,742.00"
+April 2022,Himachal Pradesh,"1,107.00","5,772.00",552.00,"2,898.00"
+May 2022,Himachal Pradesh,"1,170.00","6,132.00",584.00,"3,072.00"
+June 2022,Himachal Pradesh,"1,296.00","6,804.00",648.00,"3,408.00"
+July 2022,Himachal Pradesh,"1,422.00","7,476.00",712.00,"3,744.00"
+August 2022,Himachal Pradesh,"1,548.00","8,148.00",776.00,"4,080.00"
+September 2022,Himachal Pradesh,"1,674.00","8,820.00",840.00,"4,416.00"
+October 2022,Himachal Pradesh,"1,890.00","10,000.00",945.00,"5,000.00"
+November 2022,Himachal Pradesh,"2,025.00","10,700.00","1,010.00","5,350.00"
+December 2022,Himachal Pradesh,"2,175.00","11,500.00","1,085.00","5,775.00"
+January 2023,Himachal Pradesh,"2,325.00","12,300.00","1,160.00","6,200.00"
+February 2023,Himachal Pradesh,"2,430.00","12,860.00","1,213.00","6,471.00"
+March 2023,Himachal Pradesh,"2,535.00","13,420.00","1,266.00","6,742.00"
+April 2023,Himachal Pradesh,"2,640.00","13,980.00","1,319.00","7,013.00"
+May 2023,Himachal Pradesh,"2,790.00","14,790.00","1,394.00","7,414.00"
+June 2023,Himachal Pradesh,"3,090.00","16,410.00","1,548.00","8,256.00"
+July 2023,Himachal Pradesh,"3,390.00","18,030.00","1,702.00","9,098.00"
+August 2023,Himachal Pradesh,"3,690.00","19,650.00","1,856.00","9,940.00"
+September 2023,Himachal Pradesh,"3,990.00","21,270.00","2,010.00","10,782.00"
+October 2023,Himachal Pradesh,"4,290.00","22,890.00","2,164.00","11,624.00"
+April 2016,Jammu and Kashmir,5,25,2.50,12.50
+May 2016,Jammu and Kashmir,5.5,27.5,2.75,13.75
+June 2016,Jammu and Kashmir,6,30,3.00,15.00
+July 2016,Jammu and Kashmir,6.5,32.5,3.25,16.25
+August 2016,Jammu and Kashmir,7,35,3.50,17.50
+September 2016,Jammu and Kashmir,7.5,37.5,3.75,18.75
+October 2016,Jammu and Kashmir,8,40,4.00,20.00
+November 2016,Jammu and Kashmir,8.5,42.5,4.25,21.25
+December 2016,Jammu and Kashmir,9,45,4.50,22.50
+January 2017,Jammu and Kashmir,9.5,47.5,4.75,23.75
+February 2017,Jammu and Kashmir,10,50,5.00,25.00
+March 2017,Jammu and Kashmir,10.5,52.5,5.25,26.25
+April 2017,Jammu and Kashmir,11,55,5.50,27.50
+May 2017,Jammu and Kashmir,11.5,57.5,5.75,28.75
+June 2017,Jammu and Kashmir,12,60,6.00,30.00
+July 2017,Jammu and Kashmir,12.5,62.5,6.25,31.25
+August 2017,Jammu and Kashmir,13,65,6.50,32.50
+September 2017,Jammu and Kashmir,13.5,67.5,6.75,33.75
+October 2017,Jammu and Kashmir,14,70,7.00,35.00
+November 2017,Jammu and Kashmir,14.5,72.5,7.25,36.25
+December 2017,Jammu and Kashmir,15,75,7.50,37.50
+January 2018,Jammu and Kashmir,15.5,77.5,7.75,38.75
+February 2018,Jammu and Kashmir,16,80,8.00,40.00
+March 2018,Jammu and Kashmir,16.5,82.5,8.25,41.25
+April 2018,Jammu and Kashmir,17,85,8.50,42.50
+May 2018,Jammu and Kashmir,17.5,87.5,8.75,43.75
+June 2018,Jammu and Kashmir,18,90,9.00,45.00
+July 2018,Jammu and Kashmir,18.5,92.5,9.25,46.25
+August 2018,Jammu and Kashmir,19,95,9.50,47.50
+September 2018,Jammu and Kashmir,19.5,97.5,9.75,48.75
+October 2018,Jammu and Kashmir,20,100,10.00,50.00
+November 2018,Jammu and Kashmir,21,105,10.50,52.50
+December 2018,Jammu and Kashmir,22,110,11.00,55.00
+January 2019,Jammu and Kashmir,23,115,11.50,57.50
+February 2019,Jammu and Kashmir,24,120,12.00,60.00
+March 2019,Jammu and Kashmir,25,125,12.50,62.50
+April 2019,Jammu and Kashmir,26,130,13.00,65.00
+May 2019,Jammu and Kashmir,28,140,14.00,70.00
+June 2019,Jammu and Kashmir,30,150,15.00,75.00
+July 2019,Jammu and Kashmir,32,160,16.00,80.00
+August 2019,Jammu and Kashmir,34,170,17.00,85.00
+September 2019,Jammu and Kashmir,36,180,18.00,90.00
+October 2019,Jammu and Kashmir,38,190,19.00,95.00
+November 2019,Jammu and Kashmir,40,200,20.00,100.00
+December 2019,Jammu and Kashmir,42,210,21.00,105.00
+January 2020,Jammu and Kashmir,44,220,22.00,110.00
+February 2020,Jammu and Kashmir,46,230,23.00,115.00
+March 2020,Jammu and Kashmir,48,240,24.00,120.00
+April 2020,Jammu and Kashmir,49,245,24.50,122.50
+May 2020,Jammu and Kashmir,50,250,25.00,125.00
+June 2020,Jammu and Kashmir,56,280,28.00,140.00
+July 2020,Jammu and Kashmir,64,320,32.00,160.00
+August 2020,Jammu and Kashmir,72,360,36.00,180.00
+September 2020,Jammu and Kashmir,80,400,40.00,200.00
+October 2020,Jammu and Kashmir,88,440,44.00,220.00
+November 2020,Jammu and Kashmir,96,480,48.00,240.00
+December 2020,Jammu and Kashmir,104,520,52.00,260.00
+January 2021,Jammu and Kashmir,112,560,56.00,280.00
+February 2021,Jammu and Kashmir,120,600,60.00,300.00
+March 2021,Jammu and Kashmir,128,640,64.00,320.00
+April 2021,Jammu and Kashmir,134,672,67.00,336.00
+May 2021,Jammu and Kashmir,144,720,72.00,360.00
+June 2021,Jammu and Kashmir,154,768,77.00,384.00
+July 2021,Jammu and Kashmir,164,816,82.00,408.00
+August 2021,Jammu and Kashmir,174,864,86.00,432.00
+September 2021,Jammu and Kashmir,184,912,91.00,456.00
+October 2021,Jammu and Kashmir,192,960,96.00,480.00
+November 2021,Jammu and Kashmir,202,1008,101.00,504.00
+December 2021,Jammu and Kashmir,212,1056,106.00,528.00
+January 2022,Jammu and Kashmir,228,1128,113.00,564.00
+February 2022,Jammu and Kashmir,240,1200,120.00,600.00
+March 2022,Jammu and Kashmir,252,1272,127.00,636.00
+April 2022,Jammu and Kashmir,264,1344,134.00,672.00
+May 2022,Jammu and Kashmir,280,1416,142.00,712.00
+June 2022,Jammu and Kashmir,304,1520,160.00,800.00
+July 2022,Jammu and Kashmir,336,1672,167.00,840.00
+August 2022,Jammu and Kashmir,368,1824,191.00,960.00
+September 2022,Jammu and Kashmir,400,1976,198.00,992.00
+October 2022,Jammu and Kashmir,448,2240,224.00,"1,120.00"
+November 2022,Jammu and Kashmir,478,2390,239.00,"1,195.00"
+December 2022,Jammu and Kashmir,510,2550,255.00,"1,275.00"
+January 2023,Jammu and Kashmir,542,2710,271.00,"1,355.00"
+February 2023,Jammu and Kashmir,568,2832,283.00,"1,416.00"
+March 2023,Jammu and Kashmir,594,2954,295.00,"1,477.00"
+April 2023,Jammu and Kashmir,620,3076,308.00,"1,538.00"
+May 2023,Jammu and Kashmir,656,3280,328.00,"1,640.00"
+June 2023,Jammu and Kashmir,728,3640,364.00,"1,820.00"
+July 2023,Jammu and Kashmir,800,4000,400.00,"2,000.00"
+August 2023,Jammu and Kashmir,872,4360,436.00,"2,180.00"
+September 2023,Jammu and Kashmir,944,4720,472.00,"2,360.00"
+October 2023,Jammu and Kashmir,1016,5080,508.00,"2,540.00"
+April 2016,Jharkhand,50.00,250.00,25.00,125.00
+May 2016,Jharkhand,55.00,275.00,27.50,137.50
+June 2016,Jharkhand,60.00,300.00,30.00,150.00
+July 2016,Jharkhand,65.00,325.00,32.50,162.50
+August 2016,Jharkhand,70.00,350.00,35.00,175.00
+September 2016,Jharkhand,75.00,375.00,37.50,187.50
+October 2016,Jharkhand,80.00,400.00,40.00,200.00
+November 2016,Jharkhand,85.00,425.00,42.50,212.50
+December 2016,Jharkhand,90.00,450.00,45.00,225.00
+January 2017,Jharkhand,95.00,475.00,47.50,237.50
+February 2017,Jharkhand,100.00,500.00,50.00,250.00
+March 2017,Jharkhand,105.00,525.00,52.50,262.50
+April 2017,Jharkhand,110.00,550.00,55.00,275.00
+May 2017,Jharkhand,115.00,575.00,57.50,287.50
+June 2017,Jharkhand,120.00,600.00,60.00,300.00
+July 2017,Jharkhand,125.00,625.00,62.50,312.50
+August 2017,Jharkhand,130.00,650.00,65.00,325.00
+September 2017,Jharkhand,135.00,675.00,67.50,337.50
+October 2017,Jharkhand,140.00,700.00,70.00,350.00
+November 2017,Jharkhand,145.00,725.00,72.50,362.50
+December 2017,Jharkhand,150.00,750.00,75.00,375.00
+January 2018,Jharkhand,155.00,775.00,77.50,387.50
+February 2018,Jharkhand,160.00,800.00,80.00,400.00
+March 2018,Jharkhand,165.00,825.00,82.50,412.50
+April 2018,Jharkhand,170.00,850.00,85.00,425.00
+May 2018,Jharkhand,175.00,875.00,87.50,437.50
+June 2018,Jharkhand,180.00,900.00,90.00,450.00
+July 2018,Jharkhand,185.00,925.00,92.50,462.50
+August 2018,Jharkhand,190.00,950.00,95.00,475.00
+September 2018,Jharkhand,195.00,975.00,97.50,487.50
+October 2018,Jharkhand,200.00,"1,000.00",100.00,500.00
+November 2018,Jharkhand,210.00,"1,050.00",105.00,525.00
+December 2018,Jharkhand,220.00,"1,100.00",110.00,550.00
+January 2019,Jharkhand,230.00,"1,150.00",115.00,575.00
+February 2019,Jharkhand,240.00,"1,200.00",120.00,600.00
+March 2019,Jharkhand,250.00,"1,250.00",125.00,625.00
+April 2019,Jharkhand,260.00,"1,300.00",130.00,650.00
+May 2019,Jharkhand,280.00,"1,400.00",140.00,700.00
+June 2019,Jharkhand,300.00,"1,500.00",150.00,750.00
+July 2019,Jharkhand,320.00,"1,600.00",160.00,800.00
+August 2019,Jharkhand,340.00,"1,700.00",170.00,850.00
+September 2019,Jharkhand,360.00,"1,800.00",180.00,900.00
+October 2019,Jharkhand,380.00,"1,900.00",190.00,950.00
+November 2019,Jharkhand,400.00,"2,000.00",200.00,"1,000.00"
+December 2019,Jharkhand,420.00,"2,100.00",210.00,"1,050.00"
+January 2020,Jharkhand,440.00,"2,200.00",220.00,"1,100.00"
+February 2020,Jharkhand,460.00,"2,300.00",230.00,"1,150.00"
+March 2020,Jharkhand,480.00,"2,400.00",240.00,"1,200.00"
+April 2020,Jharkhand,490.00,"2,450.00",245.00,"1,225.00"
+May 2020,Jharkhand,500.00,"2,500.00",250.00,"1,250.00"
+June 2020,Jharkhand,560.00,"2,800.00",280.00,"1,400.00"
+July 2020,Jharkhand,640.00,"3,200.00",320.00,"1,600.00"
+August 2020,Jharkhand,720.00,"3,600.00",360.00,"1,800.00"
+September 2020,Jharkhand,800.00,"4,000.00",400.00,"2,000.00"
+October 2020,Jharkhand,880.00,"4,400.00",440.00,"2,200.00"
+November 2020,Jharkhand,960.00,"4,800.00",480.00,"2,400.00"
+December 2020,Jharkhand,"1,040.00","5,200.00",520.00,"2,600.00"
+January 2021,Jharkhand,"1,120.00","5,600.00",560.00,"2,800.00"
+February 2021,Jharkhand,"1,200.00","6,000.00",600.00,"3,000.00"
+March 2021,Jharkhand,"1,280.00","6,400.00",640.00,"3,200.00"
+April 2021,Jharkhand,"1,344.00","6,720.00",672.00,"3,360.00"
+May 2021,Jharkhand,"1,440.00","7,200.00",720.00,"3,600.00"
+June 2021,Jharkhand,"1,536.00","7,680.00",768.00,"3,840.00"
+July 2021,Jharkhand,"1,632.00","8,160.00",816.00,"4,080.00"
+August 2021,Jharkhand,"1,728.00","8,640.00",864.00,"4,320.00"
+September 2021,Jharkhand,"1,824.00","9,120.00",912.00,"4,560.00"
+October 2021,Jharkhand,"1,920.00","9,600.00",960.00,"4,800.00"
+November 2021,Jharkhand,"2,016.00","10,080.00","1,008.00","5,040.00"
+December 2021,Jharkhand,"2,112.00","10,560.00","1,056.00","5,280.00"
+January 2022,Jharkhand,"2,268.00","11,200.00","1,128.00","5,640.00"
+February 2022,Jharkhand,"2,424.00","11,840.00","1,200.00","6,000.00"
+March 2022,Jharkhand,"2,580.00","12,480.00","1,272.00","6,360.00"
+April 2022,Jharkhand,"2,736.00","13,120.00","1,344.00","6,720.00"
+May 2022,Jharkhand,"2,904.00","13,824.00","1,416.00","7,056.00"
+June 2022,Jharkhand,"3,200.00","15,200.00","1,600.00","8,000.00"
+July 2022,Jharkhand,"3,520.00","16,800.00","1,760.00","8,800.00"
+August 2022,Jharkhand,"3,840.00","18,240.00","1,920.00","9,600.00"
+September 2022,Jharkhand,"4,160.00","19,680.00","2,080.00","10,400.00"
+October 2022,Jharkhand,"4,640.00","22,400.00","2,320.00","11,600.00"
+November 2022,Jharkhand,"4,960.00","23,800.00","2,464.00","12,200.00"
+December 2022,Jharkhand,"5,296.00","25,344.00","2,624.00","12,864.00"
+January 2023,Jharkhand,"5,652.00","26,848.00","2,768.00","13,464.00"
+February 2023,Jharkhand,"5,904.00","28,128.00","2,880.00","14,004.00"
+March 2023,Jharkhand,"6,156.00","29,408.00","2,992.00","14,544.00"
+April 2023,Jharkhand,"6,408.00","30,688.00","3,104.00","15,084.00"
+May 2023,Jharkhand,"6,784.00","32,448.00","3,264.00","15,840.00"
+June 2023,Jharkhand,"7,488.00","36,000.00","3,600.00","17,640.00"
+July 2023,Jharkhand,"8,208.00","39,840.00","3,936.00","19,344.00"
+August 2023,Jharkhand,"8,928.00","43,200.00","4,272.00","21,048.00"
+September 2023,Jharkhand,"9,648.00","47,280.00","4,608.00","22,752.00"
+October 2023,Jharkhand,"10,368.00","51,360.00","4,944.00","24,456.00"
+April 2016,Karnataka,350.00,"1,750.00",175.00,875.00
+May 2016,Karnataka,385.00,"1,925.00",192.50,962.50
+June 2016,Karnataka,420.00,"2,100.00",210.00,"1,050.00"
+July 2016,Karnataka,455.00,"2,275.00",227.50,"1,137.50"
+August 2016,Karnataka,490.00,"2,450.00",245.00,"1,225.00"
+September 2016,Karnataka,525.00,"2,625.00",262.50,"1,312.50"
+October 2016,Karnataka,560.00,"2,800.00",280.00,"1,400.00"
+November 2016,Karnataka,595.00,"2,975.00",297.50,"1,487.50"
+December 2016,Karnataka,630.00,"3,150.00",315.00,"1,575.00"
+January 2017,Karnataka,665.00,"3,325.00",332.50,"1,662.50"
+February 2017,Karnataka,700.00,"3,500.00",350.00,"1,750.00"
+March 2017,Karnataka,735.00,"3,675.00",367.50,"1,837.50"
+April 2017,Karnataka,770.00,"3,850.00",385.00,"1,925.00"
+May 2017,Karnataka,805.00,"4,025.00",402.50,"2,012.50"
+June 2017,Karnataka,840.00,"4,200.00",420.00,"2,100.00"
+July 2017,Karnataka,875.00,"4,375.00",437.50,"2,187.50"
+August 2017,Karnataka,910.00,"4,550.00",455.00,"2,275.00"
+September 2017,Karnataka,945.00,"4,725.00",472.50,"2,362.50"
+October 2017,Karnataka,980.00,"4,900.00",490.00,"2,450.00"
+November 2017,Karnataka,"1,015.00","5,075.00",507.50,"2,537.50"
+December 2017,Karnataka,"1,050.00","5,250.00",525.00,"2,625.00"
+January 2018,Karnataka,"1,085.00","5,425.00",542.50,"2,712.50"
+February 2018,Karnataka,"1,120.00","5,600.00",560.00,"2,800.00"
+March 2018,Karnataka,"1,155.00","5,775.00",577.50,"2,887.50"
+April 2018,Karnataka,"1,190.00","5,950.00",595.00,"2,975.00"
+May 2018,Karnataka,"1,225.00","6,125.00",612.50,"3,062.50"
+June 2018,Karnataka,"1,260.00","6,300.00",630.00,"3,150.00"
+July 2018,Karnataka,"1,295.00","6,475.00",647.50,"3,237.50"
+August 2018,Karnataka,"1,330.00","6,650.00",665.00,"3,325.00"
+September 2018,Karnataka,"1,365.00","6,825.00",682.50,"3,412.50"
+October 2018,Karnataka,"1,400.00","7,000.00",700.00,"3,500.00"
+November 2018,Karnataka,"1,470.00","7,350.00",735.00,"3,675.00"
+December 2018,Karnataka,"1,540.00","7,700.00",770.00,"3,850.00"
+January 2019,Karnataka,"1,610.00","8,050.00",805.00,"4,025.00"
+February 2019,Karnataka,"1,680.00","8,400.00",840.00,"4,200.00"
+March 2019,Karnataka,"1,750.00","8,750.00",875.00,"4,375.00"
+April 2019,Karnataka,"1,820.00","9,100.00",910.00,"4,550.00"
+May 2019,Karnataka,"1,960.00","9,800.00",980.00,"4,900.00"
+June 2019,Karnataka,"2,100.00","10,500.00","1,050.00","5,250.00"
+July 2019,Karnataka,"2,240.00","11,200.00","1,120.00","5,600.00"
+August 2019,Karnataka,"2,380.00","11,900.00","1,190.00","5,950.00"
+September 2019,Karnataka,"2,520.00","12,600.00","1,260.00","6,300.00"
+October 2019,Karnataka,"2,660.00","13,300.00","1,330.00","6,650.00"
+November 2019,Karnataka,"2,800.00","14,000.00","1,400.00","7,000.00"
+December 2019,Karnataka,"2,940.00","14,700.00","1,470.00","7,350.00"
+January 2020,Karnataka,"3,080.00","15,400.00","1,540.00","7,700.00"
+February 2020,Karnataka,"3,220.00","16,100.00","1,610.00","8,050.00"
+March 2020,Karnataka,"3,360.00","16,800.00","1,680.00","8,400.00"
+April 2020,Karnataka,"3,442.00","17,136.00","1,734.00","8,585.00"
+May 2020,Karnataka,"3,600.00","18,000.00","1,800.00","9,000.00"
+June 2020,Karnataka,"4,032.00","20,160.00","2,016.00","10,080.00"
+July 2020,Karnataka,"4,584.00","22,920.00","2,312.00","11,560.00"
+August 2020,Karnataka,"5,136.00","25,680.00","2,608.00","13,040.00"
+September 2020,Karnataka,"5,688.00","28,440.00","2,904.00","14,520.00"
+October 2020,Karnataka,"6,240.00","31,200.00","3,200.00","16,000.00"
+November 2020,Karnataka,"6,804.00","34,176.00","3,496.00","17,480.00"
+December 2020,Karnataka,"7,368.00","37,152.00","3,792.00","18,960.00"
+January 2021,Karnataka,"7,932.00","40,128.00","4,088.00","20,440.00"
+February 2021,Karnataka,"8,496.00","43,104.00","4,384.00","21,920.00"
+March 2021,Karnataka,"9,060.00","46,080.00","4,680.00","23,400.00"
+April 2021,Karnataka,"9,522.00","47,856.00","4,909.00","24,480.00"
+May 2021,Karnataka,"10,188.00","50,940.00","5,234.00","26,170.00"
+June 2021,Karnataka,"10,878.00","54,390.00","5,583.00","27,915.00"
+July 2021,Karnataka,"11,568.00","57,840.00","5,932.00","29,660.00"
+August 2021,Karnataka,"12,258.00","61,290.00","6,281.00","31,405.00"
+September 2021,Karnataka,"12,948.00","64,740.00","6,630.00","33,150.00"
+October 2021,Karnataka,"13,638.00","68,190.00","6,979.00","34,895.00"
+November 2021,Karnataka,"14,460.00","72,300.00","7,371.00","36,855.00"
+December 2021,Karnataka,"15,315.00","76,700.00","7,794.00","38,940.00"
+January 2022,Karnataka,"16,245.00","81,300.00","8,266.00","41,175.00"
+February 2022,Karnataka,"17,175.00","85,900.00","8,738.00","43,410.00"
+March 2022,Karnataka,"18,105.00","90,500.00","9,210.00","45,645.00"
+April 2022,Karnataka,"19,035.00","95,100.00","9,682.00","47,880.00"
+May 2022,Karnataka,"20,102.00","100,590.00","10,226.00","50,430.00"
+June 2022,Karnataka,"22,248.00","111,660.00","11,352.00","56,640.00"
+July 2022,Karnataka,"24,394.00","122,730.00","12,478.00","62,850.00"
+August 2022,Karnataka,"26,540.00","133,800.00","13,604.00","69,060.00"
+September 2022,Karnataka,"28,686.00","144,870.00","14,730.00","75,270.00"
+October 2022,Karnataka,"32,416.00","164,592.00","16,698.00","85,490.00"
+November 2022,Karnataka,"34,704.00","175,912.00","17,830.00","91,370.00"
+December 2022,Karnataka,"37,040.00","188,048.00","18,996.00","97,680.00"
+January 2023,Karnataka,"39,312.00","200,008.00","20,112.00","103,760.00"
+February 2023,Karnataka,"41,088.00","209,600.00","20,968.00","108,192.00"
+March 2023,Karnataka,"42,864.00","219,200.00","21,824.00","112,624.00"
+April 2023,Karnataka,"44,640.00","228,800.00","22,680.00","117,056.00"
+May 2023,Karnataka,"47,232.00","241,920.00","23,936.00","123,648.00"
+June 2023,Karnataka,"52,288.00","268,160.00","26,528.00","137,160.00"
+July 2023,Karnataka,"57,360.00","294,680.00","29,136.00","150,800.00"
+August 2023,Karnataka,"62,432.00","320,880.00","31,728.00","164,160.00"
+September 2023,Karnataka,"67,504.00","348,080.00","34,320.00","177,520.00"
+October 2023,Karnataka,"72,576.00","376,320.00","36,912.00","190,880.00"
+April 2016,Kerala,100.00,500.00,50.00,250.00
+May 2016,Kerala,110.00,550.00,55.00,275.00
+June 2016,Kerala,120.00,600.00,60.00,300.00
+July 2016,Kerala,130.00,650.00,65.00,325.00
+August 2016,Kerala,140.00,700.00,70.00,350.00
+September 2016,Kerala,150.00,750.00,75.00,375.00
+October 2016,Kerala,160.00,800.00,80.00,400.00
+November 2016,Kerala,170.00,850.00,85.00,425.00
+December 2016,Kerala,180.00,900.00,90.00,450.00
+January 2017,Kerala,190.00,950.00,95.00,475.00
+February 2017,Kerala,200.00,"1,000.00",100.00,500.00
+March 2017,Kerala,210.00,"1,050.00",105.00,525.00
+April 2017,Kerala,220.00,"1,100.00",110.00,550.00
+May 2017,Kerala,230.00,"1,150.00",115.00,575.00
+June 2017,Kerala,240.00,"1,200.00",120.00,600.00
+July 2017,Kerala,250.00,"1,250.00",125.00,625.00
+August 2017,Kerala,260.00,"1,300.00",130.00,650.00
+September 2017,Kerala,270.00,"1,350.00",135.00,675.00
+October 2017,Kerala,280.00,"1,400.00",140.00,700.00
+November 2017,Kerala,290.00,"1,450.00",145.00,725.00
+December 2017,Kerala,300.00,"1,500.00",150.00,750.00
+January 2018,Kerala,310.00,"1,550.00",155.00,775.00
+February 2018,Kerala,320.00,"1,600.00",160.00,800.00
+March 2018,Kerala,330.00,"1,650.00",165.00,825.00
+April 2018,Kerala,340.00,"1,700.00",170.00,850.00
+May 2018,Kerala,350.00,"1,750.00",175.00,875.00
+June 2018,Kerala,360.00,"1,800.00",180.00,900.00
+July 2018,Kerala,370.00,"1,850.00",185.00,925.00
+August 2018,Kerala,380.00,"1,900.00",190.00,950.00
+September 2018,Kerala,390.00,"1,950.00",195.00,975.00
+October 2018,Kerala,400.00,"2,000.00",200.00,"1,000.00"
+November 2018,Kerala,420.00,"2,100.00",210.00,"1,050.00"
+December 2018,Kerala,440.00,"2,200.00",220.00,"1,100.00"
+January 2019,Kerala,460.00,"2,300.00",230.00,"1,150.00"
+February 2019,Kerala,480.00,"2,400.00",240.00,"1,200.00"
+March 2019,Kerala,500.00,"2,500.00",250.00,"1,250.00"
+April 2019,Kerala,520.00,"2,600.00",260.00,"1,300.00"
+May 2019,Kerala,560.00,"2,800.00",280.00,"1,400.00"
+June 2019,Kerala,600.00,"3,000.00",300.00,"1,500.00"
+July 2019,Kerala,640.00,"3,200.00",320.00,"1,600.00"
+August 2019,Kerala,680.00,"3,400.00",340.00,"1,700.00"
+September 2019,Kerala,720.00,"3,600.00",360.00,"1,800.00"
+October 2019,Kerala,760.00,"3,800.00",380.00,"1,900.00"
+November 2019,Kerala,800.00,"4,000.00",400.00,"2,000.00"
+December 2019,Kerala,840.00,"4,200.00",420.00,"2,100.00"
+January 2020,Kerala,880.00,"4,400.00",440.00,"2,200.00"
+February 2020,Kerala,920.00,"4,600.00",460.00,"2,300.00"
+March 2020,Kerala,960.00,"4,800.00",480.00,"2,400.00"
+April 2020,Kerala,980.00,"4,900.00",490.00,"2,450.00"
+May 2020,Kerala,"1,000.00","5,000.00",500.00,"2,500.00"
+June 2020,Kerala,"1,120.00","5,600.00",560.00,"2,800.00"
+July 2020,Kerala,"1,280.00","6,400.00",640.00,"3,200.00"
+August 2020,Kerala,"1,440.00","7,200.00",720.00,"3,600.00"
+September 2020,Kerala,"1,600.00","8,000.00",800.00,"4,000.00"
+October 2020,Kerala,"1,760.00","8,800.00",880.00,"4,400.00"
+November 2020,Kerala,"1,920.00","9,600.00",960.00,"4,800.00"
+December 2020,Kerala,"2,080.00","10,400.00","1,040.00","5,200.00"
+January 2021,Kerala,"2,240.00","11,200.00","1,120.00","5,600.00"
+February 2021,Kerala,"2,400.00","12,000.00","1,200.00","6,000.00"
+March 2021,Kerala,"2,560.00","12,800.00","1,280.00","6,400.00"
+April 2021,Kerala,"2,662.00","13,344.00","1,331.00","6,673.00"
+May 2021,Kerala,"2,850.00","14,250.00","1,425.00","7,125.00"
+June 2021,Kerala,"3,040.00","15,168.00","1,517.00","7,584.00"
+July 2021,Kerala,"3,229.00","16,085.00","1,608.00","8,042.00"
+August 2021,Kerala,"3,419.00","17,004.00","1,700.00","8,501.00"
+September 2021,Kerala,"3,608.00","17,922.00","1,791.00","8,960.00"
+October 2021,Kerala,"3,798.00","18,841.00","1,883.00","9,419.00"
+November 2021,Kerala,"4,031.00","19,894.00","1,983.00","9,942.00"
+December 2021,Kerala,"4,279.00","21,081.00","2,100.00","10,513.00"
+January 2022,Kerala,"4,527.00","22,270.00","2,217.00","11,084.00"
+February 2022,Kerala,"4,776.00","23,458.00","2,335.00","11,656.00"
+March 2022,Kerala,"5,024.00","24,646.00","2,452.00","12,228.00"
+April 2022,Kerala,"5,272.00","25,834.00","2,569.00","12,799.00"
+May 2022,Kerala,"5,568.00","27,335.00","2,702.00","13,474.00"
+June 2022,Kerala,"6,144.00","30,240.00","2,993.00","14,928.00"
+July 2022,Kerala,"6,721.00","33,162.00","3,285.00","16,391.00"
+August 2022,Kerala,"7,298.00","36,062.00","3,576.00","17,831.00"
+September 2022,Kerala,"7,874.00","38,979.00","3,867.00","19,271.00"
+October 2022,Kerala,"8,925.00","44,348.00","4,373.00","21,809.00"
+November 2022,Kerala,"9,534.00","47,206.00","4,656.00","23,190.00"
+December 2022,Kerala,"10,186.00","50,321.00","4,962.00","24,689.00"
+January 2023,Kerala,"10,838.00","53,437.00","5,268.00","26,188.00"
+February 2023,Kerala,"11,335.00","55,794.00","5,506.00","27,375.00"
+March 2023,Kerala,"11,833.00","58,151.00","5,745.00","28,562.00"
+April 2023,Kerala,"12,330.00","60,508.00","5,983.00","29,748.00"
+May 2023,Kerala,"13,023.00","64,042.00","6,317.00","31,436.00"
+June 2023,Kerala,"14,387.00","70,884.00","6,992.00","34,784.00"
+July 2023,Kerala,"15,751.00","77,725.00","7,668.00","38,133.00"
+August 2023,Kerala,"17,115.00","84,567.00","8,343.00","41,481.00"
+September 2023,Kerala,"18,479.00","91,408.00","9,019.00","44,829.00"
+October 2023,Kerala,"19,843.00","98,250.00","9,694.00","48,178.00"
+April 2016,Ladakh,0.05,0.2,0.01,0.05
+May 2016,Ladakh,0.06,0.25,0.02,0.10
+June 2016,Ladakh,0.07,0.3,0.03,0.15
+July 2016,Ladakh,0.08,0.35,0.04,0.20
+August 2016,Ladakh,0.09,0.4,0.05,0.25
+September 2016,Ladakh,0.1,0.45,0.06,0.30
+October 2016,Ladakh,0.12,0.5,0.08,0.35
+November 2016,Ladakh,0.15,0.6,0.1,0.45
+December 2016,Ladakh,0.2,0.7,0.15,0.55
+January 2017,Ladakh,0.25,0.8,0.2,0.65
+February 2017,Ladakh,0.3,0.9,0.25,0.75
+March 2017,Ladakh,0.35,1,0.3,0.85
+April 2017,Ladakh,0.4,1.1,0.35,0.95
+May 2017,Ladakh,0.45,1.2,0.4,1.05
+June 2017,Ladakh,0.5,1.3,0.45,1.15
+July 2017,Ladakh,0.6,1.5,0.55,1.35
+August 2017,Ladakh,0.7,1.7,0.65,1.55
+September 2017,Ladakh,0.8,1.9,0.75,1.75
+October 2017,Ladakh,0.9,2.1,0.85,1.95
+November 2017,Ladakh,1,2.3,0.95,2.15
+December 2017,Ladakh,1.2,2.6,1.1,2.40
+January 2018,Ladakh,1.4,2.9,1.25,2.70
+February 2018,Ladakh,1.6,3.2,1.4,3.00
+March 2018,Ladakh,1.8,3.5,1.55,3.30
+April 2018,Ladakh,2,3.8,1.7,3.60
+May 2018,Ladakh,2.25,4.25,1.9,4.00
+June 2018,Ladakh,2.5,4.7,2.1,4.40
+July 2018,Ladakh,2.75,5.15,2.3,4.80
+August 2018,Ladakh,3,5.6,2.5,5.20
+September 2018,Ladakh,3.3,6.2,2.75,5.70
+October 2018,Ladakh,3.6,6.8,3,6.20
+November 2018,Ladakh,3.9,7.4,3.25,6.70
+December 2018,Ladakh,4.35,8.2,3.6,7.40
+January 2019,Ladakh,4.8,9,3.95,8.10
+February 2019,Ladakh,5.25,9.8,4.3,8.80
+March 2019,Ladakh,5.7,10.6,4.65,9.50
+April 2019,Ladakh,6.15,11.4,5,10.20
+May 2019,Ladakh,6.75,12.6,5.5,11.25
+June 2019,Ladakh,7.35,13.8,6,12.30
+July 2019,Ladakh,7.95,15,6.5,13.35
+August 2019,Ladakh,8.55,16.2,7,14.40
+September 2019,Ladakh,9.15,17.4,7.5,15.45
+October 2019,Ladakh,9.75,18.6,8,16.50
+November 2019,Ladakh,10.5,20.1,8.6,17.85
+December 2019,Ladakh,11.4,21.9,9.3,19.45
+January 2020,Ladakh,12.3,23.7,10,21.05
+February 2020,Ladakh,13.2,25.5,10.7,22.65
+March 2020,Ladakh,14.1,27.3,11.4,24.25
+April 2020,Ladakh,15,29,12.1,25.85
+May 2020,Ladakh,16,30.8,12.9,27.60
+June 2020,Ladakh,18.25,35.1,14.75,31.60
+July 2020,Ladakh,20.5,39.4,16.6,35.60
+August 2020,Ladakh,22.75,43.7,18.45,39.60
+September 2020,Ladakh,25,48,20.3,43.60
+October 2020,Ladakh,27.25,52.3,22.15,47.60
+November 2020,Ladakh,30,57.2,24.45,52.20
+December 2020,Ladakh,33.25,62.9,27.3,57.80
+January 2021,Ladakh,36.5,68.6,30.15,63.40
+February 2021,Ladakh,39.75,74.3,33,69.00
+March 2021,Ladakh,43,80,35.85,74.60
+April 2021,Ladakh,46.25,85.7,38.7,80.20
+May 2021,Ladakh,50.5,92.4,42,86.40
+June 2021,Ladakh,54.75,99.1,45.3,92.60
+July 2021,Ladakh,59,105.8,48.6,98.80
+August 2021,Ladakh,63.25,112.5,51.9,105.00
+September 2021,Ladakh,67.5,119.2,55.2,111.20
+October 2021,Ladakh,71.75,125.9,58.5,117.40
+November 2021,Ladakh,77.25,134.7,62.35,124.80
+December 2021,Ladakh,83.5,144.7,66.85,133.00
+January 2022,Ladakh,89.75,154.7,71.35,141.20
+February 2022,Ladakh,96,164.7,75.85,149.40
+March 2022,Ladakh,102.25,174.7,80.35,157.60
+April 2022,Ladakh,108.5,184.7,84.85,165.80
+May 2022,Ladakh,115.5,195.9,90,175.00
+June 2022,Ladakh,127.25,217.15,100.5,191.25
+July 2022,Ladakh,139,238.4,111,207.50
+August 2022,Ladakh,150.75,259.65,121.5,223.75
+September 2022,Ladakh,162.5,280.9,132,240.00
+October 2022,Ladakh,182.25,317.2,148.5,270.00
+November 2022,Ladakh,197.7,340.5,161.35,292.50
+December 2022,Ladakh,214.4,366.3,175.7,317.50
+January 2023,Ladakh,231.1,392.1,190.05,342.50
+February 2023,Ladakh,241.65,412.7,198.55,359.60
+March 2023,Ladakh,252.2,433.3,207.05,376.70
+April 2023,Ladakh,262.75,453.9,215.55,393.80
+May 2023,Ladakh,276.9,478.6,226.3,413.50
+June 2023,Ladakh,305.6,531.05,250.95,459.00
+July 2023,Ladakh,334.3,583.5,275.6,504.50
+August 2023,Ladakh,363,635.95,300.25,550.00
+September 2023,Ladakh,391.7,688.35,324.9,595.50
+October 2023,Ladakh,420.4,740.8,349.55,641.00
+April 2016,Lakshadweep,0.01,0.05,0.005,0.01
+May 2016,Lakshadweep,0.02,0.1,0.01,0.02
+June 2016,Lakshadweep,0.03,0.15,0.015,0.03
+July 2016,Lakshadweep,0.04,0.2,0.02,0.04
+August 2016,Lakshadweep,0.05,0.25,0.025,0.05
+September 2016,Lakshadweep,0.06,0.3,0.03,0.06
+October 2016,Lakshadweep,0.08,0.35,0.04,0.08
+November 2016,Lakshadweep,0.1,0.4,0.05,0.10
+December 2016,Lakshadweep,0.15,0.5,0.075,0.15
+January 2017,Lakshadweep,0.2,0.6,0.1,0.20
+February 2017,Lakshadweep,0.25,0.7,0.125,0.25
+March 2017,Lakshadweep,0.3,0.8,0.15,0.30
+April 2017,Lakshadweep,0.35,0.9,0.175,0.35
+May 2017,Lakshadweep,0.4,1,0.2,0.40
+June 2017,Lakshadweep,0.45,1.1,0.225,0.45
+July 2017,Lakshadweep,0.55,1.3,0.275,0.55
+August 2017,Lakshadweep,0.65,1.5,0.325,0.65
+September 2017,Lakshadweep,0.75,1.7,0.375,0.75
+October 2017,Lakshadweep,0.85,1.9,0.425,0.85
+November 2017,Lakshadweep,0.95,2.1,0.475,0.95
+December 2017,Lakshadweep,1.1,2.4,0.55,1.10
+January 2018,Lakshadweep,1.25,2.7,0.625,1.25
+February 2018,Lakshadweep,1.4,3,0.7,1.40
+March 2018,Lakshadweep,1.55,3.3,0.775,1.55
+April 2018,Lakshadweep,1.7,3.6,0.85,1.70
+May 2018,Lakshadweep,1.9,4,0.95,1.90
+June 2018,Lakshadweep,2.1,4.4,1.05,2.10
+July 2018,Lakshadweep,2.3,4.8,1.15,2.30
+August 2018,Lakshadweep,2.5,5.2,1.25,2.50
+September 2018,Lakshadweep,2.75,5.7,1.375,2.75
+October 2018,Lakshadweep,3,6.2,1.5,3.00
+November 2018,Lakshadweep,3.25,6.7,1.625,3.25
+December 2018,Lakshadweep,3.6,7.4,1.8,3.60
+January 2019,Lakshadweep,3.95,8.1,1.975,3.95
+February 2019,Lakshadweep,4.3,8.8,2.15,4.30
+March 2019,Lakshadweep,4.65,9.5,2.325,4.65
+April 2019,Lakshadweep,5,10.2,2.5,5.00
+May 2019,Lakshadweep,5.5,11.25,2.75,5.50
+June 2019,Lakshadweep,6,12.3,3,6.00
+July 2019,Lakshadweep,6.5,13.35,3.25,6.50
+August 2019,Lakshadweep,7,14.4,3.5,7.00
+September 2019,Lakshadweep,7.5,15.45,3.75,7.50
+October 2019,Lakshadweep,8,16.5,4,8.00
+November 2019,Lakshadweep,8.6,17.85,4.3,8.60
+December 2019,Lakshadweep,9.3,19.45,4.65,9.30
+January 2020,Lakshadweep,10,21.05,5,10.00
+February 2020,Lakshadweep,10.7,22.65,5.35,10.70
+March 2020,Lakshadweep,11.4,24.25,5.7,11.40
+April 2020,Lakshadweep,12.1,25.85,6.05,12.10
+May 2020,Lakshadweep,12.9,27.6,6.45,12.90
+June 2020,Lakshadweep,14.75,31.6,7.375,14.75
+July 2020,Lakshadweep,16.6,35.6,8.3,16.60
+August 2020,Lakshadweep,18.45,39.6,9.225,18.45
+September 2020,Lakshadweep,20.3,43.6,10.15,20.30
+October 2020,Lakshadweep,22.15,47.6,11.075,22.15
+November 2020,Lakshadweep,24.45,52.2,12.225,24.45
+December 2020,Lakshadweep,27.3,57.8,13.65,27.30
+January 2021,Lakshadweep,30.15,63.4,15.075,30.15
+February 2021,Lakshadweep,33,69,16.5,33.00
+March 2021,Lakshadweep,35.85,74.6,17.925,35.85
+April 2021,Lakshadweep,38.7,80.2,19.35,38.70
+May 2021,Lakshadweep,42,86.4,21,42.00
+June 2021,Lakshadweep,45.3,92.6,22.65,45.30
+July 2021,Lakshadweep,48.6,98.8,24.3,48.60
+August 2021,Lakshadweep,51.9,105,25.95,51.90
+September 2021,Lakshadweep,55.2,111.2,27.6,55.20
+October 2021,Lakshadweep,58.5,117.4,29.25,58.50
+November 2021,Lakshadweep,62.35,124.8,31.175,62.35
+December 2021,Lakshadweep,66.85,133,33.425,66.85
+January 2022,Lakshadweep,71.35,141.2,35.675,71.35
+February 2022,Lakshadweep,75.85,149.4,37.925,75.85
+March 2022,Lakshadweep,80.35,157.6,40.175,80.35
+April 2022,Lakshadweep,84.85,165.8,42.425,84.85
+May 2022,Lakshadweep,90,175,45,90.00
+June 2022,Lakshadweep,100.5,191.25,50.25,100.50
+July 2022,Lakshadweep,111,207.5,55.5,111.00
+August 2022,Lakshadweep,121.5,223.75,60.75,121.50
+September 2022,Lakshadweep,132,240,66,132.00
+October 2022,Lakshadweep,148.5,270,74.25,148.50
+November 2022,Lakshadweep,161.35,292.5,80.675,161.35
+December 2022,Lakshadweep,175.7,317.5,87.85,175.70
+January 2023,Lakshadweep,190.05,342.5,95.025,190.05
+February 2023,Lakshadweep,198.55,359.6,99.275,198.55
+March 2023,Lakshadweep,207.05,376.7,103.525,207.05
+April 2023,Lakshadweep,215.55,393.8,107.775,215.55
+May 2023,Lakshadweep,226.3,413.5,113.15,226.30
+June 2023,Lakshadweep,250.95,459,125.475,250.95
+July 2023,Lakshadweep,275.6,504.5,137.8,275.60
+August 2023,Lakshadweep,300.25,550,150.125,300.25
+September 2023,Lakshadweep,324.9,595.5,162.45,324.90
+October 2023,Lakshadweep,349.55,641,174.775,349.55
+April 2016,Madhya Pradesh,150.00,750.00,75.00,375.00
+May 2016,Madhya Pradesh,165.00,825.00,82.50,412.50
+June 2016,Madhya Pradesh,180.00,900.00,90.00,450.00
+July 2016,Madhya Pradesh,195.00,975.00,97.50,487.50
+August 2016,Madhya Pradesh,210.00,"1,050.00",105.00,525.00
+September 2016,Madhya Pradesh,225.00,"1,125.00",112.50,562.50
+October 2016,Madhya Pradesh,240.00,"1,200.00",120.00,600.00
+November 2016,Madhya Pradesh,255.00,"1,275.00",127.50,637.50
+December 2016,Madhya Pradesh,270.00,"1,350.00",135.00,675.00
+January 2017,Madhya Pradesh,285.00,"1,425.00",142.50,712.50
+February 2017,Madhya Pradesh,300.00,"1,500.00",150.00,750.00
+March 2017,Madhya Pradesh,315.00,"1,575.00",157.50,787.50
+April 2017,Madhya Pradesh,330.00,"1,650.00",165.00,825.00
+May 2017,Madhya Pradesh,345.00,"1,725.00",172.50,862.50
+June 2017,Madhya Pradesh,360.00,"1,800.00",180.00,900.00
+July 2017,Madhya Pradesh,375.00,"1,875.00",187.50,937.50
+August 2017,Madhya Pradesh,390.00,"1,950.00",195.00,975.00
+September 2017,Madhya Pradesh,405.00,"2,025.00",202.50,"1,012.50"
+October 2017,Madhya Pradesh,420.00,"2,100.00",210.00,"1,050.00"
+November 2017,Madhya Pradesh,435.00,"2,175.00",217.50,"1,087.50"
+December 2017,Madhya Pradesh,450.00,"2,250.00",225.00,"1,125.00"
+January 2018,Madhya Pradesh,465.00,"2,325.00",232.50,"1,162.50"
+February 2018,Madhya Pradesh,480.00,"2,400.00",240.00,"1,200.00"
+March 2018,Madhya Pradesh,495.00,"2,475.00",247.50,"1,237.50"
+April 2018,Madhya Pradesh,510.00,"2,550.00",255.00,"1,275.00"
+May 2018,Madhya Pradesh,525.00,"2,625.00",262.50,"1,312.50"
+June 2018,Madhya Pradesh,540.00,"2,700.00",270.00,"1,350.00"
+July 2018,Madhya Pradesh,555.00,"2,775.00",277.50,"1,387.50"
+August 2018,Madhya Pradesh,570.00,"2,850.00",285.00,"1,425.00"
+September 2018,Madhya Pradesh,585.00,"2,925.00",292.50,"1,462.50"
+October 2018,Madhya Pradesh,600.00,"3,000.00",300.00,"1,500.00"
+November 2018,Madhya Pradesh,630.00,"3,150.00",315.00,"1,575.00"
+December 2018,Madhya Pradesh,660.00,"3,300.00",330.00,"1,650.00"
+January 2019,Madhya Pradesh,690.00,"3,450.00",345.00,"1,725.00"
+February 2019,Madhya Pradesh,720.00,"3,600.00",360.00,"1,800.00"
+March 2019,Madhya Pradesh,750.00,"3,750.00",375.00,"1,875.00"
+April 2019,Madhya Pradesh,780.00,"3,900.00",390.00,"1,950.00"
+May 2019,Madhya Pradesh,840.00,"4,200.00",420.00,"2,100.00"
+June 2019,Madhya Pradesh,900.00,"4,500.00",450.00,"2,250.00"
+July 2019,Madhya Pradesh,960.00,"4,800.00",480.00,"2,400.00"
+August 2019,Madhya Pradesh,"1,020.00","5,100.00",510.00,"2,550.00"
+September 2019,Madhya Pradesh,"1,080.00","5,400.00",540.00,"2,700.00"
+October 2019,Madhya Pradesh,"1,140.00","5,700.00",570.00,"2,850.00"
+November 2019,Madhya Pradesh,"1,200.00","6,000.00",600.00,"3,000.00"
+December 2019,Madhya Pradesh,"1,260.00","6,300.00",630.00,"3,150.00"
+January 2020,Madhya Pradesh,"1,320.00","6,600.00",660.00,"3,300.00"
+February 2020,Madhya Pradesh,"1,380.00","6,900.00",690.00,"3,450.00"
+March 2020,Madhya Pradesh,"1,440.00","7,200.00",720.00,"3,600.00"
+April 2020,Madhya Pradesh,"1,470.00","7,350.00",735.00,"3,675.00"
+May 2020,Madhya Pradesh,"1,500.00","7,500.00",750.00,"3,750.00"
+June 2020,Madhya Pradesh,"1,680.00","8,400.00",840.00,"4,200.00"
+July 2020,Madhya Pradesh,"1,920.00","9,600.00",960.00,"4,800.00"
+August 2020,Madhya Pradesh,"2,160.00","10,800.00","1,080.00","5,400.00"
+September 2020,Madhya Pradesh,"2,400.00","12,000.00","1,200.00","6,000.00"
+October 2020,Madhya Pradesh,"2,640.00","13,200.00","1,320.00","6,600.00"
+November 2020,Madhya Pradesh,"2,880.00","14,400.00","1,440.00","7,200.00"
+December 2020,Madhya Pradesh,"3,120.00","15,600.00","1,560.00","7,800.00"
+January 2021,Madhya Pradesh,"3,360.00","16,800.00","1,680.00","8,400.00"
+February 2021,Madhya Pradesh,"3,600.00","18,000.00","1,800.00","9,000.00"
+March 2021,Madhya Pradesh,"3,840.00","19,200.00","1,920.00","9,600.00"
+April 2021,Madhya Pradesh,"3,989.00","20,168.00","2,052.00","10,032.00"
+May 2021,Madhya Pradesh,"4,320.00","21,600.00","2,160.00","10,800.00"
+June 2021,Madhya Pradesh,"4,656.00","23,040.00","2,304.00","11,520.00"
+July 2021,Madhya Pradesh,"4,992.00","24,480.00","2,448.00","12,240.00"
+August 2021,Madhya Pradesh,"5,328.00","25,920.00","2,592.00","12,960.00"
+September 2021,Madhya Pradesh,"5,664.00","27,360.00","2,736.00","13,680.00"
+October 2021,Madhya Pradesh,"6,000.00","28,800.00","2,880.00","14,400.00"
+November 2021,Madhya Pradesh,"6,360.00","30,240.00","3,024.00","15,120.00"
+December 2021,Madhya Pradesh,"6,720.00","31,680.00","3,168.00","15,840.00"
+January 2022,Madhya Pradesh,"7,128.00","33,264.00","3,384.00","16,704.00"
+February 2022,Madhya Pradesh,"7,536.00","34,848.00","3,600.00","17,280.00"
+March 2022,Madhya Pradesh,"7,944.00","36,432.00","3,816.00","17,856.00"
+April 2022,Madhya Pradesh,"8,352.00","38,016.00","4,032.00","18,432.00"
+May 2022,Madhya Pradesh,"8,832.00","39,840.00","4,272.00","19,296.00"
+June 2022,Madhya Pradesh,"9,792.00","44,160.00","4,704.00","21,504.00"
+July 2022,Madhya Pradesh,"10,752.00","48,480.00","5,136.00","23,712.00"
+August 2022,Madhya Pradesh,"11,712.00","52,800.00","5,568.00","25,920.00"
+September 2022,Madhya Pradesh,"12,672.00","57,120.00","6,000.00","28,128.00"
+October 2022,Madhya Pradesh,"14,336.00","64,896.00","6,720.00","31,680.00"
+November 2022,Madhya Pradesh,"15,318.00","69,174.00","7,160.00","33,744.00"
+December 2022,Madhya Pradesh,"16,344.00","73,920.00","7,632.00","36,096.00"
+January 2023,Madhya Pradesh,"17,412.00","78,712.00","8,064.00","38,304.00"
+February 2023,Madhya Pradesh,"18,204.00","82,944.00","8,400.00","40,176.00"
+March 2023,Madhya Pradesh,"18,996.00","87,176.00","8,736.00","42,048.00"
+April 2023,Madhya Pradesh,"19,788.00","91,408.00","9,072.00","43,920.00"
+May 2023,Madhya Pradesh,"20,904.00","96,912.00","9,576.00","46,368.00"
+June 2023,Madhya Pradesh,"23,136.00","107,520.00","10,608.00","51,456.00"
+July 2023,Madhya Pradesh,"25,392.00","118,480.00","11,648.00","56,688.00"
+August 2023,Madhya Pradesh,"27,640.00","129,280.00","12,672.00","61,872.00"
+September 2023,Madhya Pradesh,"29,856.00","139,920.00","13,728.00","67,056.00"
+October 2023,Madhya Pradesh,"32,088.00","150,720.00","14,784.00","72,240.00"
+April 2016,Maharashtra,800.00,"4,000.00",400.00,"2,000.00"
+May 2016,Maharashtra,880.00,"4,400.00",440.00,"2,200.00"
+June 2016,Maharashtra,960.00,"4,800.00",480.00,"2,400.00"
+July 2016,Maharashtra,"1,040.00","5,200.00",520.00,"2,600.00"
+August 2016,Maharashtra,"1,120.00","5,600.00",560.00,"2,800.00"
+September 2016,Maharashtra,"1,200.00","6,000.00",600.00,"3,000.00"
+October 2016,Maharashtra,"1,280.00","6,400.00",640.00,"3,200.00"
+November 2016,Maharashtra,"1,360.00","6,800.00",680.00,"3,400.00"
+December 2016,Maharashtra,"1,440.00","7,200.00",720.00,"3,600.00"
+January 2017,Maharashtra,"1,520.00","7,600.00",760.00,"3,800.00"
+February 2017,Maharashtra,"1,600.00","8,000.00",800.00,"4,000.00"
+March 2017,Maharashtra,"1,680.00","8,400.00",840.00,"4,200.00"
+April 2017,Maharashtra,"1,760.00","8,800.00",880.00,"4,400.00"
+May 2017,Maharashtra,"1,840.00","9,200.00",920.00,"4,600.00"
+June 2017,Maharashtra,"1,920.00","9,600.00",960.00,"4,800.00"
+July 2017,Maharashtra,"2,000.00","10,000.00","1,000.00","5,000.00"
+August 2017,Maharashtra,"2,080.00","10,400.00","1,040.00","5,200.00"
+September 2017,Maharashtra,"2,160.00","10,800.00","1,080.00","5,400.00"
+October 2017,Maharashtra,"2,240.00","11,200.00","1,120.00","5,600.00"
+November 2017,Maharashtra,"2,320.00","11,600.00","1,160.00","5,800.00"
+December 2017,Maharashtra,"2,400.00","12,000.00","1,200.00","6,000.00"
+January 2018,Maharashtra,"2,480.00","12,400.00","1,240.00","6,200.00"
+February 2018,Maharashtra,"2,560.00","12,800.00","1,280.00","6,400.00"
+March 2018,Maharashtra,"2,640.00","13,200.00","1,320.00","6,600.00"
+April 2018,Maharashtra,"2,720.00","13,600.00","1,360.00","6,800.00"
+May 2018,Maharashtra,"2,800.00","14,000.00","1,400.00","7,000.00"
+June 2018,Maharashtra,"2,880.00","14,400.00","1,440.00","7,200.00"
+July 2018,Maharashtra,"2,960.00","14,800.00","1,480.00","7,400.00"
+August 2018,Maharashtra,"3,040.00","15,200.00","1,520.00","7,600.00"
+September 2018,Maharashtra,"3,120.00","15,600.00","1,560.00","7,800.00"
+October 2018,Maharashtra,"3,200.00","16,000.00","1,600.00","8,000.00"
+November 2018,Maharashtra,"3,360.00","16,800.00","1,680.00","8,400.00"
+December 2018,Maharashtra,"3,520.00","17,600.00","1,760.00","8,800.00"
+January 2019,Maharashtra,"3,680.00","18,400.00","1,840.00","9,200.00"
+February 2019,Maharashtra,"3,840.00","19,200.00","1,920.00","9,600.00"
+March 2019,Maharashtra,"4,000.00","20,000.00","2,000.00","10,000.00"
+April 2019,Maharashtra,"4,160.00","20,800.00","2,080.00","10,400.00"
+May 2019,Maharashtra,"4,480.00","22,400.00","2,240.00","11,200.00"
+June 2019,Maharashtra,"4,800.00","24,000.00","2,400.00","12,000.00"
+July 2019,Maharashtra,"5,120.00","25,600.00","2,560.00","12,800.00"
+August 2019,Maharashtra,"5,440.00","27,200.00","2,720.00","13,600.00"
+September 2019,Maharashtra,"5,760.00","28,800.00","2,880.00","14,400.00"
+October 2019,Maharashtra,"6,080.00","30,400.00","3,040.00","15,200.00"
+November 2019,Maharashtra,"6,400.00","32,000.00","3,200.00","16,000.00"
+December 2019,Maharashtra,"6,720.00","33,600.00","3,360.00","16,800.00"
+January 2020,Maharashtra,"7,040.00","35,200.00","3,520.00","17,600.00"
+February 2020,Maharashtra,"7,360.00","36,800.00","3,680.00","18,400.00"
+March 2020,Maharashtra,"7,680.00","38,400.00","3,840.00","19,200.00"
+April 2020,Maharashtra,"7,842.00","39,084.00","3,909.00","19,545.00"
+May 2020,Maharashtra,"8,000.00","40,000.00","4,000.00","20,000.00"
+June 2020,Maharashtra,"8,960.00","44,800.00","4,480.00","22,400.00"
+July 2020,Maharashtra,"10,240.00","51,200.00","5,120.00","25,600.00"
+August 2020,Maharashtra,"11,520.00","57,600.00","5,760.00","28,800.00"
+September 2020,Maharashtra,"12,800.00","64,000.00","6,400.00","32,000.00"
+October 2020,Maharashtra,"14,080.00","70,400.00","7,040.00","35,200.00"
+November 2020,Maharashtra,"15,360.00","76,800.00","7,680.00","38,400.00"
+December 2020,Maharashtra,"16,640.00","83,200.00","8,320.00","41,600.00"
+January 2021,Maharashtra,"17,920.00","89,600.00","8,960.00","44,800.00"
+February 2021,Maharashtra,"19,200.00","96,000.00","9,600.00","48,000.00"
+March 2021,Maharashtra,"20,480.00","102,400.00","10,240.00","51,200.00"
+April 2021,Maharashtra,"21,498.00","106,984.00","10,704.00","53,272.00"
+May 2021,Maharashtra,"23,040.00","115,200.00","11,520.00","57,600.00"
+June 2021,Maharashtra,"24,588.00","122,828.00","12,292.00","61,352.00"
+July 2021,Maharashtra,"26,128.00","130,372.00","13,056.00","65,040.00"
+August 2021,Maharashtra,"27,684.00","138,000.00","13,824.00","68,760.00"
+September 2021,Maharashtra,"29,232.00","145,572.00","14,584.00","72,432.00"
+October 2021,Maharashtra,"30,792.00","153,144.00","15,344.00","76,104.00"
+November 2021,Maharashtra,"32,544.00","162,240.00","16,185.00","80,145.00"
+December 2021,Maharashtra,"34,428.00","171,860.00","17,058.00","84,426.00"
+January 2022,Maharashtra,"36,306.00","181,420.00","17,913.00","88,626.00"
+February 2022,Maharashtra,"38,196.00","191,030.00","18,779.00","92,871.00"
+March 2022,Maharashtra,"40,074.00","200,590.00","19,634.00","97,062.00"
+April 2022,Maharashtra,"41,958.00","210,210.00","20,499.00","101,304.00"
+May 2022,Maharashtra,"44,268.00","222,680.00","21,672.00","106,944.00"
+June 2022,Maharashtra,"48,816.00","246,200.00","23,984.00","118,208.00"
+July 2022,Maharashtra,"53,400.00","269,000.00","26,328.00","129,720.00"
+August 2022,Maharashtra,"57,984.00","291,800.00","28,672.00","141,232.00"
+September 2022,Maharashtra,"62,568.00","314,600.00","31,016.00","152,744.00"
+October 2022,Maharashtra,"70,848.00","357,200.00","35,088.00","172,800.00"
+November 2022,Maharashtra,"75,736.00","380,960.00","37,446.00","184,095.00"
+December 2022,Maharashtra,"80,760.00","405,000.00","39,850.00","196,245.00"
+January 2023,Maharashtra,"85,728.00","429,000.00","42,204.00","208,056.00"
+February 2023,Maharashtra,"89,712.00","450,600.00","44,058.00","218,784.00"
+March 2023,Maharashtra,"93,696.00","472,200.00","45,912.00","229,512.00"
+April 2023,Maharashtra,"97,680.00","493,800.00","47,766.00","240,240.00"
+May 2023,Maharashtra,"103,344.00","521,440.00","50,496.00","253,504.00"
+June 2023,Maharashtra,"114,288.00","577,760.00","55,920.00","282,240.00"
+July 2023,Maharashtra,"125,328.00","634,400.00","61,376.00","311,120.00"
+August 2023,Maharashtra,"136,368.00","691,040.00","66,832.00","340,000.00"
+September 2023,Maharashtra,"147,408.00","747,680.00","72,288.00","368,880.00"
+October 2023,Maharashtra,"158,448.00","804,320.00","77,744.00","397,760.00"
+April 2016,Manipur,0.05,0.25,0.01,0.10
+May 2016,Manipur,0.06,0.30,0.02,0.15
+June 2016,Manipur,0.07,0.35,0.03,0.20
+July 2016,Manipur,0.08,0.40,0.04,0.25
+August 2016,Manipur,0.09,0.45,0.05,0.30
+September 2016,Manipur,0.1,0.50,0.06,0.35
+October 2016,Manipur,0.12,0.55,0.08,0.40
+November 2016,Manipur,0.15,0.60,0.10,0.50
+December 2016,Manipur,0.2,0.70,0.15,0.60
+January 2017,Manipur,0.25,0.80,0.20,0.70
+February 2017,Manipur,0.3,0.90,0.25,0.80
+March 2017,Manipur,0.35,1.00,0.30,0.90
+April 2017,Manipur,0.4,1.10,0.35,1.00
+May 2017,Manipur,0.45,1.20,0.40,1.20
+June 2017,Manipur,0.5,1.30,0.45,1.40
+July 2017,Manipur,0.6,1.50,0.55,1.60
+August 2017,Manipur,0.7,1.70,0.65,1.80
+September 2017,Manipur,0.8,1.90,0.75,2.00
+October 2017,Manipur,0.9,2.10,0.85,2.20
+November 2017,Manipur,1,2.30,0.95,2.40
+December 2017,Manipur,1.2,2.60,1.10,2.70
+January 2018,Manipur,1.4,2.90,1.25,3.00
+February 2018,Manipur,1.6,3.20,1.40,3.30
+March 2018,Manipur,1.8,3.50,1.55,3.60
+April 2018,Manipur,2,3.80,1.70,3.90
+May 2018,Manipur,2.25,4.20,1.90,4.30
+June 2018,Manipur,2.5,4.60,2.10,4.70
+July 2018,Manipur,2.75,5.00,2.30,5.10
+August 2018,Manipur,3,5.40,2.50,5.50
+September 2018,Manipur,3.3,5.90,2.75,6.00
+October 2018,Manipur,3.6,6.40,3.00,6.50
+November 2018,Manipur,3.9,6.90,3.25,7.00
+December 2018,Manipur,4.35,7.60,3.60,7.70
+January 2019,Manipur,4.8,8.30,3.95,8.40
+February 2019,Manipur,5.25,9.00,4.30,9.10
+March 2019,Manipur,5.7,9.70,4.65,9.80
+April 2019,Manipur,6.15,10.40,5.00,10.50
+May 2019,Manipur,6.75,11.55,5.50,11.50
+June 2019,Manipur,7.35,12.70,6.00,12.50
+July 2019,Manipur,7.95,13.85,6.50,13.50
+August 2019,Manipur,8.55,15.00,7.00,14.50
+September 2019,Manipur,9.15,16.15,7.50,15.50
+October 2019,Manipur,9.75,17.30,8.00,16.50
+November 2019,Manipur,10.5,18.60,8.60,17.80
+December 2019,Manipur,11.4,20.10,9.30,19.40
+January 2020,Manipur,12.3,21.60,10.00,21.00
+February 2020,Manipur,13.2,23.10,10.70,22.60
+March 2020,Manipur,14.1,24.60,11.40,24.20
+April 2020,Manipur,15,26.00,12.10,25.80
+May 2020,Manipur,16,27.50,12.90,27.60
+June 2020,Manipur,18.25,31.10,14.75,31.60
+July 2020,Manipur,20.5,34.70,16.60,35.60
+August 2020,Manipur,22.75,38.30,18.45,39.60
+September 2020,Manipur,25,41.90,20.30,43.60
+October 2020,Manipur,27.25,45.50,22.15,47.60
+November 2020,Manipur,30,49.80,24.45,52.20
+December 2020,Manipur,33.25,54.90,27.30,57.80
+January 2021,Manipur,36.5,60.00,30.15,63.40
+February 2021,Manipur,39.75,65.10,33.00,69.00
+March 2021,Manipur,43,70.20,35.85,74.60
+April 2021,Manipur,46.25,75.30,38.70,80.20
+May 2021,Manipur,50.5,81.60,42.00,86.40
+June 2021,Manipur,54.75,87.90,45.30,92.60
+July 2021,Manipur,59,94.20,48.60,98.80
+August 2021,Manipur,63.25,100.50,51.90,105.00
+September 2021,Manipur,67.5,106.80,55.20,111.20
+October 2021,Manipur,71.75,113.10,58.50,117.40
+November 2021,Manipur,77.25,121.30,62.35,124.80
+December 2021,Manipur,83.5,130.50,66.85,133.00
+January 2022,Manipur,89.75,139.70,71.35,141.20
+February 2022,Manipur,96,148.90,75.85,149.40
+March 2022,Manipur,102.25,158.10,80.35,157.60
+April 2022,Manipur,108.5,167.30,84.85,165.80
+May 2022,Manipur,115.5,178.00,90.00,175.00
+June 2022,Manipur,127.25,197.30,100.50,191.25
+July 2022,Manipur,139,216.60,111.00,207.50
+August 2022,Manipur,150.75,235.90,121.50,223.75
+September 2022,Manipur,162.5,255.20,132.00,240.00
+October 2022,Manipur,182.25,289.50,148.50,270.00
+November 2022,Manipur,197.7,310.10,161.35,292.50
+December 2022,Manipur,214.4,333.00,175.70,317.50
+January 2023,Manipur,231.1,355.90,190.05,342.50
+February 2023,Manipur,241.65,373.20,198.55,359.60
+March 2023,Manipur,252.2,390.50,207.05,376.70
+April 2023,Manipur,262.75,407.80,215.55,393.80
+May 2023,Manipur,276.9,428.20,226.30,413.50
+June 2023,Manipur,305.6,474.90,250.95,459.00
+July 2023,Manipur,334.3,521.60,275.60,504.50
+August 2023,Manipur,363,568.30,300.25,550.00
+September 2023,Manipur,391.7,614.90,324.90,595.50
+October 2023,Manipur,420.4,661.60,349.55,641.00
+April 2016,Meghalaya,0.05,0.25,0.01,0.05
+May 2016,Meghalaya,0.06,0.30,0.02,0.10
+June 2016,Meghalaya,0.07,0.35,0.03,0.15
+July 2016,Meghalaya,0.08,0.40,0.04,0.20
+August 2016,Meghalaya,0.09,0.45,0.05,0.25
+September 2016,Meghalaya,0.1,0.50,0.06,0.30
+October 2016,Meghalaya,0.12,0.55,0.08,0.35
+November 2016,Meghalaya,0.15,0.65,0.10,0.40
+December 2016,Meghalaya,0.2,0.75,0.15,0.50
+January 2017,Meghalaya,0.25,0.85,0.20,0.60
+February 2017,Meghalaya,0.3,0.95,0.25,0.70
+March 2017,Meghalaya,0.35,1.05,0.30,0.80
+April 2017,Meghalaya,0.4,1.15,0.35,0.90
+May 2017,Meghalaya,0.45,1.25,0.40,1.00
+June 2017,Meghalaya,0.5,1.35,0.45,1.10
+July 2017,Meghalaya,0.6,1.50,0.55,1.25
+August 2017,Meghalaya,0.7,1.70,0.65,1.40
+September 2017,Meghalaya,0.8,1.90,0.75,1.55
+October 2017,Meghalaya,0.9,2.10,0.85,1.70
+November 2017,Meghalaya,1,2.30,0.95,1.85
+December 2017,Meghalaya,1.2,2.60,1.10,2.05
+January 2018,Meghalaya,1.4,2.90,1.25,2.25
+February 2018,Meghalaya,1.6,3.20,1.40,2.45
+March 2018,Meghalaya,1.8,3.50,1.55,2.65
+April 2018,Meghalaya,2,3.80,1.70,2.85
+May 2018,Meghalaya,2.25,4.25,1.90,3.15
+June 2018,Meghalaya,2.5,4.70,2.10,3.45
+July 2018,Meghalaya,2.75,5.15,2.30,3.75
+August 2018,Meghalaya,3,5.60,2.50,4.05
+September 2018,Meghalaya,3.3,6.20,2.75,4.45
+October 2018,Meghalaya,3.6,6.80,3.00,4.85
+November 2018,Meghalaya,3.9,7.40,3.25,5.25
+December 2018,Meghalaya,4.35,8.20,3.60,5.80
+January 2019,Meghalaya,4.8,9.00,3.95,6.35
+February 2019,Meghalaya,5.25,9.80,4.30,6.90
+March 2019,Meghalaya,5.7,10.60,4.65,7.45
+April 2019,Meghalaya,6.15,11.40,5.00,8.00
+May 2019,Meghalaya,6.75,12.60,5.50,8.80
+June 2019,Meghalaya,7.35,13.80,6.00,9.60
+July 2019,Meghalaya,7.95,15.00,6.50,10.40
+August 2019,Meghalaya,8.55,16.20,7.00,11.20
+September 2019,Meghalaya,9.15,17.40,7.50,12.00
+October 2019,Meghalaya,9.75,18.60,8.00,12.80
+November 2019,Meghalaya,10.5,20.10,8.60,13.70
+December 2019,Meghalaya,11.4,21.90,9.30,14.85
+January 2020,Meghalaya,12.3,23.70,10.00,16.00
+February 2020,Meghalaya,13.2,25.50,10.70,17.15
+March 2020,Meghalaya,14.1,27.30,11.40,18.30
+April 2020,Meghalaya,15,29.00,12.10,19.45
+May 2020,Meghalaya,16,30.80,12.90,20.70
+June 2020,Meghalaya,18.25,35.10,14.75,23.55
+July 2020,Meghalaya,20.5,39.40,16.60,26.40
+August 2020,Meghalaya,22.75,43.70,18.45,29.25
+September 2020,Meghalaya,25,48.00,20.30,32.10
+October 2020,Meghalaya,27.25,52.30,22.15,34.95
+November 2020,Meghalaya,30,57.20,24.45,38.10
+December 2020,Meghalaya,33.25,62.90,27.30,41.85
+January 2021,Meghalaya,36.5,68.60,30.15,45.60
+February 2021,Meghalaya,39.75,74.30,33.00,49.35
+March 2021,Meghalaya,43,80.00,35.85,53.10
+April 2021,Meghalaya,46.25,85.70,38.70,56.85
+May 2021,Meghalaya,50.5,92.40,42.00,61.20
+June 2021,Meghalaya,54.75,99.10,45.30,65.55
+July 2021,Meghalaya,59,105.80,48.60,69.90
+August 2021,Meghalaya,63.25,112.50,51.90,74.25
+September 2021,Meghalaya,67.5,119.20,55.20,78.60
+October 2021,Meghalaya,71.75,125.90,58.50,82.95
+November 2021,Meghalaya,77.25,134.70,62.35,88.55
+December 2021,Meghalaya,83.5,144.70,66.85,95.05
+January 2022,Meghalaya,89.75,154.70,71.35,101.55
+February 2022,Meghalaya,96,164.70,75.85,108.05
+March 2022,Meghalaya,102.25,174.70,80.35,114.55
+April 2022,Meghalaya,108.5,184.70,84.85,121.05
+May 2022,Meghalaya,115.5,195.90,90.00,128.25
+June 2022,Meghalaya,127.25,217.15,100.50,142.35
+July 2022,Meghalaya,139,238.40,111.00,156.45
+August 2022,Meghalaya,150.75,259.65,121.50,170.55
+September 2022,Meghalaya,162.5,280.90,132.00,184.65
+October 2022,Meghalaya,182.25,317.20,148.50,208.50
+November 2022,Meghalaya,197.7,340.50,161.35,225.25
+December 2022,Meghalaya,214.4,366.30,175.70,243.75
+January 2023,Meghalaya,231.1,392.10,190.05,262.25
+February 2023,Meghalaya,241.65,412.70,198.55,275.35
+March 2023,Meghalaya,252.2,433.30,207.05,288.45
+April 2023,Meghalaya,262.75,453.90,215.55,301.55
+May 2023,Meghalaya,276.9,478.60,226.30,319.35
+June 2023,Meghalaya,305.6,531.05,250.95,354.30
+July 2023,Meghalaya,334.3,583.50,275.60,389.25
+August 2023,Meghalaya,363,635.95,300.25,424.20
+September 2023,Meghalaya,391.7,688.35,324.90,459.10
+October 2023,Meghalaya,420.4,740.80,349.55,494.05
+April 2016,Mizoram,0.05,0.20,0.01,0.05
+May 2016,Mizoram,0.06,0.25,0.02,0.10
+June 2016,Mizoram,0.07,0.30,0.03,0.15
+July 2016,Mizoram,0.08,0.35,0.04,0.20
+August 2016,Mizoram,0.09,0.40,0.05,0.25
+September 2016,Mizoram,0.1,0.45,0.06,0.30
+October 2016,Mizoram,0.12,0.50,0.08,0.35
+November 2016,Mizoram,0.15,0.60,0.10,0.45
+December 2016,Mizoram,0.2,0.70,0.15,0.55
+January 2017,Mizoram,0.25,0.80,0.20,0.65
+February 2017,Mizoram,0.3,0.90,0.25,0.75
+March 2017,Mizoram,0.35,1.00,0.30,0.85
+April 2017,Mizoram,0.4,1.10,0.35,0.95
+May 2017,Mizoram,0.45,1.20,0.40,1.05
+June 2017,Mizoram,0.5,1.30,0.45,1.15
+July 2017,Mizoram,0.6,1.50,0.55,1.35
+August 2017,Mizoram,0.7,1.70,0.65,1.55
+September 2017,Mizoram,0.8,1.90,0.75,1.75
+October 2017,Mizoram,0.9,2.10,0.85,1.95
+November 2017,Mizoram,1,2.30,0.95,2.15
+December 2017,Mizoram,1.2,2.60,1.10,2.40
+January 2018,Mizoram,1.4,2.90,1.25,2.70
+February 2018,Mizoram,1.6,3.20,1.40,3.00
+March 2018,Mizoram,1.8,3.50,1.55,3.30
+April 2018,Mizoram,2,3.80,1.70,3.60
+May 2018,Mizoram,2.25,4.25,1.90,4.00
+June 2018,Mizoram,2.5,4.70,2.10,4.40
+July 2018,Mizoram,2.75,5.15,2.30,4.80
+August 2018,Mizoram,3,5.60,2.50,5.20
+September 2018,Mizoram,3.3,6.20,2.75,5.70
+October 2018,Mizoram,3.6,6.80,3.00,6.20
+November 2018,Mizoram,3.9,7.40,3.25,6.70
+December 2018,Mizoram,4.35,8.20,3.60,7.40
+January 2019,Mizoram,4.8,9.00,3.95,8.10
+February 2019,Mizoram,5.25,9.80,4.30,8.80
+March 2019,Mizoram,5.7,10.60,4.65,9.50
+April 2019,Mizoram,6.15,11.40,5.00,10.20
+May 2019,Mizoram,6.75,12.60,5.50,11.25
+June 2019,Mizoram,7.35,13.80,6.00,12.30
+July 2019,Mizoram,7.95,15.00,6.50,13.35
+August 2019,Mizoram,8.55,16.20,7.00,14.40
+September 2019,Mizoram,9.15,17.40,7.50,15.45
+October 2019,Mizoram,9.75,18.60,8.00,16.50
+November 2019,Mizoram,10.5,20.10,8.60,17.85
+December 2019,Mizoram,11.4,21.90,9.30,19.45
+January 2020,Mizoram,12.3,23.70,10.00,21.05
+February 2020,Mizoram,13.2,25.50,10.70,22.65
+March 2020,Mizoram,14.1,27.30,11.40,24.25
+April 2020,Mizoram,15,29.00,12.10,25.85
+May 2020,Mizoram,16,30.80,12.90,27.60
+June 2020,Mizoram,18.25,35.10,14.75,31.60
+July 2020,Mizoram,20.5,39.40,16.60,35.60
+August 2020,Mizoram,22.75,43.70,18.45,39.60
+September 2020,Mizoram,25,48.00,20.30,43.60
+October 2020,Mizoram,27.25,52.30,22.15,47.60
+November 2020,Mizoram,30,57.20,24.45,52.20
+December 2020,Mizoram,33.25,62.90,27.30,57.80
+January 2021,Mizoram,36.5,68.60,30.15,63.40
+February 2021,Mizoram,39.75,74.30,33.00,69.00
+March 2021,Mizoram,43,80.00,35.85,74.60
+April 2021,Mizoram,46.25,85.70,38.70,80.20
+May 2021,Mizoram,50.5,92.40,42.00,86.40
+June 2021,Mizoram,54.75,99.10,45.30,92.60
+July 2021,Mizoram,59,105.80,48.60,98.80
+August 2021,Mizoram,63.25,112.50,51.90,105.00
+September 2021,Mizoram,67.5,119.20,55.20,111.20
+October 2021,Mizoram,71.75,125.90,58.50,117.40
+November 2021,Mizoram,77.25,134.70,62.35,124.80
+December 2021,Mizoram,83.5,144.70,66.85,133.00
+January 2022,Mizoram,89.75,154.70,71.35,141.20
+February 2022,Mizoram,96,164.70,75.85,149.40
+March 2022,Mizoram,102.25,174.70,80.35,157.60
+April 2022,Mizoram,108.5,184.70,84.85,165.80
+May 2022,Mizoram,115.5,195.90,90.00,175.00
+June 2022,Mizoram,127.25,217.15,100.50,191.25
+July 2022,Mizoram,139,238.40,111.00,207.50
+August 2022,Mizoram,150.75,259.65,121.50,223.75
+September 2022,Mizoram,162.5,280.90,132.00,240.00
+October 2022,Mizoram,182.25,317.20,148.50,270.00
+November 2022,Mizoram,197.7,340.50,161.35,292.50
+December 2022,Mizoram,214.4,366.30,175.70,317.50
+January 2023,Mizoram,231.1,392.10,190.05,342.50
+February 2023,Mizoram,241.65,412.70,198.55,359.60
+March 2023,Mizoram,252.2,433.30,207.05,376.70
+April 2023,Mizoram,262.75,453.90,215.55,393.80
+May 2023,Mizoram,276.9,478.60,226.30,413.50
+June 2023,Mizoram,305.6,531.05,250.95,459.00
+July 2023,Mizoram,334.3,583.50,275.60,504.50
+August 2023,Mizoram,363,635.95,300.25,550.00
+September 2023,Mizoram,391.7,688.35,324.90,595.50
+October 2023,Mizoram,420.4,740.80,349.55,641.00
+April 2016,Nagaland,0.05,0.25,0.01,0.05
+May 2016,Nagaland,0.06,0.30,0.02,0.10
+June 2016,Nagaland,0.07,0.35,0.03,0.15
+July 2016,Nagaland,0.08,0.40,0.04,0.20
+August 2016,Nagaland,0.09,0.45,0.05,0.25
+September 2016,Nagaland,0.1,0.50,0.06,0.30
+October 2016,Nagaland,0.12,0.55,0.08,0.35
+November 2016,Nagaland,0.15,0.65,0.10,0.45
+December 2016,Nagaland,0.2,0.75,0.15,0.55
+January 2017,Nagaland,0.25,0.85,0.20,0.65
+February 2017,Nagaland,0.3,0.95,0.25,0.75
+March 2017,Nagaland,0.35,1.05,0.30,0.85
+April 2017,Nagaland,0.4,1.15,0.35,0.95
+May 2017,Nagaland,0.45,1.25,0.40,1.05
+June 2017,Nagaland,0.5,1.35,0.45,1.15
+July 2017,Nagaland,0.6,1.55,0.55,1.35
+August 2017,Nagaland,0.7,1.75,0.65,1.55
+September 2017,Nagaland,0.8,1.95,0.75,1.75
+October 2017,Nagaland,0.9,2.15,0.85,1.95
+November 2017,Nagaland,1,2.35,0.95,2.15
+December 2017,Nagaland,1.2,2.70,1.10,2.45
+January 2018,Nagaland,1.4,3.05,1.25,2.75
+February 2018,Nagaland,1.6,3.40,1.40,3.05
+March 2018,Nagaland,1.8,3.75,1.55,3.35
+April 2018,Nagaland,2,4.10,1.70,3.65
+May 2018,Nagaland,2.25,4.60,1.90,4.10
+June 2018,Nagaland,2.5,5.10,2.10,4.55
+July 2018,Nagaland,2.75,5.60,2.30,5.00
+August 2018,Nagaland,3,6.10,2.50,5.45
+September 2018,Nagaland,3.3,6.75,2.75,6.05
+October 2018,Nagaland,3.6,7.40,3.00,6.65
+November 2018,Nagaland,3.9,8.05,3.25,7.25
+December 2018,Nagaland,4.35,8.90,3.60,8.00
+January 2019,Nagaland,4.8,9.75,3.95,8.75
+February 2019,Nagaland,5.25,10.60,4.30,9.50
+March 2019,Nagaland,5.7,11.45,4.65,10.25
+April 2019,Nagaland,6.15,12.30,5.00,11.00
+May 2019,Nagaland,6.75,13.60,5.50,12.10
+June 2019,Nagaland,7.35,14.90,6.00,13.20
+July 2019,Nagaland,7.95,16.20,6.50,14.30
+August 2019,Nagaland,8.55,17.50,7.00,15.40
+September 2019,Nagaland,9.15,18.80,7.50,16.50
+October 2019,Nagaland,9.75,20.10,8.00,17.60
+November 2019,Nagaland,10.5,21.70,8.60,19.00
+December 2019,Nagaland,11.4,23.60,9.30,20.70
+January 2020,Nagaland,12.3,25.50,10.00,22.40
+February 2020,Nagaland,13.2,27.40,10.70,24.10
+March 2020,Nagaland,14.1,29.30,11.40,25.80
+April 2020,Nagaland,15,31.10,12.10,27.50
+May 2020,Nagaland,16,33.00,12.90,29.30
+June 2020,Nagaland,18.25,37.60,14.75,33.40
+July 2020,Nagaland,20.5,42.20,16.60,37.50
+August 2020,Nagaland,22.75,46.80,18.45,41.60
+September 2020,Nagaland,25,51.40,20.30,45.70
+October 2020,Nagaland,27.25,56.00,22.15,49.80
+November 2020,Nagaland,30,61.20,24.45,54.60
+December 2020,Nagaland,33.25,67.40,27.30,60.40
+January 2021,Nagaland,36.5,73.60,30.15,66.20
+February 2021,Nagaland,39.75,79.80,33.00,72.00
+March 2021,Nagaland,43,86.00,35.85,77.80
+April 2021,Nagaland,46.25,92.20,38.70,83.60
+May 2021,Nagaland,50.5,99.60,42.00,90.20
+June 2021,Nagaland,54.75,107.00,45.30,96.80
+July 2021,Nagaland,59,114.40,48.60,103.40
+August 2021,Nagaland,63.25,121.80,51.90,110.00
+September 2021,Nagaland,67.5,129.20,55.20,116.60
+October 2021,Nagaland,71.75,136.60,58.50,123.20
+November 2021,Nagaland,77.25,146.40,62.35,131.40
+December 2021,Nagaland,83.5,157.40,66.85,140.70
+January 2022,Nagaland,89.75,168.40,71.35,150.00
+February 2022,Nagaland,96,179.40,75.85,159.30
+March 2022,Nagaland,102.25,190.40,80.35,168.60
+April 2022,Nagaland,108.5,201.40,84.85,177.90
+May 2022,Nagaland,115.5,213.70,90.00,188.10
+June 2022,Nagaland,127.25,236.90,100.50,208.90
+July 2022,Nagaland,139,260.10,111.00,229.70
+August 2022,Nagaland,150.75,283.30,121.50,250.50
+September 2022,Nagaland,162.5,306.50,132.00,271.30
+October 2022,Nagaland,182.25,347.00,148.50,306.00
+November 2022,Nagaland,197.7,373.20,161.35,331.95
+December 2022,Nagaland,214.4,402.80,175.70,360.45
+January 2023,Nagaland,231.1,432.40,190.05,388.95
+February 2023,Nagaland,241.65,454.00,198.55,408.30
+March 2023,Nagaland,252.2,475.60,207.05,427.65
+April 2023,Nagaland,262.75,497.20,215.55,447.00
+May 2023,Nagaland,276.9,523.20,226.30,472.50
+June 2023,Nagaland,305.6,580.90,250.95,525.50
+July 2023,Nagaland,334.3,638.60,275.60,578.50
+August 2023,Nagaland,363,696.30,300.25,631.50
+September 2023,Nagaland,391.7,754.00,324.90,684.50
+October 2023,Nagaland,420.4,811.70,349.55,737.50
+April 2016,Odisha,100,500.00,50.00,250.00
+May 2016,Odisha,110,550.00,55.00,275.00
+June 2016,Odisha,120,600.00,60.00,300.00
+July 2016,Odisha,130,650.00,65.00,325.00
+August 2016,Odisha,140,700.00,70.00,350.00
+September 2016,Odisha,150,750.00,75.00,375.00
+October 2016,Odisha,160,800.00,80.00,400.00
+November 2016,Odisha,170,850.00,85.00,425.00
+December 2016,Odisha,180,900.00,90.00,450.00
+January 2017,Odisha,190,950.00,95.00,475.00
+February 2017,Odisha,200,"1,000.00",100.00,500.00
+March 2017,Odisha,210,"1,050.00",105.00,525.00
+April 2017,Odisha,220,"1,100.00",110.00,550.00
+May 2017,Odisha,230,"1,150.00",115.00,575.00
+June 2017,Odisha,240,"1,200.00",120.00,600.00
+July 2017,Odisha,250,"1,250.00",125.00,625.00
+August 2017,Odisha,260,"1,300.00",130.00,650.00
+September 2017,Odisha,270,"1,350.00",135.00,675.00
+October 2017,Odisha,280,"1,400.00",140.00,700.00
+November 2017,Odisha,290,"1,450.00",145.00,725.00
+December 2017,Odisha,300,"1,500.00",150.00,750.00
+January 2018,Odisha,310,"1,550.00",155.00,775.00
+February 2018,Odisha,320,"1,600.00",160.00,800.00
+March 2018,Odisha,330,"1,650.00",165.00,825.00
+April 2018,Odisha,340,"1,700.00",170.00,850.00
+May 2018,Odisha,350,"1,750.00",175.00,875.00
+June 2018,Odisha,360,"1,800.00",180.00,900.00
+July 2018,Odisha,370,"1,850.00",185.00,925.00
+August 2018,Odisha,380,"1,900.00",190.00,950.00
+September 2018,Odisha,390,"1,950.00",195.00,975.00
+October 2018,Odisha,400,"2,000.00",200.00,"1,000.00"
+November 2018,Odisha,420,"2,100.00",210.00,"1,050.00"
+December 2018,Odisha,440,"2,200.00",220.00,"1,100.00"
+January 2019,Odisha,460,"2,300.00",230.00,"1,150.00"
+February 2019,Odisha,480,"2,400.00",240.00,"1,200.00"
+March 2019,Odisha,500,"2,500.00",250.00,"1,250.00"
+April 2019,Odisha,520,"2,600.00",260.00,"1,300.00"
+May 2019,Odisha,560,"2,800.00",280.00,"1,400.00"
+June 2019,Odisha,600,"3,000.00",300.00,"1,500.00"
+July 2019,Odisha,640,"3,200.00",320.00,"1,600.00"
+August 2019,Odisha,680,"3,400.00",340.00,"1,700.00"
+September 2019,Odisha,720,"3,600.00",360.00,"1,800.00"
+October 2019,Odisha,760,"3,800.00",380.00,"1,900.00"
+November 2019,Odisha,800,"4,000.00",400.00,"2,000.00"
+December 2019,Odisha,840,"4,200.00",420.00,"2,100.00"
+January 2020,Odisha,880,"4,400.00",440.00,"2,200.00"
+February 2020,Odisha,920,"4,600.00",460.00,"2,300.00"
+March 2020,Odisha,960,"4,800.00",480.00,"2,400.00"
+April 2020,Odisha,980,"4,900.00",490.00,"2,450.00"
+May 2020,Odisha,1000,"5,000.00",500.00,"2,500.00"
+June 2020,Odisha,1120,"5,600.00",560.00,"2,800.00"
+July 2020,Odisha,1280,"6,400.00",640.00,"3,200.00"
+August 2020,Odisha,1440,"7,200.00",720.00,"3,600.00"
+September 2020,Odisha,1600,"8,000.00",800.00,"4,000.00"
+October 2020,Odisha,1760,"8,800.00",880.00,"4,400.00"
+November 2020,Odisha,1920,"9,600.00",960.00,"4,800.00"
+December 2020,Odisha,2080,"10,400.00","1,040.00","5,200.00"
+January 2021,Odisha,2240,"11,200.00","1,120.00","5,600.00"
+February 2021,Odisha,2400,"12,000.00","1,200.00","6,000.00"
+March 2021,Odisha,2560,"12,800.00","1,280.00","6,400.00"
+April 2021,Odisha,2662,"13,344.00","1,331.00","6,673.00"
+May 2021,Odisha,2850,"14,250.00","1,425.00","7,125.00"
+June 2021,Odisha,3038,"15,168.00","1,517.00","7,584.00"
+July 2021,Odisha,3229,"16,085.00","1,608.00","8,042.00"
+August 2021,Odisha,3419,"17,004.00","1,700.00","8,501.00"
+September 2021,Odisha,3608,"17,922.00","1,791.00","8,960.00"
+October 2021,Odisha,3798,"18,841.00","1,883.00","9,419.00"
+November 2021,Odisha,4031,"19,894.00","1,983.00","9,942.00"
+December 2021,Odisha,4279,"21,081.00","2,100.00","10,513.00"
+January 2022,Odisha,4527,"22,270.00","2,217.00","11,084.00"
+February 2022,Odisha,4776,"23,458.00","2,335.00","11,656.00"
+March 2022,Odisha,5024,"24,646.00","2,452.00","12,228.00"
+April 2022,Odisha,5272,"25,834.00","2,569.00","12,799.00"
+May 2022,Odisha,5568,"27,335.00","2,702.00","13,474.00"
+June 2022,Odisha,6144,"30,240.00","2,993.00","14,928.00"
+July 2022,Odisha,6721,"33,162.00","3,285.00","16,391.00"
+August 2022,Odisha,7298,"36,062.00","3,576.00","17,831.00"
+September 2022,Odisha,7874,"38,979.00","3,867.00","19,271.00"
+October 2022,Odisha,8925,"44,348.00","4,373.00","21,809.00"
+November 2022,Odisha,9534,"47,206.00","4,656.00","23,190.00"
+December 2022,Odisha,10186,"50,321.00","4,962.00","24,689.00"
+January 2023,Odisha,10838,"53,437.00","5,268.00","26,188.00"
+February 2023,Odisha,11335,"55,794.00","5,506.00","27,375.00"
+March 2023,Odisha,11833,"58,151.00","5,745.00","28,562.00"
+April 2023,Odisha,12330,"60,508.00","5,983.00","29,748.00"
+May 2023,Odisha,13023,"64,042.00","6,317.00","31,436.00"
+June 2023,Odisha,14387,"70,884.00","6,992.00","34,784.00"
+July 2023,Odisha,15751,"77,725.00","7,668.00","38,133.00"
+August 2023,Odisha,17115,"84,567.00","8,343.00","41,481.00"
+September 2023,Odisha,18479,"91,408.00","9,019.00","44,829.00"
+October 2023,Odisha,19843,"98,250.00","9,694.00","48,178.00"
+April 2016,Puducherry,5,25,2.5,12.50
+May 2016,Puducherry,5.5,27.5,2.75,13.75
+June 2016,Puducherry,6,30,3,15.00
+July 2016,Puducherry,6.5,32.5,3.25,16.25
+August 2016,Puducherry,7,35,3.5,17.50
+September 2016,Puducherry,7.5,37.5,3.75,18.75
+October 2016,Puducherry,8,40,4,20.00
+November 2016,Puducherry,8.5,42.5,4.25,21.25
+December 2016,Puducherry,9,45,4.5,22.50
+January 2017,Puducherry,9.5,47.5,4.75,23.75
+February 2017,Puducherry,10,50,5,25.00
+March 2017,Puducherry,10.5,52.5,5.25,26.25
+April 2017,Puducherry,11,55,5.5,27.50
+May 2017,Puducherry,11.5,57.5,5.75,28.75
+June 2017,Puducherry,12,60,6,30.00
+July 2017,Puducherry,12.5,62.5,6.25,31.25
+August 2017,Puducherry,13,65,6.5,32.50
+September 2017,Puducherry,13.5,67.5,6.75,33.75
+October 2017,Puducherry,14,70,7,35.00
+November 2017,Puducherry,14.5,72.5,7.25,36.25
+December 2017,Puducherry,15,75,7.5,37.50
+January 2018,Puducherry,15.5,77.5,7.75,38.75
+February 2018,Puducherry,16,80,8,40.00
+March 2018,Puducherry,16.5,82.5,8.25,41.25
+April 2018,Puducherry,17,85,8.5,42.50
+May 2018,Puducherry,17.5,87.5,8.75,43.75
+June 2018,Puducherry,18,90,9,45.00
+July 2018,Puducherry,18.5,92.5,9.25,46.25
+August 2018,Puducherry,19,95,9.5,47.50
+September 2018,Puducherry,19.5,97.5,9.75,48.75
+October 2018,Puducherry,20,100,10,50.00
+November 2018,Puducherry,21,105,10.5,52.50
+December 2018,Puducherry,22,110,11,55.00
+January 2019,Puducherry,23,115,11.5,57.50
+February 2019,Puducherry,24,120,12,60.00
+March 2019,Puducherry,25,125,12.5,62.50
+April 2019,Puducherry,26,130,13,65.00
+May 2019,Puducherry,28,140,14,70.00
+June 2019,Puducherry,30,150,15,75.00
+July 2019,Puducherry,32,160,16,80.00
+August 2019,Puducherry,34,170,17,85.00
+September 2019,Puducherry,36,180,18,90.00
+October 2019,Puducherry,38,190,19,95.00
+November 2019,Puducherry,40,200,20,100.00
+December 2019,Puducherry,42,210,21,105.00
+January 2020,Puducherry,44,220,22,110.00
+February 2020,Puducherry,46,230,23,115.00
+March 2020,Puducherry,48,240,24,120.00
+April 2020,Puducherry,49,245,24.5,122.50
+May 2020,Puducherry,50,250,25,125.00
+June 2020,Puducherry,56,280,28,140.00
+July 2020,Puducherry,64,320,32,160.00
+August 2020,Puducherry,72,360,36,180.00
+September 2020,Puducherry,80,400,40,200.00
+October 2020,Puducherry,88,440,44,220.00
+November 2020,Puducherry,96,480,48,240.00
+December 2020,Puducherry,104,520,52,260.00
+January 2021,Puducherry,112,560,56,280.00
+February 2021,Puducherry,120,600,60,300.00
+March 2021,Puducherry,128,640,64,320.00
+April 2021,Puducherry,134,672,67,336.00
+May 2021,Puducherry,144,720,72,360.00
+June 2021,Puducherry,154,768,77,384.00
+July 2021,Puducherry,164,816,82,408.00
+August 2021,Puducherry,174,864,86,432.00
+September 2021,Puducherry,184,912,91,456.00
+October 2021,Puducherry,192,960,96,480.00
+November 2021,Puducherry,202,1008,101,504.00
+December 2021,Puducherry,212,1056,106,528.00
+January 2022,Puducherry,228,1128,113,564.00
+February 2022,Puducherry,240,1200,120,600.00
+March 2022,Puducherry,252,1272,127,636.00
+April 2022,Puducherry,264,1344,134,672.00
+May 2022,Puducherry,280,1416,142,712.00
+June 2022,Puducherry,304,1520,160,800.00
+July 2022,Puducherry,336,1672,167,840.00
+August 2022,Puducherry,368,1824,191,960.00
+September 2022,Puducherry,400,1976,198,992.00
+October 2022,Puducherry,448,2240,224,"1,120.00"
+November 2022,Puducherry,478,2390,239,"1,195.00"
+December 2022,Puducherry,510,2550,255,"1,275.00"
+January 2023,Puducherry,542,2710,271,"1,355.00"
+February 2023,Puducherry,568,2832,283,"1,416.00"
+March 2023,Puducherry,594,2954,295,"1,477.00"
+April 2023,Puducherry,620,3076,308,"1,538.00"
+May 2023,Puducherry,656,3280,328,"1,640.00"
+June 2023,Puducherry,728,3640,364,"1,820.00"
+July 2023,Puducherry,800,4000,400,"2,000.00"
+August 2023,Puducherry,872,4360,436,"2,180.00"
+September 2023,Puducherry,944,4720,472,"2,360.00"
+October 2023,Puducherry,1016,5080,508,"2,540.00"
+April 2016,Punjab,200,"1,000.00",100.00,500.00
+May 2016,Punjab,220,"1,100.00",110.00,550.00
+June 2016,Punjab,240,"1,200.00",120.00,600.00
+July 2016,Punjab,260,"1,300.00",130.00,650.00
+August 2016,Punjab,280,"1,400.00",140.00,700.00
+September 2016,Punjab,300,"1,500.00",150.00,750.00
+October 2016,Punjab,320,"1,600.00",160.00,800.00
+November 2016,Punjab,340,"1,700.00",170.00,850.00
+December 2016,Punjab,360,"1,800.00",180.00,900.00
+January 2017,Punjab,380,"1,900.00",190.00,950.00
+February 2017,Punjab,400,"2,000.00",200.00,"1,000.00"
+March 2017,Punjab,420,"2,100.00",210.00,"1,050.00"
+April 2017,Punjab,440,"2,200.00",220.00,"1,100.00"
+May 2017,Punjab,460,"2,300.00",230.00,"1,150.00"
+June 2017,Punjab,480,"2,400.00",240.00,"1,200.00"
+July 2017,Punjab,500,"2,500.00",250.00,"1,250.00"
+August 2017,Punjab,520,"2,600.00",260.00,"1,300.00"
+September 2017,Punjab,540,"2,700.00",270.00,"1,350.00"
+October 2017,Punjab,560,"2,800.00",280.00,"1,400.00"
+November 2017,Punjab,580,"2,900.00",290.00,"1,450.00"
+December 2017,Punjab,600,"3,000.00",300.00,"1,500.00"
+January 2018,Punjab,620,"3,100.00",310.00,"1,550.00"
+February 2018,Punjab,640,"3,200.00",320.00,"1,600.00"
+March 2018,Punjab,660,"3,300.00",330.00,"1,650.00"
+April 2018,Punjab,680,"3,400.00",340.00,"1,700.00"
+May 2018,Punjab,700,"3,500.00",350.00,"1,750.00"
+June 2018,Punjab,720,"3,600.00",360.00,"1,800.00"
+July 2018,Punjab,740,"3,700.00",370.00,"1,850.00"
+August 2018,Punjab,760,"3,800.00",380.00,"1,900.00"
+September 2018,Punjab,780,"3,900.00",390.00,"1,950.00"
+October 2018,Punjab,800,"4,000.00",400.00,"2,000.00"
+November 2018,Punjab,850,"4,250.00",425.00,"2,125.00"
+December 2018,Punjab,900,"4,500.00",450.00,"2,250.00"
+January 2019,Punjab,950,"4,750.00",475.00,"2,375.00"
+February 2019,Punjab,1000,"5,000.00",500.00,"2,500.00"
+March 2019,Punjab,1050,"5,250.00",525.00,"2,625.00"
+April 2019,Punjab,1100,"5,500.00",550.00,"2,750.00"
+May 2019,Punjab,1200,"6,000.00",600.00,"3,000.00"
+June 2019,Punjab,1300,"6,500.00",650.00,"3,250.00"
+July 2019,Punjab,1400,"7,000.00",700.00,"3,500.00"
+August 2019,Punjab,1500,"7,500.00",750.00,"3,750.00"
+September 2019,Punjab,1600,"8,000.00",800.00,"4,000.00"
+October 2019,Punjab,1700,"8,500.00",850.00,"4,250.00"
+November 2019,Punjab,1800,"9,000.00",900.00,"4,500.00"
+December 2019,Punjab,1900,"9,500.00",950.00,"4,750.00"
+January 2020,Punjab,2000,"10,000.00","1,000.00","5,000.00"
+February 2020,Punjab,2100,"10,500.00","1,050.00","5,250.00"
+March 2020,Punjab,2200,"11,000.00","1,100.00","5,500.00"
+April 2020,Punjab,2250,"11,250.00","1,125.00","5,625.00"
+May 2020,Punjab,2300,"11,500.00","1,150.00","5,750.00"
+June 2020,Punjab,2600,"13,000.00","1,300.00","6,500.00"
+July 2020,Punjab,2900,"14,500.00","1,450.00","7,250.00"
+August 2020,Punjab,3200,"16,000.00","1,600.00","8,000.00"
+September 2020,Punjab,3500,"17,500.00","1,750.00","8,750.00"
+October 2020,Punjab,3800,"19,000.00","1,900.00","9,500.00"
+November 2020,Punjab,4100,"20,500.00","2,100.00","10,250.00"
+December 2020,Punjab,4400,"22,000.00","2,300.00","11,000.00"
+January 2021,Punjab,4700,"23,500.00","2,400.00","11,750.00"
+February 2021,Punjab,5000,"25,000.00","2,500.00","12,500.00"
+March 2021,Punjab,5300,"26,500.00","2,600.00","13,250.00"
+April 2021,Punjab,5600,"27,840.00","2,736.00","13,632.00"
+May 2021,Punjab,6000,"30,000.00","2,880.00","14,400.00"
+June 2021,Punjab,6400,"32,000.00","3,072.00","15,360.00"
+July 2021,Punjab,6800,"34,000.00","3,264.00","16,320.00"
+August 2021,Punjab,7200,"36,000.00","3,456.00","17,280.00"
+September 2021,Punjab,7600,"38,000.00","3,648.00","18,240.00"
+October 2021,Punjab,8000,"40,000.00","3,840.00","19,200.00"
+November 2021,Punjab,8500,"42,500.00","4,032.00","20,160.00"
+December 2021,Punjab,9000,"45,000.00","4,224.00","21,120.00"
+January 2022,Punjab,9500,"47,500.00","4,464.00","22,320.00"
+February 2022,Punjab,10000,"50,000.00","4,704.00","23,520.00"
+March 2022,Punjab,10500,"52,500.00","4,944.00","24,720.00"
+April 2022,Punjab,11000,"55,000.00","5,184.00","25,920.00"
+May 2022,Punjab,11700,"58,500.00","5,472.00","27,360.00"
+June 2022,Punjab,13000,"65,000.00","6,080.00","30,400.00"
+July 2022,Punjab,14500,"71,500.00","6,688.00","33,420.00"
+August 2022,Punjab,16000,"80,000.00","7,296.00","36,480.00"
+September 2022,Punjab,17500,"85,000.00","7,904.00","39,520.00"
+October 2022,Punjab,20000,"100,000.00","8,960.00","44,800.00"
+November 2022,Punjab,21500,"107,500.00","9,568.00","47,890.00"
+December 2022,Punjab,23000,"115,000.00","10,320.00","51,200.00"
+January 2023,Punjab,25500,"127,500.00","11,370.00","56,370.00"
+February 2023,Punjab,27000,"135,000.00","12,100.00","60,600.00"
+March 2023,Punjab,28500,"142,500.00","12,830.00","64,830.00"
+April 2023,Punjab,30000,"150,000.00","13,560.00","69,060.00"
+May 2023,Punjab,31500,"157,500.00","14,256.00","72,640.00"
+June 2023,Punjab,35000,"175,000.00","15,840.00","80,720.00"
+July 2023,Punjab,40000,"200,000.00","17,920.00","89,600.00"
+August 2023,Punjab,45000,"225,000.00","20,000.00","100,000.00"
+September 2023,Punjab,50000,"250,000.00","22,080.00","110,400.00"
+October 2023,Punjab,55000,"275,000.00","24,160.00","120,800.00"
+April 2016,Rajasthan,150,750.00,75.00,375.00
+May 2016,Rajasthan,165,825.00,82.50,412.50
+June 2016,Rajasthan,180,900.00,90.00,450.00
+July 2016,Rajasthan,195,975.00,97.50,487.50
+August 2016,Rajasthan,210,"1,050.00",105.00,525.00
+September 2016,Rajasthan,225,"1,125.00",112.50,562.50
+October 2016,Rajasthan,240,"1,200.00",120.00,600.00
+November 2016,Rajasthan,255,"1,275.00",127.50,637.50
+December 2016,Rajasthan,270,"1,350.00",135.00,675.00
+January 2017,Rajasthan,285,"1,425.00",142.50,712.50
+February 2017,Rajasthan,300,"1,500.00",150.00,750.00
+March 2017,Rajasthan,315,"1,575.00",157.50,787.50
+April 2017,Rajasthan,330,"1,650.00",165.00,825.00
+May 2017,Rajasthan,345,"1,725.00",172.50,862.50
+June 2017,Rajasthan,360,"1,800.00",180.00,900.00
+July 2017,Rajasthan,375,"1,875.00",187.50,937.50
+August 2017,Rajasthan,390,"1,950.00",195.00,975.00
+September 2017,Rajasthan,405,"2,025.00",202.50,"1,012.50"
+October 2017,Rajasthan,420,"2,100.00",210.00,"1,050.00"
+November 2017,Rajasthan,435,"2,175.00",217.50,"1,087.50"
+December 2017,Rajasthan,450,"2,250.00",225.00,"1,125.00"
+January 2018,Rajasthan,465,"2,325.00",232.50,"1,162.50"
+February 2018,Rajasthan,480,"2,400.00",240.00,"1,200.00"
+March 2018,Rajasthan,495,"2,475.00",247.50,"1,237.50"
+April 2018,Rajasthan,510,"2,550.00",255.00,"1,275.00"
+May 2018,Rajasthan,525,"2,625.00",262.50,"1,312.50"
+June 2018,Rajasthan,540,"2,700.00",270.00,"1,350.00"
+July 2018,Rajasthan,555,"2,775.00",277.50,"1,387.50"
+August 2018,Rajasthan,570,"2,850.00",285.00,"1,425.00"
+September 2018,Rajasthan,585,"2,925.00",292.50,"1,462.50"
+October 2018,Rajasthan,600,"3,000.00",300.00,"1,500.00"
+November 2018,Rajasthan,630,"3,150.00",315.00,"1,575.00"
+December 2018,Rajasthan,660,"3,300.00",330.00,"1,650.00"
+January 2019,Rajasthan,690,"3,450.00",345.00,"1,725.00"
+February 2019,Rajasthan,720,"3,600.00",360.00,"1,800.00"
+March 2019,Rajasthan,750,"3,750.00",375.00,"1,875.00"
+April 2019,Rajasthan,780,"3,900.00",390.00,"1,950.00"
+May 2019,Rajasthan,840,"4,200.00",420.00,"2,100.00"
+June 2019,Rajasthan,900,"4,500.00",450.00,"2,250.00"
+July 2019,Rajasthan,960,"4,800.00",480.00,"2,400.00"
+August 2019,Rajasthan,1020,"5,100.00",510.00,"2,550.00"
+September 2019,Rajasthan,1080,"5,400.00",540.00,"2,700.00"
+October 2019,Rajasthan,1140,"5,700.00",570.00,"2,850.00"
+November 2019,Rajasthan,1200,"6,000.00",600.00,"3,000.00"
+December 2019,Rajasthan,1260,"6,300.00",630.00,"3,150.00"
+January 2020,Rajasthan,1320,"6,600.00",660.00,"3,300.00"
+February 2020,Rajasthan,1380,"6,900.00",690.00,"3,450.00"
+March 2020,Rajasthan,1440,"7,200.00",720.00,"3,600.00"
+April 2020,Rajasthan,1470,"7,350.00",735.00,"3,675.00"
+May 2020,Rajasthan,1500,"7,500.00",750.00,"3,750.00"
+June 2020,Rajasthan,1680,"8,400.00",840.00,"4,200.00"
+July 2020,Rajasthan,1920,"9,600.00",960.00,"4,800.00"
+August 2020,Rajasthan,2160,"10,800.00","1,080.00","5,400.00"
+September 2020,Rajasthan,2400,"12,000.00","1,200.00","6,000.00"
+October 2020,Rajasthan,2640,"13,200.00","1,320.00","6,600.00"
+November 2020,Rajasthan,2880,"14,400.00","1,440.00","7,200.00"
+December 2020,Rajasthan,3120,"15,600.00","1,560.00","7,800.00"
+January 2021,Rajasthan,3360,"16,800.00","1,680.00","8,400.00"
+February 2021,Rajasthan,3600,"18,000.00","1,800.00","9,000.00"
+March 2021,Rajasthan,3840,"19,200.00","1,920.00","9,600.00"
+April 2021,Rajasthan,3989,"20,168.00","2,052.00","10,032.00"
+May 2021,Rajasthan,4320,"21,600.00","2,160.00","10,800.00"
+June 2021,Rajasthan,4656,"23,040.00","2,304.00","11,520.00"
+July 2021,Rajasthan,4992,"24,480.00","2,448.00","12,240.00"
+August 2021,Rajasthan,5328,"25,920.00","2,592.00","12,960.00"
+September 2021,Rajasthan,5664,"27,360.00","2,736.00","13,680.00"
+October 2021,Rajasthan,6000,"28,800.00","2,880.00","14,400.00"
+November 2021,Rajasthan,6360,"30,240.00","3,024.00","15,120.00"
+December 2021,Rajasthan,6720,"31,680.00","3,168.00","15,840.00"
+January 2022,Rajasthan,7128,"33,264.00","3,384.00","16,704.00"
+February 2022,Rajasthan,7536,"34,848.00","3,600.00","17,280.00"
+March 2022,Rajasthan,7944,"36,432.00","3,816.00","17,856.00"
+April 2022,Rajasthan,8352,"38,016.00","4,032.00","18,432.00"
+May 2022,Rajasthan,8832,"39,840.00","4,272.00","19,296.00"
+June 2022,Rajasthan,9792,"44,160.00","4,704.00","21,504.00"
+July 2022,Rajasthan,10752,"48,480.00","5,136.00","23,712.00"
+August 2022,Rajasthan,11712,"52,800.00","5,568.00","25,920.00"
+September 2022,Rajasthan,12672,"57,120.00","6,000.00","28,128.00"
+October 2022,Rajasthan,14336,"64,896.00","6,720.00","31,680.00"
+November 2022,Rajasthan,15342,"69,312.00","7,160.00","33,744.00"
+December 2022,Rajasthan,16344,"73,920.00","7,632.00","36,096.00"
+January 2023,Rajasthan,17412,"78,712.00","8,064.00","38,304.00"
+February 2023,Rajasthan,18204,"82,944.00","8,400.00","40,176.00"
+March 2023,Rajasthan,18996,"87,176.00","8,736.00","42,048.00"
+April 2023,Rajasthan,19788,"91,408.00","9,072.00","43,920.00"
+May 2023,Rajasthan,20904,"96,912.00","9,576.00","46,368.00"
+June 2023,Rajasthan,23136,"107,520.00","10,608.00","51,456.00"
+July 2023,Rajasthan,25392,"118,480.00","11,648.00","56,688.00"
+August 2023,Rajasthan,27640,"129,280.00","12,672.00","61,872.00"
+September 2023,Rajasthan,29856,"139,920.00","13,728.00","67,056.00"
+October 2023,Rajasthan,32088,"150,720.00","14,784.00","72,240.00"
+April 2016,Sikkim,0.05,0.25,0.01,0.05
+May 2016,Sikkim,0.06,0.30,0.02,0.10
+June 2016,Sikkim,0.07,0.35,0.03,0.15
+July 2016,Sikkim,0.08,0.40,0.04,0.20
+August 2016,Sikkim,0.09,0.45,0.05,0.25
+September 2016,Sikkim,0.1,0.50,0.06,0.30
+October 2016,Sikkim,0.12,0.55,0.08,0.35
+November 2016,Sikkim,0.15,0.65,0.10,0.45
+December 2016,Sikkim,0.2,0.75,0.15,0.55
+January 2017,Sikkim,0.25,0.85,0.20,0.65
+February 2017,Sikkim,0.3,0.95,0.25,0.75
+March 2017,Sikkim,0.35,1.05,0.30,0.85
+April 2017,Sikkim,0.4,1.15,0.35,0.95
+May 2017,Sikkim,0.45,1.25,0.40,1.05
+June 2017,Sikkim,0.5,1.35,0.45,1.15
+July 2017,Sikkim,0.6,1.55,0.55,1.35
+August 2017,Sikkim,0.7,1.75,0.65,1.55
+September 2017,Sikkim,0.8,1.95,0.75,1.75
+October 2017,Sikkim,0.9,2.15,0.85,1.95
+November 2017,Sikkim,1,2.35,0.95,2.15
+December 2017,Sikkim,1.2,2.70,1.10,2.45
+January 2018,Sikkim,1.4,3.05,1.25,2.75
+February 2018,Sikkim,1.6,3.40,1.40,3.05
+March 2018,Sikkim,1.8,3.75,1.55,3.35
+April 2018,Sikkim,2,4.10,1.70,3.65
+May 2018,Sikkim,2.25,4.60,1.90,4.10
+June 2018,Sikkim,2.5,5.10,2.10,4.55
+July 2018,Sikkim,2.75,5.60,2.30,5.00
+August 2018,Sikkim,3,6.10,2.50,5.45
+September 2018,Sikkim,3.3,6.75,2.75,6.05
+October 2018,Sikkim,3.6,7.40,3.00,6.65
+November 2018,Sikkim,3.9,8.05,3.25,7.25
+December 2018,Sikkim,4.35,8.90,3.60,8.00
+January 2019,Sikkim,4.8,9.75,3.95,8.75
+February 2019,Sikkim,5.25,10.60,4.30,9.50
+March 2019,Sikkim,5.7,11.45,4.65,10.25
+April 2019,Sikkim,6.15,12.30,5.00,11.00
+May 2019,Sikkim,6.75,13.60,5.50,12.10
+June 2019,Sikkim,7.35,14.90,6.00,13.20
+July 2019,Sikkim,7.95,16.20,6.50,14.30
+August 2019,Sikkim,8.55,17.50,7.00,15.40
+September 2019,Sikkim,9.15,18.80,7.50,16.50
+October 2019,Sikkim,9.75,20.10,8.00,17.60
+November 2019,Sikkim,10.5,21.70,8.60,19.00
+December 2019,Sikkim,11.4,23.60,9.30,20.70
+January 2020,Sikkim,12.3,25.50,10.00,22.40
+February 2020,Sikkim,13.2,27.40,10.70,24.10
+March 2020,Sikkim,14.1,29.30,11.40,25.80
+April 2020,Sikkim,15,31.10,12.10,27.50
+May 2020,Sikkim,16,33.00,12.90,29.30
+June 2020,Sikkim,18.25,37.60,14.75,33.40
+July 2020,Sikkim,20.5,42.20,16.60,37.50
+August 2020,Sikkim,22.75,46.80,18.45,41.60
+September 2020,Sikkim,25,51.40,20.30,45.70
+October 2020,Sikkim,27.25,56.00,22.15,49.80
+November 2020,Sikkim,30,61.20,24.45,54.60
+December 2020,Sikkim,33.25,67.40,27.30,60.40
+January 2021,Sikkim,36.5,73.60,30.15,66.20
+February 2021,Sikkim,39.75,79.80,33.00,72.00
+March 2021,Sikkim,43,86.00,35.85,77.80
+April 2021,Sikkim,46.25,92.20,38.70,83.60
+May 2021,Sikkim,50.5,99.60,42.00,90.20
+June 2021,Sikkim,54.75,107.00,45.30,96.80
+July 2021,Sikkim,59,114.40,48.60,103.40
+August 2021,Sikkim,63.25,121.80,51.90,110.00
+September 2021,Sikkim,67.5,129.20,55.20,116.60
+October 2021,Sikkim,71.75,136.60,58.50,123.20
+November 2021,Sikkim,77.25,146.40,62.35,131.40
+December 2021,Sikkim,83.5,157.40,66.85,140.70
+January 2022,Sikkim,89.75,168.40,71.35,150.00
+February 2022,Sikkim,96,179.40,75.85,159.30
+March 2022,Sikkim,102.25,190.40,80.35,168.60
+April 2022,Sikkim,108.5,201.40,84.85,177.90
+May 2022,Sikkim,115.5,213.70,90.00,188.10
+June 2022,Sikkim,127.25,236.90,100.50,208.90
+July 2022,Sikkim,139,260.10,111.00,229.70
+August 2022,Sikkim,150.75,283.30,121.50,250.50
+September 2022,Sikkim,162.5,306.50,132.00,271.30
+October 2022,Sikkim,182.25,347.00,148.50,306.00
+November 2022,Sikkim,197.7,373.20,161.35,331.95
+December 2022,Sikkim,214.4,402.80,175.70,360.45
+January 2023,Sikkim,231.1,432.40,190.05,388.95
+February 2023,Sikkim,241.65,454.00,198.55,408.30
+March 2023,Sikkim,252.2,475.60,207.05,427.65
+April 2023,Sikkim,262.75,497.20,215.55,447.00
+May 2023,Sikkim,276.9,523.20,226.30,472.50
+June 2023,Sikkim,305.6,580.90,250.95,525.50
+July 2023,Sikkim,334.3,638.60,275.60,578.50
+August 2023,Sikkim,363,696.30,300.25,631.50
+September 2023,Sikkim,391.7,754.00,324.90,684.50
+October 2023,Sikkim,420.4,811.70,349.55,737.50
+April 2016,Tamil Nadu,400,2000,200.00,"1,000.00"
+May 2016,Tamil Nadu,440,2200,220.00,"1,100.00"
+June 2016,Tamil Nadu,480,2400,240.00,"1,200.00"
+July 2016,Tamil Nadu,520,2600,260.00,"1,300.00"
+August 2016,Tamil Nadu,560,2800,280.00,"1,400.00"
+September 2016,Tamil Nadu,600,3000,300.00,"1,500.00"
+October 2016,Tamil Nadu,640,3200,320.00,"1,600.00"
+November 2016,Tamil Nadu,680,3400,340.00,"1,700.00"
+December 2016,Tamil Nadu,720,3600,360.00,"1,800.00"
+January 2017,Tamil Nadu,760,3800,380.00,"1,900.00"
+February 2017,Tamil Nadu,800,4000,400.00,"2,000.00"
+March 2017,Tamil Nadu,840,4200,420.00,"2,100.00"
+April 2017,Tamil Nadu,880,4400,440.00,"2,200.00"
+May 2017,Tamil Nadu,920,4600,460.00,"2,300.00"
+June 2017,Tamil Nadu,960,4800,480.00,"2,400.00"
+July 2017,Tamil Nadu,1000,5000,500.00,"2,500.00"
+August 2017,Tamil Nadu,1040,5200,520.00,"2,600.00"
+September 2017,Tamil Nadu,1080,5400,540.00,"2,700.00"
+October 2017,Tamil Nadu,1120,5600,560.00,"2,800.00"
+November 2017,Tamil Nadu,1160,5800,580.00,"2,900.00"
+December 2017,Tamil Nadu,1200,6000,600.00,"3,000.00"
+January 2018,Tamil Nadu,1240,6200,620.00,"3,100.00"
+February 2018,Tamil Nadu,1280,6400,640.00,"3,200.00"
+March 2018,Tamil Nadu,1320,6600,660.00,"3,300.00"
+April 2018,Tamil Nadu,1360,6800,680.00,"3,400.00"
+May 2018,Tamil Nadu,1400,7000,700.00,"3,500.00"
+June 2018,Tamil Nadu,1440,7200,720.00,"3,600.00"
+July 2018,Tamil Nadu,1480,7400,740.00,"3,700.00"
+August 2018,Tamil Nadu,1520,7600,760.00,"3,800.00"
+September 2018,Tamil Nadu,1560,7800,780.00,"3,900.00"
+October 2018,Tamil Nadu,1600,8000,800.00,"4,000.00"
+November 2018,Tamil Nadu,1680,8400,840.00,"4,200.00"
+December 2018,Tamil Nadu,1760,8800,880.00,"4,400.00"
+January 2019,Tamil Nadu,1840,9200,920.00,"4,600.00"
+February 2019,Tamil Nadu,1920,9600,960.00,"4,800.00"
+March 2019,Tamil Nadu,2000,10000,"1,000.00","5,000.00"
+April 2019,Tamil Nadu,2080,10400,"1,040.00","5,200.00"
+May 2019,Tamil Nadu,2240,11200,"1,120.00","5,600.00"
+June 2019,Tamil Nadu,2400,12000,"1,200.00","6,000.00"
+July 2019,Tamil Nadu,2560,12800,"1,280.00","6,400.00"
+August 2019,Tamil Nadu,2720,13600,"1,360.00","6,800.00"
+September 2019,Tamil Nadu,2880,14400,"1,440.00","7,200.00"
+October 2019,Tamil Nadu,3040,15200,"1,520.00","7,600.00"
+November 2019,Tamil Nadu,3200,16000,"1,600.00","8,000.00"
+December 2019,Tamil Nadu,3360,16800,"1,680.00","8,400.00"
+January 2020,Tamil Nadu,3520,17600,"1,760.00","8,800.00"
+February 2020,Tamil Nadu,3680,18400,"1,840.00","9,200.00"
+March 2020,Tamil Nadu,3840,19200,"1,920.00","9,600.00"
+April 2020,Tamil Nadu,3920,19600,"1,960.00","9,800.00"
+May 2020,Tamil Nadu,4000,20000,"2,000.00","10,000.00"
+June 2020,Tamil Nadu,4480,22400,"2,240.00","11,200.00"
+July 2020,Tamil Nadu,5120,25600,"2,560.00","12,800.00"
+August 2020,Tamil Nadu,5760,28800,"2,880.00","14,400.00"
+September 2020,Tamil Nadu,6400,32000,"3,200.00","16,000.00"
+October 2020,Tamil Nadu,7040,35200,"3,520.00","17,600.00"
+November 2020,Tamil Nadu,7680,38400,"3,840.00","19,200.00"
+December 2020,Tamil Nadu,8320,41600,"4,160.00","20,800.00"
+January 2021,Tamil Nadu,8960,44800,"4,480.00","22,400.00"
+February 2021,Tamil Nadu,9600,48000,"4,800.00","24,000.00"
+March 2021,Tamil Nadu,10240,51200,"5,120.00","25,600.00"
+April 2021,Tamil Nadu,10692,53136,"5,331.00","26,328.00"
+May 2021,Tamil Nadu,11520,57600,"5,760.00","28,800.00"
+June 2021,Tamil Nadu,12344,61488,"6,149.00","30,720.00"
+July 2021,Tamil Nadu,13152,65136,"6,514.00","32,552.00"
+August 2021,Tamil Nadu,13980,68880,"6,888.00","34,440.00"
+September 2021,Tamil Nadu,14792,72448,"7,247.00","36,192.00"
+October 2021,Tamil Nadu,15616,76224,"7,622.00","37,944.00"
+November 2021,Tamil Nadu,16605,80845,"8,085.00","40,195.00"
+December 2021,Tamil Nadu,17649,85565,"8,557.00","42,601.00"
+January 2022,Tamil Nadu,18668,90216,"9,022.00","44,854.00"
+February 2022,Tamil Nadu,19699,94910,"9,491.00","47,155.00"
+March 2022,Tamil Nadu,20706,99563,"9,956.00","49,410.00"
+April 2022,Tamil Nadu,21727,104268,"10,427.00","51,615.00"
+May 2022,Tamil Nadu,23031,110790,"11,079.00","54,370.00"
+June 2022,Tamil Nadu,25488,122960,"12,296.00","60,120.00"
+July 2022,Tamil Nadu,27978,135290,"13,529.00","65,899.00"
+August 2022,Tamil Nadu,30448,147560,"14,756.00","71,626.00"
+September 2022,Tamil Nadu,32904,159640,"15,964.00","77,304.00"
+October 2022,Tamil Nadu,37376,182240,"18,224.00","87,840.00"
+November 2022,Tamil Nadu,39936,194160,"19,416.00","93,504.00"
+December 2022,Tamil Nadu,42544,206448,"20,645.00","99,408.00"
+January 2023,Tamil Nadu,45096,218304,"21,830.00","105,120.00"
+February 2023,Tamil Nadu,47184,227760,"22,776.00","109,440.00"
+March 2023,Tamil Nadu,49272,237216,"23,722.00","113,760.00"
+April 2023,Tamil Nadu,5136,246672,"24,667.00","118,096.00"
+May 2023,Tamil Nadu,54288,263552,"26,356.00","124,128.00"
+June 2023,Tamil Nadu,60032,291840,"29,184.00","137,760.00"
+July 2023,Tamil Nadu,65792,319760,"31,976.00","151,200.00"
+August 2023,Tamil Nadu,71520,347440,"34,744.00","164,480.00"
+September 2023,Tamil Nadu,77280,375360,"37,536.00","177,760.00"
+October 2023,Tamil Nadu,83040,403280,"40,328.00","191,040.00"
+April 2016,Telangana,150,750,75.00,375.00
+May 2016,Telangana,165,825,82.50,412.50
+June 2016,Telangana,180,900,90.00,450.00
+July 2016,Telangana,195,975,97.50,487.50
+August 2016,Telangana,210,1050,105.00,525.00
+September 2016,Telangana,225,1125,112.50,562.50
+October 2016,Telangana,240,1200,120.00,600.00
+November 2016,Telangana,255,1275,127.50,637.50
+December 2016,Telangana,270,1350,135.00,675.00
+January 2017,Telangana,285,1425,142.50,712.50
+February 2017,Telangana,300,1500,150.00,750.00
+March 2017,Telangana,315,1575,157.50,787.50
+April 2017,Telangana,330,1650,165.00,825.00
+May 2017,Telangana,345,1725,172.50,862.50
+June 2017,Telangana,360,1800,180.00,900.00
+July 2017,Telangana,375,1875,187.50,937.50
+August 2017,Telangana,390,1950,195.00,975.00
+September 2017,Telangana,405,2025,202.50,"1,012.50"
+October 2017,Telangana,420,2100,210.00,"1,050.00"
+November 2017,Telangana,435,2175,217.50,"1,087.50"
+December 2017,Telangana,450,2250,225.00,"1,125.00"
+January 2018,Telangana,465,2325,232.50,"1,162.50"
+February 2018,Telangana,480,2400,240.00,"1,200.00"
+March 2018,Telangana,495,2475,247.50,"1,237.50"
+April 2018,Telangana,510,2550,255.00,"1,275.00"
+May 2018,Telangana,525,2625,262.50,"1,312.50"
+June 2018,Telangana,540,2700,270.00,"1,350.00"
+July 2018,Telangana,555,2775,277.50,"1,387.50"
+August 2018,Telangana,570,2850,285.00,"1,425.00"
+September 2018,Telangana,585,2925,292.50,"1,462.50"
+October 2018,Telangana,600,3000,300.00,"1,500.00"
+November 2018,Telangana,630,3150,315.00,"1,575.00"
+December 2018,Telangana,660,3300,330.00,"1,650.00"
+January 2019,Telangana,690,3450,345.00,"1,725.00"
+February 2019,Telangana,720,3600,360.00,"1,800.00"
+March 2019,Telangana,750,3750,375.00,"1,875.00"
+April 2019,Telangana,780,3900,390.00,"1,950.00"
+May 2019,Telangana,840,4200,420.00,"2,100.00"
+June 2019,Telangana,900,4500,450.00,"2,250.00"
+July 2019,Telangana,960,4800,480.00,"2,400.00"
+August 2019,Telangana,1020,5100,510.00,"2,550.00"
+September 2019,Telangana,1080,5400,540.00,"2,700.00"
+October 2019,Telangana,1140,5700,570.00,"2,850.00"
+November 2019,Telangana,1200,6000,600.00,"3,000.00"
+December 2019,Telangana,1260,6300,630.00,"3,150.00"
+January 2020,Telangana,1320,6600,660.00,"3,300.00"
+February 2020,Telangana,1380,6900,690.00,"3,450.00"
+March 2020,Telangana,1440,7200,720.00,"3,600.00"
+April 2020,Telangana,1470,7350,735.00,"3,675.00"
+May 2020,Telangana,1500,7500,750.00,"3,750.00"
+June 2020,Telangana,1680,8400,840.00,"4,200.00"
+July 2020,Telangana,1920,9600,960.00,"4,800.00"
+August 2020,Telangana,2160,10800,"1,080.00","5,400.00"
+September 2020,Telangana,2400,12000,"1,200.00","6,000.00"
+October 2020,Telangana,2640,13200,"1,320.00","6,600.00"
+November 2020,Telangana,2880,14400,"1,440.00","7,200.00"
+December 2020,Telangana,3120,15600,"1,560.00","7,800.00"
+January 2021,Telangana,3360,16800,"1,680.00","8,400.00"
+February 2021,Telangana,3600,18000,"1,800.00","9,000.00"
+March 2021,Telangana,3840,19200,"1,920.00","9,600.00"
+April 2021,Telangana,3989,20168,"2,052.00","10,032.00"
+May 2021,Telangana,4320,21600,"2,160.00","10,800.00"
+June 2021,Telangana,4656,23040,"2,304.00","11,520.00"
+July 2021,Telangana,4992,24480,"2,448.00","12,240.00"
+August 2021,Telangana,5328,25920,"2,592.00","12,960.00"
+September 2021,Telangana,5664,27360,"2,736.00","13,680.00"
+October 2021,Telangana,6000,28800,"2,880.00","14,400.00"
+November 2021,Telangana,6360,30240,"3,024.00","15,120.00"
+December 2021,Telangana,6720,31680,"3,168.00","15,840.00"
+January 2022,Telangana,7128,33264,"3,384.00","16,704.00"
+February 2022,Telangana,7536,34848,"3,600.00","17,280.00"
+March 2022,Telangana,7944,36432,"3,816.00","17,856.00"
+April 2022,Telangana,8352,38016,"4,032.00","18,432.00"
+May 2022,Telangana,8832,39840,"4,272.00","19,296.00"
+June 2022,Telangana,9792,44160,"4,704.00","21,504.00"
+July 2022,Telangana,10752,48480,"5,136.00","23,712.00"
+August 2022,Telangana,11712,52800,"5,568.00","25,920.00"
+September 2022,Telangana,12672,57120,"6,000.00","28,128.00"
+October 2022,Telangana,14336,64896,"6,720.00","31,680.00"
+November 2022,Telangana,15318,69174,"7,160.00","33,744.00"
+December 2022,Telangana,16344,73920,"7,632.00","36,096.00"
+January 2023,Telangana,17412,78712,"8,064.00","38,304.00"
+February 2023,Telangana,18204,82944,"8,400.00","40,176.00"
+March 2023,Telangana,18996,87176,"8,736.00","42,048.00"
+April 2023,Telangana,19788,91408,"9,072.00","43,920.00"
+May 2023,Telangana,20904,96912,"9,576.00","46,368.00"
+June 2023,Telangana,23136,107520,"10,608.00","51,456.00"
+July 2023,Telangana,25392,118480,"11,648.00","56,688.00"
+August 2023,Telangana,27640,129280,"12,672.00","61,872.00"
+September 2023,Telangana,29856,139920,"13,728.00","67,056.00"
+October 2023,Telangana,32088,150720,"14,784.00","72,240.00"
+April 2016,Tripura,5,25,2.50,12.50
+May 2016,Tripura,5.5,27.5,2.75,13.75
+June 2016,Tripura,6,30,3.00,15.00
+July 2016,Tripura,6.5,32.5,3.25,16.25
+August 2016,Tripura,7,35,3.50,17.50
+September 2016,Tripura,7.5,37.5,3.75,18.75
+October 2016,Tripura,8,40,4.00,20.00
+November 2016,Tripura,8.5,42.5,4.25,21.25
+December 2016,Tripura,9,45,4.50,22.50
+January 2017,Tripura,9.5,47.5,4.75,23.75
+February 2017,Tripura,10,50,5.00,25.00
+March 2017,Tripura,10.5,52.5,5.25,26.25
+April 2017,Tripura,11,55,5.50,27.50
+May 2017,Tripura,11.5,57.5,5.75,28.75
+June 2017,Tripura,12,60,6.00,30.00
+July 2017,Tripura,12.5,62.5,6.25,31.25
+August 2017,Tripura,13,65,6.50,32.50
+September 2017,Tripura,13.5,67.5,6.75,33.75
+October 2017,Tripura,14,70,7.00,35.00
+November 2017,Tripura,14.5,72.5,7.25,36.25
+December 2017,Tripura,15,75,7.50,37.50
+January 2018,Tripura,15.5,77.5,7.75,38.75
+February 2018,Tripura,16,80,8.00,40.00
+March 2018,Tripura,16.5,82.5,8.25,41.25
+April 2018,Tripura,17,85,8.50,42.50
+May 2018,Tripura,17.5,87.5,8.75,43.75
+June 2018,Tripura,18,90,9.00,45.00
+July 2018,Tripura,18.5,92.5,9.25,46.25
+August 2018,Tripura,19,95,9.50,47.50
+September 2018,Tripura,19.5,97.5,9.75,48.75
+October 2018,Tripura,20,100,10.00,50.00
+November 2018,Tripura,21,105,10.50,52.50
+December 2018,Tripura,22,110,11.00,55.00
+January 2019,Tripura,23,115,11.50,57.50
+February 2019,Tripura,24,120,12.00,60.00
+March 2019,Tripura,25,125,12.50,62.50
+April 2019,Tripura,26,130,13.00,65.00
+May 2019,Tripura,28,140,14.00,70.00
+June 2019,Tripura,30,150,15.00,75.00
+July 2019,Tripura,32,160,16.00,80.00
+August 2019,Tripura,34,170,17.00,85.00
+September 2019,Tripura,36,180,18.00,90.00
+October 2019,Tripura,38,190,19.00,95.00
+November 2019,Tripura,40,200,20.00,100.00
+December 2019,Tripura,42,210,21.00,105.00
+January 2020,Tripura,44,220,22.00,110.00
+February 2020,Tripura,46,230,23.00,115.00
+March 2020,Tripura,48,240,24.00,120.00
+April 2020,Tripura,49,245,24.50,122.50
+May 2020,Tripura,50,250,25.00,125.00
+June 2020,Tripura,56,280,28.00,140.00
+July 2020,Tripura,64,320,32.00,160.00
+August 2020,Tripura,72,360,36.00,180.00
+September 2020,Tripura,80,400,40.00,200.00
+October 2020,Tripura,88,440,44.00,220.00
+November 2020,Tripura,96,480,48.00,240.00
+December 2020,Tripura,104,520,52.00,260.00
+January 2021,Tripura,112,560,56.00,280.00
+February 2021,Tripura,120,600,60.00,300.00
+March 2021,Tripura,128,640,64.00,320.00
+April 2021,Tripura,134,672,67.00,336.00
+May 2021,Tripura,144,720,72.00,360.00
+June 2021,Tripura,154,768,77.00,384.00
+July 2021,Tripura,164,816,82.00,408.00
+August 2021,Tripura,174,864,86.00,432.00
+September 2021,Tripura,184,912,91.00,456.00
+October 2021,Tripura,192,960,96.00,480.00
+November 2021,Tripura,202,1008,101.00,504.00
+December 2021,Tripura,212,1056,106.00,528.00
+January 2022,Tripura,228,1128,113.00,564.00
+February 2022,Tripura,240,1200,120.00,600.00
+March 2022,Tripura,252,1272,127.00,636.00
+April 2022,Tripura,264,1344,134.00,672.00
+May 2022,Tripura,280,1416,142.00,712.00
+June 2022,Tripura,304,1520,160.00,800.00
+July 2022,Tripura,336,1672,167.00,840.00
+August 2022,Tripura,368,1824,191.00,960.00
+September 2022,Tripura,400,1976,198.00,992.00
+October 2022,Tripura,448,2240,224.00,"1,120.00"
+November 2022,Tripura,478,2390,239.00,"1,195.00"
+December 2022,Tripura,510,2550,255.00,"1,275.00"
+January 2023,Tripura,542,2710,271.00,"1,355.00"
+February 2023,Tripura,568,2832,283.00,"1,416.00"
+March 2023,Tripura,594,2954,295.00,"1,477.00"
+April 2023,Tripura,620,3076,308.00,"1,538.00"
+May 2023,Tripura,656,3280,328.00,"1,640.00"
+June 2023,Tripura,728,3640,364.00,"1,820.00"
+July 2023,Tripura,800,4000,400.00,"2,000.00"
+August 2023,Tripura,872,4360,436.00,"2,180.00"
+September 2023,Tripura,944,4720,472.00,"2,360.00"
+October 2023,Tripura,1016,5080,508.00,"2,540.00"
+April 2016,Uttar Pradesh,300,1500,150.00,750.00
+May 2016,Uttar Pradesh,330,1650,165.00,825.00
+June 2016,Uttar Pradesh,360,1800,180.00,900.00
+July 2016,Uttar Pradesh,390,1950,195.00,975.00
+August 2016,Uttar Pradesh,420,2100,210.00,"1,050.00"
+September 2016,Uttar Pradesh,450,2250,225.00,"1,125.00"
+October 2016,Uttar Pradesh,480,2400,240.00,"1,200.00"
+November 2016,Uttar Pradesh,510,2550,255.00,"1,275.00"
+December 2016,Uttar Pradesh,540,2700,270.00,"1,350.00"
+January 2017,Uttar Pradesh,570,2850,285.00,"1,425.00"
+February 2017,Uttar Pradesh,600,3000,300.00,"1,500.00"
+March 2017,Uttar Pradesh,630,3150,315.00,"1,575.00"
+April 2017,Uttar Pradesh,660,3300,330.00,"1,650.00"
+May 2017,Uttar Pradesh,690,3450,345.00,"1,725.00"
+June 2017,Uttar Pradesh,720,3600,360.00,"1,800.00"
+July 2017,Uttar Pradesh,750,3750,375.00,"1,875.00"
+August 2017,Uttar Pradesh,780,3900,390.00,"1,950.00"
+September 2017,Uttar Pradesh,810,4050,405.00,"2,025.00"
+October 2017,Uttar Pradesh,840,4200,420.00,"2,100.00"
+November 2017,Uttar Pradesh,870,4350,435.00,"2,175.00"
+December 2017,Uttar Pradesh,900,4500,450.00,"2,250.00"
+January 2018,Uttar Pradesh,930,4650,465.00,"2,325.00"
+February 2018,Uttar Pradesh,960,4800,480.00,"2,400.00"
+March 2018,Uttar Pradesh,990,4950,495.00,"2,475.00"
+April 2018,Uttar Pradesh,1020,5100,510.00,"2,550.00"
+May 2018,Uttar Pradesh,1050,5250,525.00,"2,625.00"
+June 2018,Uttar Pradesh,1080,5400,540.00,"2,700.00"
+July 2018,Uttar Pradesh,1110,5550,555.00,"2,775.00"
+August 2018,Uttar Pradesh,1140,5700,570.00,"2,850.00"
+September 2018,Uttar Pradesh,1170,5850,585.00,"2,925.00"
+October 2018,Uttar Pradesh,1200,6000,600.00,"3,000.00"
+November 2018,Uttar Pradesh,1260,6300,630.00,"3,150.00"
+December 2018,Uttar Pradesh,1320,6600,660.00,"3,300.00"
+January 2019,Uttar Pradesh,1380,6900,690.00,"3,450.00"
+February 2019,Uttar Pradesh,1440,7200,720.00,"3,600.00"
+March 2019,Uttar Pradesh,1500,7500,750.00,"3,750.00"
+April 2019,Uttar Pradesh,1560,7800,780.00,"3,900.00"
+May 2019,Uttar Pradesh,1680,8400,840.00,"4,200.00"
+June 2019,Uttar Pradesh,1800,9000,900.00,"4,500.00"
+July 2019,Uttar Pradesh,1920,9600,960.00,"4,800.00"
+August 2019,Uttar Pradesh,2040,10200,"1,020.00","5,100.00"
+September 2019,Uttar Pradesh,2160,10800,"1,080.00","5,400.00"
+October 2019,Uttar Pradesh,2280,11400,"1,140.00","5,700.00"
+November 2019,Uttar Pradesh,2400,12000,"1,200.00","6,000.00"
+December 2019,Uttar Pradesh,2520,12600,"1,260.00","6,300.00"
+January 2020,Uttar Pradesh,2640,13200,"1,320.00","6,600.00"
+February 2020,Uttar Pradesh,2760,13800,"1,380.00","6,900.00"
+March 2020,Uttar Pradesh,2880,14400,"1,440.00","7,200.00"
+April 2020,Uttar Pradesh,2940,14700,"1,470.00","7,350.00"
+May 2020,Uttar Pradesh,3000,15000,"1,500.00","7,500.00"
+June 2020,Uttar Pradesh,3360,16800,"1,680.00","8,400.00"
+July 2020,Uttar Pradesh,3840,19200,"1,920.00","9,600.00"
+August 2020,Uttar Pradesh,4320,21600,"2,160.00","10,800.00"
+September 2020,Uttar Pradesh,4800,24000,"2,400.00","12,000.00"
+October 2020,Uttar Pradesh,5280,26400,"2,640.00","13,200.00"
+November 2020,Uttar Pradesh,5760,28800,"2,880.00","14,400.00"
+December 2020,Uttar Pradesh,6240,31200,"3,120.00","15,600.00"
+January 2021,Uttar Pradesh,6720,33600,"3,360.00","16,800.00"
+February 2021,Uttar Pradesh,7200,36000,"3,600.00","18,000.00"
+March 2021,Uttar Pradesh,7680,38400,"3,840.00","19,200.00"
+April 2021,Uttar Pradesh,8100,40320,"4,032.00","20,160.00"
+May 2021,Uttar Pradesh,8640,43200,"4,320.00","21,600.00"
+June 2021,Uttar Pradesh,9216,46080,"4,656.00","23,040.00"
+July 2021,Uttar Pradesh,9792,50016,"4,992.00","24,480.00"
+August 2021,Uttar Pradesh,10368,53424,"5,328.00","25,920.00"
+September 2021,Uttar Pradesh,10944,56832,"5,664.00","27,360.00"
+October 2021,Uttar Pradesh,11520,60240,"6,000.00","28,800.00"
+November 2021,Uttar Pradesh,12288,64512,"6,360.00","30,240.00"
+December 2021,Uttar Pradesh,13056,68832,"6,720.00","31,680.00"
+January 2022,Uttar Pradesh,13992,73152,"7,128.00","33,264.00"
+February 2022,Uttar Pradesh,14928,77472,"7,536.00","34,848.00"
+March 2022,Uttar Pradesh,15864,81792,"7,944.00","36,432.00"
+April 2022,Uttar Pradesh,16800,86112,"8,352.00","38,016.00"
+May 2022,Uttar Pradesh,17832,90816,"8,832.00","39,840.00"
+June 2022,Uttar Pradesh,19616,100608,"9,792.00","44,160.00"
+July 2022,Uttar Pradesh,21400,110400,"10,752.00","48,480.00"
+August 2022,Uttar Pradesh,23184,120320,"11,712.00","52,800.00"
+September 2022,Uttar Pradesh,24968,130240,"12,672.00","57,120.00"
+October 2022,Uttar Pradesh,28224,148800,"14,336.00","64,896.00"
+November 2022,Uttar Pradesh,30408,159360,"15,342.00","69,312.00"
+December 2022,Uttar Pradesh,32640,170400,"16,380.00","73,968.00"
+January 2023,Uttar Pradesh,34800,181600,"17,448.00","78,624.00"
+February 2023,Uttar Pradesh,36360,190400,"18,204.00","82,080.00"
+March 2023,Uttar Pradesh,37920,199200,"18,960.00","85,536.00"
+April 2023,Uttar Pradesh,39480,208000,"19,716.00","88,992.00"
+May 2023,Uttar Pradesh,41760,220800,"20,808.00","93,696.00"
+June 2023,Uttar Pradesh,46128,244800,"23,040.00","103,680.00"
+July 2023,Uttar Pradesh,50496,266800,"25,272.00","113,664.00"
+August 2023,Uttar Pradesh,54864,290400,"27,504.00","123,648.00"
+September 2023,Uttar Pradesh,59232,314000,"29,736.00","133,632.00"
+October 2023,Uttar Pradesh,63600,338000,"31,968.00","143,616.00"
+April 2016,Uttarakhand,20,100,10.00,50.00
+May 2016,Uttarakhand,22,110,11.00,55.00
+June 2016,Uttarakhand,24,120,12.00,60.00
+July 2016,Uttarakhand,26,130,13.00,65.00
+August 2016,Uttarakhand,28,140,14.00,70.00
+September 2016,Uttarakhand,30,150,15.00,75.00
+October 2016,Uttarakhand,32,160,16.00,80.00
+November 2016,Uttarakhand,34,170,17.00,85.00
+December 2016,Uttarakhand,36,180,18.00,90.00
+January 2017,Uttarakhand,38,190,19.00,95.00
+February 2017,Uttarakhand,40,200,20.00,100.00
+March 2017,Uttarakhand,42,210,21.00,105.00
+April 2017,Uttarakhand,44,220,22.00,110.00
+May 2017,Uttarakhand,46,230,23.00,115.00
+June 2017,Uttarakhand,48,240,24.00,120.00
+July 2017,Uttarakhand,50,250,25.00,125.00
+August 2017,Uttarakhand,52,260,26.00,130.00
+September 2017,Uttarakhand,54,270,27.00,135.00
+October 2017,Uttarakhand,56,280,28.00,140.00
+November 2017,Uttarakhand,58,290,29.00,145.00
+December 2017,Uttarakhand,60,300,30.00,150.00
+January 2018,Uttarakhand,62,310,31.00,155.00
+February 2018,Uttarakhand,64,320,32.00,160.00
+March 2018,Uttarakhand,66,330,33.00,165.00
+April 2018,Uttarakhand,68,340,34.00,170.00
+May 2018,Uttarakhand,70,350,35.00,175.00
+June 2018,Uttarakhand,72,360,36.00,180.00
+July 2018,Uttarakhand,74,370,37.00,185.00
+August 2018,Uttarakhand,76,380,38.00,190.00
+September 2018,Uttarakhand,78,390,39.00,195.00
+October 2018,Uttarakhand,80,400,40.00,200.00
+November 2018,Uttarakhand,84,420,42.00,210.00
+December 2018,Uttarakhand,88,440,44.00,220.00
+January 2019,Uttarakhand,92,460,46.00,230.00
+February 2019,Uttarakhand,96,480,48.00,240.00
+March 2019,Uttarakhand,100,500,50.00,250.00
+April 2019,Uttarakhand,104,520,52.00,260.00
+May 2019,Uttarakhand,112,560,56.00,280.00
+June 2019,Uttarakhand,120,600,60.00,300.00
+July 2019,Uttarakhand,128,640,64.00,320.00
+August 2019,Uttarakhand,136,680,68.00,340.00
+September 2019,Uttarakhand,144,720,72.00,360.00
+October 2019,Uttarakhand,152,760,76.00,380.00
+November 2019,Uttarakhand,160,800,80.00,400.00
+December 2019,Uttarakhand,168,840,84.00,420.00
+January 2020,Uttarakhand,176,880,88.00,440.00
+February 2020,Uttarakhand,184,920,92.00,460.00
+March 2020,Uttarakhand,192,960,96.00,480.00
+April 2020,Uttarakhand,196,980,98.00,490.00
+May 2020,Uttarakhand,200,1000,100.00,500.00
+June 2020,Uttarakhand,224,1120,112.00,560.00
+July 2020,Uttarakhand,256,1280,128.00,640.00
+August 2020,Uttarakhand,288,1440,144.00,720.00
+September 2020,Uttarakhand,320,1600,160.00,800.00
+October 2020,Uttarakhand,352,1760,176.00,880.00
+November 2020,Uttarakhand,384,1920,192.00,960.00
+December 2020,Uttarakhand,416,2080,208.00,"1,040.00"
+January 2021,Uttarakhand,448,2240,224.00,"1,120.00"
+February 2021,Uttarakhand,480,2400,240.00,"1,200.00"
+March 2021,Uttarakhand,512,2560,256.00,"1,280.00"
+April 2021,Uttarakhand,537,2657,269.00,"1,337.00"
+May 2021,Uttarakhand,576,2880,288.00,"1,440.00"
+June 2021,Uttarakhand,615,3103,309.00,"1,549.00"
+July 2021,Uttarakhand,654,3326,330.00,"1,658.00"
+August 2021,Uttarakhand,693,3549,351.00,"1,767.00"
+September 2021,Uttarakhand,732,3772,372.00,"1,876.00"
+October 2021,Uttarakhand,771,3995,393.00,"1,985.00"
+November 2021,Uttarakhand,822,4257,417.00,"2,118.00"
+December 2021,Uttarakhand,879,4560,444.00,"2,274.00"
+January 2022,Uttarakhand,936,4863,471.00,"2,430.00"
+February 2022,Uttarakhand,993,5166,498.00,"2,586.00"
+March 2022,Uttarakhand,1050,5469,525.00,"2,742.00"
+April 2022,Uttarakhand,1107,5772,552.00,"2,898.00"
+May 2022,Uttarakhand,1170,6132,584.00,"3,072.00"
+June 2022,Uttarakhand,1296,6804,648.00,"3,408.00"
+July 2022,Uttarakhand,1422,7476,712.00,"3,744.00"
+August 2022,Uttarakhand,1548,8148,776.00,"4,080.00"
+September 2022,Uttarakhand,1674,8820,840.00,"4,416.00"
+October 2022,Uttarakhand,1890,10000,945.00,"5,000.00"
+November 2022,Uttarakhand,2025,10700,"1,010.00","5,350.00"
+December 2022,Uttarakhand,2175,11500,"1,085.00","5,775.00"
+January 2023,Uttarakhand,2325,12300,"1,160.00","6,200.00"
+February 2023,Uttarakhand,2430,12860,"1,213.00","6,471.00"
+March 2023,Uttarakhand,2535,13420,"1,266.00","6,742.00"
+April 2023,Uttarakhand,2640,13980,"1,319.00","7,013.00"
+May 2023,Uttarakhand,2790,14790,"1,394.00","7,414.00"
+June 2023,Uttarakhand,3090,16410,"1,548.00","8,256.00"
+July 2023,Uttarakhand,3390,18030,"1,702.00","9,098.00"
+August 2023,Uttarakhand,3690,19650,"1,856.00","9,940.00"
+September 2023,Uttarakhand,3990,21270,"2,010.00","10,782.00"
+October 2023,Uttarakhand,4290,22890,"2,164.00","11,624.00"
+April 2016,West Bengal,200,1000,100.00,500.00
+May 2016,West Bengal,220,1100,110.00,550.00
+June 2016,West Bengal,240,1200,120.00,600.00
+July 2016,West Bengal,260,1300,130.00,650.00
+August 2016,West Bengal,280,1400,140.00,700.00
+September 2016,West Bengal,300,1500,150.00,750.00
+October 2016,West Bengal,320,1600,160.00,800.00
+November 2016,West Bengal,340,1700,170.00,850.00
+December 2016,West Bengal,360,1800,180.00,900.00
+January 2017,West Bengal,380,1900,190.00,950.00
+February 2017,West Bengal,400,2000,200.00,"1,000.00"
+March 2017,West Bengal,420,2100,210.00,"1,050.00"
+April 2017,West Bengal,440,2200,220.00,"1,100.00"
+May 2017,West Bengal,460,2300,230.00,"1,150.00"
+June 2017,West Bengal,480,2400,240.00,"1,200.00"
+July 2017,West Bengal,500,2500,250.00,"1,250.00"
+August 2017,West Bengal,520,2600,260.00,"1,300.00"
+September 2017,West Bengal,540,2700,270.00,"1,350.00"
+October 2017,West Bengal,560,2800,280.00,"1,400.00"
+November 2017,West Bengal,580,2900,290.00,"1,450.00"
+December 2017,West Bengal,600,3000,300.00,"1,500.00"
+January 2018,West Bengal,620,3100,310.00,"1,550.00"
+February 2018,West Bengal,640,3200,320.00,"1,600.00"
+March 2018,West Bengal,660,3300,330.00,"1,650.00"
+April 2018,West Bengal,680,3400,340.00,"1,700.00"
+May 2018,West Bengal,700,3500,350.00,"1,750.00"
+June 2018,West Bengal,720,3600,360.00,"1,800.00"
+July 2018,West Bengal,740,3700,370.00,"1,850.00"
+August 2018,West Bengal,760,3800,380.00,"1,900.00"
+September 2018,West Bengal,780,3900,390.00,"1,950.00"
+October 2018,West Bengal,800,4000,400.00,"2,000.00"
+November 2018,West Bengal,850,4250,425.00,"2,125.00"
+December 2018,West Bengal,900,4500,450.00,"2,250.00"
+January 2019,West Bengal,950,4750,475.00,"2,375.00"
+February 2019,West Bengal,1000,5000,500.00,"2,500.00"
+March 2019,West Bengal,1050,5250,525.00,"2,625.00"
+April 2019,West Bengal,1100,5500,550.00,"2,750.00"
+May 2019,West Bengal,1200,6000,600.00,"3,000.00"
+June 2019,West Bengal,1300,6500,650.00,"3,250.00"
+July 2019,West Bengal,1400,7000,700.00,"3,500.00"
+August 2019,West Bengal,1500,7500,750.00,"3,750.00"
+September 2019,West Bengal,1600,8000,800.00,"4,000.00"
+October 2019,West Bengal,1700,8500,850.00,"4,250.00"
+November 2019,West Bengal,1800,9000,900.00,"4,500.00"
+December 2019,West Bengal,1900,9500,950.00,"4,750.00"
+January 2020,West Bengal,2000,10000,"1,000.00","5,000.00"
+February 2020,West Bengal,2100,10500,"1,050.00","5,250.00"
+March 2020,West Bengal,2200,11000,"1,100.00","5,500.00"
+April 2020,West Bengal,2250,11250,"1,125.00","5,625.00"
+May 2020,West Bengal,2300,11500,"1,150.00","5,750.00"
+June 2020,West Bengal,2600,13000,"1,300.00","6,500.00"
+July 2020,West Bengal,2900,14500,"1,450.00","7,250.00"
+August 2020,West Bengal,3200,16000,"1,600.00","8,000.00"
+September 2020,West Bengal,3500,17500,"1,750.00","8,750.00"
+October 2020,West Bengal,3800,19000,"1,900.00","9,500.00"
+November 2020,West Bengal,4100,20500,"2,100.00","10,250.00"
+December 2020,West Bengal,4400,22000,"2,300.00","11,000.00"
+January 2021,West Bengal,4700,23500,"2,400.00","11,750.00"
+February 2021,West Bengal,5000,25000,"2,500.00","12,500.00"
+March 2021,West Bengal,5300,26500,"2,600.00","13,250.00"
+April 2021,West Bengal,5600,27840,"2,736.00","13,632.00"
+May 2021,West Bengal,6000,30000,"2,880.00","14,400.00"
+June 2021,West Bengal,6400,32000,"3,072.00","15,360.00"
+July 2021,West Bengal,6800,34000,"3,264.00","16,320.00"
+August 2021,West Bengal,7200,36000,"3,456.00","17,280.00"
+September 2021,West Bengal,7600,38000,"3,648.00","18,240.00"
+October 2021,West Bengal,8000,40000,"3,840.00","19,200.00"
+November 2021,West Bengal,8500,42500,"4,032.00","20,160.00"
+December 2021,West Bengal,9000,45000,"4,224.00","21,120.00"
+January 2022,West Bengal,9500,47500,"4,464.00","22,320.00"
+February 2022,West Bengal,10000,50000,"4,704.00","23,520.00"
+March 2022,West Bengal,10500,52500,"4,944.00","24,720.00"
+April 2022,West Bengal,11000,55000,"5,184.00","25,920.00"
+May 2022,West Bengal,11700,58500,"5,472.00","27,360.00"
+June 2022,West Bengal,13000,65000,"6,080.00","30,400.00"
+July 2022,West Bengal,14500,71500,"6,688.00","33,420.00"
+August 2022,West Bengal,16000,80000,"7,296.00","36,480.00"
+September 2022,West Bengal,17500,85000,"7,904.00","39,520.00"
+October 2022,West Bengal,20000,100000,"8,960.00","44,800.00"
+November 2022,West Bengal,21500,107000,"9,568.00","47,890.00"
+December 2022,West Bengal,23000,115000,"10,320.00","51,200.00"
+January 2023,West Bengal,25500,127500,"11,370.00","56,370.00"
+February 2023,West Bengal,27000,135000,"12,100.00","60,600.00"
+March 2023,West Bengal,28500,142500,"12,830.00","64,830.00"
+April 2023,West Bengal,30000,150000,"13,560.00","69,060.00"
+May 2023,West Bengal,31500,157500,"14,256.00","72,640.00"
+June 2023,West Bengal,35000,175000,"15,840.00","80,720.00"
+July 2023,West Bengal,40000,200000,"17,920.00","89,600.00"
+August 2023,West Bengal,45000,225000,"20,000.00","100,000.00"
+September 2023,West Bengal,50000,250000,"22,080.00","110,400.00"
+October 2023,West Bengal,55000,275000,"24,160.00","120,800.00"
